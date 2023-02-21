@@ -1,0 +1,300 @@
+
+salatuojia.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 628, 29
+  size: 75, 71
+  orig: 75, 71
+  offset: 0, 0
+  index: -1
+body_w
+  rotate: false
+  xy: 562, 26
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+daimao
+  rotate: true
+  xy: 707, 101
+  size: 90, 55
+  orig: 90, 55
+  offset: 0, 0
+  index: -1
+eye_L1
+  rotate: false
+  xy: 853, 91
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+eye_L2
+  rotate: true
+  xy: 609, 38
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+eye_L3
+  rotate: false
+  xy: 461, 107
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+eye_L4
+  rotate: false
+  xy: 982, 60
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+eye_R1
+  rotate: false
+  xy: 982, 86
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+eye_R2
+  rotate: false
+  xy: 690, 2
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+eye_R3
+  rotate: true
+  xy: 853, 63
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_R4
+  rotate: true
+  xy: 666, 2
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 152, 116
+  size: 135, 138
+  orig: 135, 138
+  offset: 0, 0
+  index: -1
+flag_1
+  rotate: false
+  xy: 2, 9
+  size: 113, 98
+  orig: 113, 98
+  offset: 0, 0
+  index: -1
+flag_2
+  rotate: false
+  xy: 289, 194
+  size: 209, 60
+  orig: 209, 60
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: false
+  xy: 776, 129
+  size: 129, 125
+  orig: 129, 125
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: true
+  xy: 500, 76
+  size: 123, 126
+  orig: 123, 126
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: true
+  xy: 500, 201
+  size: 53, 142
+  orig: 53, 142
+  offset: 0, 0
+  index: -1
+hair_L2
+  rotate: false
+  xy: 971, 123
+  size: 46, 131
+  orig: 46, 131
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 907, 128
+  size: 62, 126
+  orig: 62, 126
+  offset: 0, 0
+  index: -1
+hair_R2
+  rotate: true
+  xy: 644, 193
+  size: 61, 130
+  orig: 61, 130
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 461, 137
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+hand_L_kai
+  rotate: false
+  xy: 430, 38
+  size: 44, 66
+  orig: 44, 66
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 328, 2
+  size: 34, 63
+  orig: 34, 63
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 117, 2
+  size: 102, 64
+  orig: 102, 64
+  offset: 0, 0
+  index: -1
+hudiejie_L
+  rotate: false
+  xy: 764, 25
+  size: 83, 58
+  orig: 83, 58
+  offset: 0, 0
+  index: -1
+hudiejie_R
+  rotate: true
+  xy: 705, 21
+  size: 78, 57
+  orig: 78, 57
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 393, 12
+  size: 24, 56
+  orig: 24, 56
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: true
+  xy: 890, 20
+  size: 24, 56
+  orig: 24, 56
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 609, 2
+  size: 25, 55
+  orig: 25, 55
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 955, 66
+  size: 25, 55
+  orig: 25, 55
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: true
+  xy: 262, 2
+  size: 102, 64
+  orig: 102, 64
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: true
+  xy: 893, 46
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+meimao_4
+  rotate: false
+  xy: 328, 38
+  size: 100, 66
+  orig: 100, 66
+  offset: 0, 0
+  index: -1
+paopao1
+  rotate: false
+  xy: 289, 106
+  size: 170, 86
+  orig: 170, 86
+  offset: 0, 0
+  index: -1
+pifeng_2
+  rotate: true
+  xy: 183, 6
+  size: 108, 77
+  orig: 108, 77
+  offset: 0, 0
+  index: -1
+pifeng_L
+  rotate: false
+  xy: 628, 102
+  size: 77, 89
+  orig: 77, 89
+  offset: 0, 0
+  index: -1
+pifeng_R
+  rotate: true
+  xy: 764, 85
+  size: 42, 87
+  orig: 42, 87
+  offset: 0, 0
+  index: -1
+quanzhang
+  rotate: false
+  xy: 2, 109
+  size: 148, 145
+  orig: 148, 145
+  offset: 0, 0
+  index: -1
+sleep4
+  rotate: false
+  xy: 476, 24
+  size: 84, 50
+  orig: 84, 50
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 451, 17
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+tie
+  rotate: false
+  xy: 849, 26
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+yiling_R
+  rotate: false
+  xy: 476, 79
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1

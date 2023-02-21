@@ -1,0 +1,132 @@
+
+chess_ximu.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-1
+  rotate: false
+  xy: 421, 590
+  size: 441, 425
+  orig: 441, 425
+  offset: 0, 0
+  index: -1
+1-2
+  rotate: false
+  xy: 1307, 639
+  size: 404, 376
+  orig: 404, 376
+  offset: 0, 0
+  index: -1
+1-3
+  rotate: false
+  xy: 2, 38
+  size: 403, 406
+  orig: 403, 406
+  offset: 0, 0
+  index: -1
+1-4
+  rotate: false
+  xy: 864, 590
+  size: 441, 425
+  orig: 441, 425
+  offset: 0, 0
+  index: -1
+1-5
+  rotate: false
+  xy: 421, 212
+  size: 404, 376
+  orig: 404, 376
+  offset: 0, 0
+  index: -1
+2-1
+  rotate: true
+  xy: 1713, 643
+  size: 372, 275
+  orig: 372, 275
+  offset: 0, 0
+  index: -1
+2-2
+  rotate: true
+  xy: 1493, 265
+  size: 372, 255
+  orig: 372, 255
+  offset: 0, 0
+  index: -1
+2-3
+  rotate: false
+  xy: 827, 248
+  size: 387, 340
+  orig: 387, 340
+  offset: 0, 0
+  index: -1
+2-4
+  rotate: true
+  xy: 1216, 216
+  size: 372, 275
+  orig: 372, 275
+  offset: 0, 0
+  index: -1
+2-5
+  rotate: true
+  xy: 1750, 269
+  size: 372, 255
+  orig: 372, 255
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 539, 128
+  size: 103, 82
+  orig: 103, 82
+  offset: 0, 0
+  index: -1
+chuan
+  rotate: false
+  xy: 2, 446
+  size: 417, 569
+  orig: 417, 569
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 407, 133
+  size: 130, 77
+  orig: 130, 77
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 407, 50
+  size: 125, 81
+  orig: 125, 81
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1493, 2
+  size: 261, 304
+  orig: 261, 304
+  offset: 0, 0
+  index: -1
+hair_b
+  rotate: false
+  xy: 1307, 598
+  size: 114, 39
+  orig: 114, 39
+  offset: 0, 0
+  index: -1
+qi1
+  rotate: false
+  xy: 1897, 97
+  size: 90, 170
+  orig: 90, 170
+  offset: 0, 0
+  index: -1
+qi2
+  rotate: false
+  xy: 1799, 90
+  size: 96, 177
+  orig: 96, 177
+  offset: 0, 0
+  index: -1
