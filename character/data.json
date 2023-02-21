@@ -1,5 +1,5 @@
-{
-    "gin": {
+[
+    {
         "code": "gin",
         "name": "泛用型布里",
         "avatar": "gin.png",
@@ -28,7 +28,7 @@
             }
         ]
     },
-    "kin": {
+    {
         "code": "kin",
         "name": "试作型布里MKII",
         "avatar": "kin.png",
@@ -43,7 +43,7 @@
             }
         ]
     },
-    "buli_super": {
+    {
         "code": "buli_super",
         "name": "特装型布里MKIII",
         "avatar": "buli_super.png",
@@ -65,7 +65,7 @@
             }
         ]
     },
-    "duwei": {
+    {
         "code": "duwei",
         "name": "杜威",
         "avatar": "duwei.png",
@@ -114,7 +114,7 @@
             }
         ]
     },
-    "kaxin": {
+    {
         "code": "kaxin",
         "name": "卡辛",
         "avatar": "kaxin.png",
@@ -150,7 +150,7 @@
             }
         ]
     },
-    "tangsi": {
+    {
         "code": "tangsi",
         "name": "唐斯",
         "avatar": "tangsi.png",
@@ -184,7 +184,7 @@
             }
         ]
     },
-    "gelideli": {
+    {
         "code": "gelideli",
         "name": "格里德利",
         "avatar": "gelideli.png",
@@ -205,7 +205,7 @@
             }
         ]
     },
-    "keleiwen": {
+    {
         "code": "keleiwen",
         "name": "克雷文",
         "avatar": "keleiwen.png",
@@ -226,7 +226,7 @@
             }
         ]
     },
-    "maikaoer": {
+    {
         "code": "maikaoer",
         "name": "麦考尔",
         "avatar": "maikaoer.png",
@@ -241,7 +241,7 @@
             }
         ]
     },
-    "moli": {
+    {
         "code": "moli",
         "name": "莫里",
         "avatar": "moli.png",
@@ -256,7 +256,7 @@
             }
         ]
     },
-    "fulaiche": {
+    {
         "code": "fulaiche",
         "name": "弗莱彻",
         "avatar": "fulaiche.png",
@@ -271,7 +271,7 @@
             }
         ]
     },
-    "aosiben": {
+    {
         "code": "aosiben",
         "name": "查尔斯·奥斯本",
         "avatar": "aosiben.png",
@@ -301,7 +301,7 @@
             }
         ]
     },
-    "saqieer": {
+    {
         "code": "saqieer",
         "name": "撒切尔",
         "avatar": "saqieer.png",
@@ -316,7 +316,7 @@
             }
         ]
     },
-    "aolike": {
+    {
         "code": "aolike",
         "name": "奥利克",
         "avatar": "aolike.png",
@@ -331,7 +331,7 @@
             }
         ]
     },
-    "fute": {
+    {
         "code": "fute",
         "name": "富特",
         "avatar": "fute.png",
@@ -346,7 +346,7 @@
             }
         ]
     },
-    "sipengsi": {
+    {
         "code": "sipengsi",
         "name": "斯彭斯",
         "avatar": "sipengsi.png",
@@ -361,7 +361,7 @@
             }
         ]
     },
-    "bensen": {
+    {
         "code": "bensen",
         "name": "本森",
         "avatar": "bensen.png",
@@ -389,7 +389,7 @@
             }
         ]
     },
-    "lafei": {
+    {
         "code": "lafei",
         "name": "拉菲",
         "avatar": "lafei.png",
@@ -536,7 +536,7 @@
             }
         ]
     },
-    "ximusi": {
+    {
         "code": "ximusi",
         "name": "西姆斯",
         "avatar": "ximusi.png",
@@ -563,7 +563,7 @@
             }
         ]
     },
-    "haman": {
+    {
         "code": "haman",
         "name": "哈曼",
         "avatar": "haman.png",
@@ -637,7 +637,7 @@
             }
         ]
     },
-    "aierdeliqi": {
+    {
         "code": "aierdeliqi",
         "name": "埃尔德里奇",
         "avatar": "aierdeliqi.png",
@@ -708,7 +708,7 @@
             }
         ]
     },
-    "beili": {
+    {
         "code": "beili",
         "name": "贝利",
         "avatar": "beili.png",
@@ -754,7 +754,7 @@
             }
         ]
     },
-    "ladefute": {
+    {
         "code": "ladefute",
         "name": "拉德福特",
         "avatar": "ladefute.png",
@@ -781,7 +781,7 @@
             }
         ]
     },
-    "jiejinsi": {
+    {
         "code": "jiejinsi",
         "name": "杰金斯",
         "avatar": "jiejinsi.png",
@@ -811,7 +811,7 @@
             }
         ]
     },
-    "nigulasi": {
+    {
         "code": "nigulasi",
         "name": "尼古拉斯",
         "avatar": "nigulasi.png",
@@ -888,7 +888,7 @@
             }
         ]
     },
-    "bushi": {
+    {
         "code": "bushi",
         "name": "布什",
         "avatar": "bushi.png",
@@ -920,7 +920,7 @@
             }
         ]
     },
-    "heizewude": {
+    {
         "code": "heizewude",
         "name": "黑泽伍德",
         "avatar": "heizewude.png",
@@ -940,7 +940,7 @@
             }
         ]
     },
-    "beiqi": {
+    {
         "code": "beiqi",
         "name": "贝奇",
         "avatar": "beiqi.png",
@@ -982,7 +982,7 @@
             }
         ]
     },
-    "huobi": {
+    {
         "code": "huobi",
         "name": "霍比",
         "avatar": "huobi.png",
@@ -1015,7 +1015,7 @@
             }
         ]
     },
-    "keerke": {
+    {
         "code": "keerke",
         "name": "科尔克",
         "avatar": "keerke.png",
@@ -1048,7 +1048,7 @@
             }
         ]
     },
-    "jinboli": {
+    {
         "code": "jinboli",
         "name": "金伯利",
         "avatar": "jinboli.png",
@@ -1085,7 +1085,7 @@
             }
         ]
     },
-    "malani": {
+    {
         "code": "malani",
         "name": "马拉尼",
         "avatar": "malani.png",
@@ -1122,7 +1122,7 @@
             }
         ]
     },
-    "aierwen": {
+    {
         "code": "aierwen",
         "name": "艾尔温",
         "avatar": "aierwen.png",
@@ -1157,7 +1157,7 @@
             }
         ]
     },
-    "sitanli": {
+    {
         "code": "sitanli",
         "name": "斯坦利",
         "avatar": "sitanli.png",
@@ -1179,7 +1179,7 @@
             }
         ]
     },
-    "simoli": {
+    {
         "code": "simoli",
         "name": "斯莫利",
         "avatar": "simoli.png",
@@ -1215,7 +1215,7 @@
             }
         ]
     },
-    "haerxibaoweier": {
+    {
         "code": "haerxibaoweier",
         "name": "哈尔西·鲍威尔",
         "avatar": "haerxibaoweier.png",
@@ -1252,7 +1252,7 @@
             }
         ]
     },
-    "kubo": {
+    {
         "code": "kubo",
         "name": "库珀",
         "avatar": "kubo.png",
@@ -1304,7 +1304,7 @@
             }
         ]
     },
-    "ailunsamuna": {
+    {
         "code": "ailunsamuna",
         "name": "艾伦·萨姆纳",
         "avatar": "ailunsamuna.png",
@@ -1342,7 +1342,7 @@
             }
         ]
     },
-    "shidifenbote": {
+    {
         "code": "shidifenbote",
         "name": "史蒂芬·波特",
         "avatar": "shidifenbote.png",
@@ -1383,7 +1383,7 @@
             }
         ]
     },
-    "molisen": {
+    {
         "code": "molisen",
         "name": "莫里森",
         "avatar": "molisen.png",
@@ -1418,7 +1418,7 @@
             }
         ]
     },
-    "yinggelahan": {
+    {
         "code": "yinggelahan",
         "name": "英格拉罕",
         "avatar": "yinggelahan.png",
@@ -1457,7 +1457,7 @@
             }
         ]
     },
-    "bulisituoer": {
+    {
         "code": "bulisituoer",
         "name": "布里斯托尔",
         "avatar": "bulisituoer.png",
@@ -1497,7 +1497,7 @@
             }
         ]
     },
-    "hamanii": {
+    {
         "code": "hamanii",
         "name": "哈曼II",
         "avatar": "hamanii.png",
@@ -1534,7 +1534,7 @@
             }
         ]
     },
-    "aomaha": {
+    {
         "code": "aomaha",
         "name": "奥马哈",
         "avatar": "aomaha.png",
@@ -1549,7 +1549,7 @@
             }
         ]
     },
-    "luoli": {
+    {
         "code": "luoli",
         "name": "罗利",
         "avatar": "luoli.png",
@@ -1564,7 +1564,7 @@
             }
         ]
     },
-    "bulukelin": {
+    {
         "code": "bulukelin",
         "name": "布鲁克林",
         "avatar": "bulukelin.png",
@@ -1579,7 +1579,7 @@
             }
         ]
     },
-    "feinikesi": {
+    {
         "code": "feinikesi",
         "name": "菲尼克斯",
         "avatar": "feinikesi.png",
@@ -1594,7 +1594,7 @@
             }
         ]
     },
-    "hailunna": {
+    {
         "code": "hailunna",
         "name": "海伦娜",
         "avatar": "hailunna.png",
@@ -1668,7 +1668,7 @@
             }
         ]
     },
-    "yatelanda": {
+    {
         "code": "yatelanda",
         "name": "亚特兰大",
         "avatar": "yatelanda.png",
@@ -1683,7 +1683,7 @@
             }
         ]
     },
-    "zhunuo": {
+    {
         "code": "zhunuo",
         "name": "朱诺",
         "avatar": "zhunuo.png",
@@ -1730,7 +1730,7 @@
             }
         ]
     },
-    "shengdiyage": {
+    {
         "code": "shengdiyage",
         "name": "圣地亚哥",
         "avatar": "shengdiyage.png",
@@ -1773,7 +1773,7 @@
             }
         ]
     },
-    "kelifulan": {
+    {
         "code": "kelifulan",
         "name": "克利夫兰",
         "avatar": "kelifulan.png",
@@ -1858,7 +1858,7 @@
             }
         ]
     },
-    "gelunbiya": {
+    {
         "code": "gelunbiya",
         "name": "哥伦比亚",
         "avatar": "gelunbiya.png",
@@ -1910,7 +1910,7 @@
             }
         ]
     },
-    "lishiman": {
+    {
         "code": "lishiman",
         "name": "里士满",
         "avatar": "lishiman.png",
@@ -1925,7 +1925,7 @@
             }
         ]
     },
-    "huonululu": {
+    {
         "code": "huonululu",
         "name": "火奴鲁鲁",
         "avatar": "huonululu.png",
@@ -1982,7 +1982,7 @@
             }
         ]
     },
-    "shengluyisi": {
+    {
         "code": "shengluyisi",
         "name": "圣路易斯",
         "avatar": "shengluyisi.png",
@@ -2032,7 +2032,7 @@
             }
         ]
     },
-    "mengbiliai": {
+    {
         "code": "mengbiliai",
         "name": "蒙彼利埃",
         "avatar": "mengbiliai.png",
@@ -2072,7 +2072,7 @@
             }
         ]
     },
-    "danfo": {
+    {
         "code": "danfo",
         "name": "丹佛",
         "avatar": "danfo.png",
@@ -2087,7 +2087,7 @@
             }
         ]
     },
-    "mengfeisi": {
+    {
         "code": "mengfeisi",
         "name": "孟菲斯",
         "avatar": "mengfeisi.png",
@@ -2150,7 +2150,7 @@
             }
         ]
     },
-    "kangkede": {
+    {
         "code": "kangkede",
         "name": "康克德",
         "avatar": "kangkede.png",
@@ -2204,7 +2204,7 @@
             }
         ]
     },
-    "hailunna_younv": {
+    {
         "code": "hailunna_younv",
         "name": "小海伦娜",
         "avatar": "hailunna_younv.png",
@@ -2226,7 +2226,7 @@
             }
         ]
     },
-    "kelifulan_younv": {
+    {
         "code": "kelifulan_younv",
         "name": "小克利夫兰",
         "avatar": "kelifulan_younv.png",
@@ -2247,7 +2247,7 @@
             }
         ]
     },
-    "shengdiyage_younv": {
+    {
         "code": "shengdiyage_younv",
         "name": "小圣地亚哥",
         "avatar": "shengdiyage_younv.png",
@@ -2269,7 +2269,7 @@
             }
         ]
     },
-    "shenghuan": {
+    {
         "code": "shenghuan",
         "name": "圣胡安",
         "avatar": "shenghuan.png",
@@ -2305,7 +2305,7 @@
             }
         ]
     },
-    "bominghan": {
+    {
         "code": "bominghan",
         "name": "伯明翰",
         "avatar": "bominghan.png",
@@ -2366,7 +2366,7 @@
             }
         ]
     },
-    "kelifulan_idol": {
+    {
         "code": "kelifulan_idol",
         "name": "克利夫兰(μ兵装)",
         "avatar": "kelifulan_idol.png",
@@ -2388,7 +2388,7 @@
             }
         ]
     },
-    "biluokexi": {
+    {
         "code": "biluokexi",
         "name": "比洛克西",
         "avatar": "biluokexi.png",
@@ -2462,7 +2462,7 @@
             }
         ]
     },
-    "linuo": {
+    {
         "code": "linuo",
         "name": "里诺",
         "avatar": "linuo.png",
@@ -2534,7 +2534,7 @@
             }
         ]
     },
-    "mabuerheide": {
+    {
         "code": "mabuerheide",
         "name": "马布尔黑德",
         "avatar": "mabuerheide.png",
@@ -2602,7 +2602,7 @@
             }
         ]
     },
-    "boyixi": {
+    {
         "code": "boyixi",
         "name": "博伊西",
         "avatar": "boyixi.png",
@@ -2672,7 +2672,7 @@
             }
         ]
     },
-    "pengsakela": {
+    {
         "code": "pengsakela",
         "name": "彭萨科拉",
         "avatar": "pengsakela.png",
@@ -2687,7 +2687,7 @@
             }
         ]
     },
-    "yanhucheng": {
+    {
         "code": "yanhucheng",
         "name": "盐湖城",
         "avatar": "yanhucheng.png",
@@ -2702,7 +2702,7 @@
             }
         ]
     },
-    "beianpudun": {
+    {
         "code": "beianpudun",
         "name": "北安普敦",
         "avatar": "beianpudun.png",
@@ -2717,7 +2717,7 @@
             }
         ]
     },
-    "zhijiage": {
+    {
         "code": "zhijiage",
         "name": "芝加哥",
         "avatar": "zhijiage.png",
@@ -2732,7 +2732,7 @@
             }
         ]
     },
-    "xiusidun": {
+    {
         "code": "xiusidun",
         "name": "休斯敦",
         "avatar": "xiusidun.png",
@@ -2747,7 +2747,7 @@
             }
         ]
     },
-    "botelan": {
+    {
         "code": "botelan",
         "name": "波特兰",
         "avatar": "botelan.png",
@@ -2781,7 +2781,7 @@
             }
         ]
     },
-    "bolisi": {
+    {
         "code": "bolisi",
         "name": "印第安纳波利斯",
         "avatar": "bolisi.png",
@@ -2822,7 +2822,7 @@
             }
         ]
     },
-    "asituoliya": {
+    {
         "code": "asituoliya",
         "name": "阿斯托利亚",
         "avatar": "asituoliya.png",
@@ -2855,7 +2855,7 @@
             }
         ]
     },
-    "kunxi": {
+    {
         "code": "kunxi",
         "name": "昆西",
         "avatar": "kunxi.png",
@@ -2876,7 +2876,7 @@
             }
         ]
     },
-    "wensensi": {
+    {
         "code": "wensensi",
         "name": "文森斯",
         "avatar": "wensensi.png",
@@ -2909,7 +2909,7 @@
             }
         ]
     },
-    "weiqita": {
+    {
         "code": "weiqita",
         "name": "威奇塔",
         "avatar": "weiqita.png",
@@ -2954,7 +2954,7 @@
             }
         ]
     },
-    "xinaoerliang": {
+    {
         "code": "xinaoerliang",
         "name": "新奥尔良",
         "avatar": "xinaoerliang.png",
@@ -2992,7 +2992,7 @@
             }
         ]
     },
-    "mingniabolisi": {
+    {
         "code": "mingniabolisi",
         "name": "明尼阿波利斯",
         "avatar": "mingniabolisi.png",
@@ -3068,7 +3068,7 @@
             }
         ]
     },
-    "jiujinshan": {
+    {
         "code": "jiujinshan",
         "name": "旧金山",
         "avatar": "jiujinshan.png",
@@ -3120,7 +3120,7 @@
             }
         ]
     },
-    "baerdimo": {
+    {
         "code": "baerdimo",
         "name": "巴尔的摩",
         "avatar": "baerdimo.png",
@@ -3209,7 +3209,7 @@
             }
         ]
     },
-    "bulaimodun": {
+    {
         "code": "bulaimodun",
         "name": "布莱默顿",
         "avatar": "bulaimodun.png",
@@ -3296,7 +3296,7 @@
             }
         ]
     },
-    "baerdimo_idol": {
+    {
         "code": "baerdimo_idol",
         "name": "巴尔的摩(μ兵装)",
         "avatar": "baerdimo_idol.png",
@@ -3319,7 +3319,7 @@
             }
         ]
     },
-    "beianpudunii": {
+    {
         "code": "beianpudunii",
         "name": "北安普敦II",
         "avatar": "beianpudunii.png",
@@ -3361,7 +3361,7 @@
             }
         ]
     },
-    "neihuada": {
+    {
         "code": "neihuada",
         "name": "内华达",
         "avatar": "neihuada.png",
@@ -3395,7 +3395,7 @@
             }
         ]
     },
-    "ekelahema": {
+    {
         "code": "ekelahema",
         "name": "俄克拉荷马",
         "avatar": "ekelahema.png",
@@ -3430,7 +3430,7 @@
             }
         ]
     },
-    "binxifaniya": {
+    {
         "code": "binxifaniya",
         "name": "宾夕法尼亚",
         "avatar": "binxifaniya.png",
@@ -3459,7 +3459,7 @@
             }
         ]
     },
-    "yalisangna": {
+    {
         "code": "yalisangna",
         "name": "亚利桑那",
         "avatar": "yalisangna.png",
@@ -3489,7 +3489,7 @@
             }
         ]
     },
-    "tiannaxi": {
+    {
         "code": "tiannaxi",
         "name": "田纳西",
         "avatar": "tiannaxi.png",
@@ -3504,7 +3504,7 @@
             }
         ]
     },
-    "jialifuniya": {
+    {
         "code": "jialifuniya",
         "name": "加利福尼亚",
         "avatar": "jialifuniya.png",
@@ -3519,7 +3519,7 @@
             }
         ]
     },
-    "keluoladuo": {
+    {
         "code": "keluoladuo",
         "name": "科罗拉多",
         "avatar": "keluoladuo.png",
@@ -3558,7 +3558,7 @@
             }
         ]
     },
-    "malilan": {
+    {
         "code": "malilan",
         "name": "马里兰",
         "avatar": "malilan.png",
@@ -3585,7 +3585,7 @@
             }
         ]
     },
-    "xifujiniya": {
+    {
         "code": "xifujiniya",
         "name": "西弗吉尼亚",
         "avatar": "xifujiniya.png",
@@ -3612,7 +3612,7 @@
             }
         ]
     },
-    "beikaluolaina": {
+    {
         "code": "beikaluolaina",
         "name": "北卡罗来纳",
         "avatar": "beikaluolaina.png",
@@ -3641,7 +3641,7 @@
             }
         ]
     },
-    "huashengdun": {
+    {
         "code": "huashengdun",
         "name": "华盛顿",
         "avatar": "huashengdun.png",
@@ -3670,7 +3670,7 @@
             }
         ]
     },
-    "nandaketa": {
+    {
         "code": "nandaketa",
         "name": "南达科他",
         "avatar": "nandaketa.png",
@@ -3698,7 +3698,7 @@
             }
         ]
     },
-    "xinzexi": {
+    {
         "code": "xinzexi",
         "name": "新泽西",
         "avatar": "xinzexi.png",
@@ -3755,7 +3755,7 @@
             }
         ]
     },
-    "masazhusai": {
+    {
         "code": "masazhusai",
         "name": "马萨诸塞",
         "avatar": "masazhusai.png",
@@ -3788,7 +3788,7 @@
             }
         ]
     },
-    "alabama": {
+    {
         "code": "alabama",
         "name": "阿拉巴马",
         "avatar": "alabama.png",
@@ -3824,7 +3824,7 @@
             }
         ]
     },
-    "changdao": {
+    {
         "code": "changdao",
         "name": "长岛",
         "avatar": "changdao.png",
@@ -3865,7 +3865,7 @@
             }
         ]
     },
-    "boge": {
+    {
         "code": "boge",
         "name": "博格",
         "avatar": "boge.png",
@@ -3886,7 +3886,7 @@
             }
         ]
     },
-    "kasabulanka": {
+    {
         "code": "kasabulanka",
         "name": "卡萨布兰卡",
         "avatar": "kasabulanka.png",
@@ -3921,7 +3921,7 @@
             }
         ]
     },
-    "lanli": {
+    {
         "code": "lanli",
         "name": "兰利",
         "avatar": "lanli.png",
@@ -3942,7 +3942,7 @@
             }
         ]
     },
-    "liekexingdun": {
+    {
         "code": "liekexingdun",
         "name": "列克星敦",
         "avatar": "liekexingdun.png",
@@ -3973,7 +3973,7 @@
             }
         ]
     },
-    "salatuojia": {
+    {
         "code": "salatuojia",
         "name": "萨拉托加",
         "avatar": "salatuojia.png",
@@ -4125,7 +4125,7 @@
             }
         ]
     },
-    "tujizhe": {
+    {
         "code": "tujizhe",
         "name": "突击者",
         "avatar": "tujizhe.png",
@@ -4146,7 +4146,7 @@
             }
         ]
     },
-    "yuekecheng": {
+    {
         "code": "yuekecheng",
         "name": "约克城",
         "avatar": "yuekecheng.png",
@@ -4197,7 +4197,7 @@
             }
         ]
     },
-    "qiye": {
+    {
         "code": "qiye",
         "name": "企业",
         "avatar": "qiye.png",
@@ -4300,7 +4300,7 @@
             }
         ]
     },
-    "dahuangfeng": {
+    {
         "code": "dahuangfeng",
         "name": "大黄蜂",
         "avatar": "dahuangfeng.png",
@@ -4357,7 +4357,7 @@
             }
         ]
     },
-    "hufeng": {
+    {
         "code": "hufeng",
         "name": "胡蜂",
         "avatar": "hufeng.png",
@@ -4372,7 +4372,7 @@
             }
         ]
     },
-    "aisaikesi": {
+    {
         "code": "aisaikesi",
         "name": "埃塞克斯",
         "avatar": "aisaikesi.png",
@@ -4452,7 +4452,7 @@
             }
         ]
     },
-    "yuekechengii": {
+    {
         "code": "yuekechengii",
         "name": "约克城II",
         "avatar": "yuekechengii.png",
@@ -4492,7 +4492,7 @@
             }
         ]
     },
-    "wuwei": {
+    {
         "code": "wuwei",
         "name": "无畏",
         "avatar": "wuwei.png",
@@ -4528,7 +4528,7 @@
             }
         ]
     },
-    "dahuangfengii": {
+    {
         "code": "dahuangfengii",
         "name": "大黄蜂II",
         "avatar": "dahuangfengii.png",
@@ -4567,7 +4567,7 @@
             }
         ]
     },
-    "tikangdeluojia": {
+    {
         "code": "tikangdeluojia",
         "name": "提康德罗加",
         "avatar": "tikangdeluojia.png",
@@ -4601,7 +4601,7 @@
             }
         ]
     },
-    "bangkeshan": {
+    {
         "code": "bangkeshan",
         "name": "邦克山",
         "avatar": "bangkeshan.png",
@@ -4636,7 +4636,7 @@
             }
         ]
     },
-    "duli": {
+    {
         "code": "duli",
         "name": "独立",
         "avatar": "duli.png",
@@ -4724,7 +4724,7 @@
             }
         ]
     },
-    "pulinsidun": {
+    {
         "code": "pulinsidun",
         "name": "普林斯顿",
         "avatar": "pulinsidun.png",
@@ -4785,7 +4785,7 @@
             }
         ]
     },
-    "lanliii": {
+    {
         "code": "lanliii",
         "name": "兰利II",
         "avatar": "lanliii.png",
@@ -4824,7 +4824,7 @@
             }
         ]
     },
-    "badan": {
+    {
         "code": "badan",
         "name": "巴丹",
         "avatar": "badan.png",
@@ -4861,7 +4861,7 @@
             }
         ]
     },
-    "xianggelila": {
+    {
         "code": "xianggelila",
         "name": "香格里拉",
         "avatar": "xianggelila.png",
@@ -4910,7 +4910,7 @@
             }
         ]
     },
-    "qiye_younv": {
+    {
         "code": "qiye_younv",
         "name": "小企业",
         "avatar": "qiye_younv.png",
@@ -4936,7 +4936,7 @@
             }
         ]
     },
-    "tiaoyu": {
+    {
         "code": "tiaoyu",
         "name": "鲦鱼",
         "avatar": "tiaoyu.png",
@@ -4951,7 +4951,7 @@
             }
         ]
     },
-    "daqinghuayu": {
+    {
         "code": "daqinghuayu",
         "name": "大青花鱼",
         "avatar": "daqinghuayu.png",
@@ -4996,7 +4996,7 @@
             }
         ]
     },
-    "jiqi": {
+    {
         "code": "jiqi",
         "name": "棘鳍",
         "avatar": "jiqi.png",
@@ -5045,7 +5045,7 @@
             }
         ]
     },
-    "lansaiyu": {
+    {
         "code": "lansaiyu",
         "name": "蓝鳃鱼",
         "avatar": "lansaiyu.png",
@@ -5081,7 +5081,7 @@
             }
         ]
     },
-    "daqinghuayu_idol": {
+    {
         "code": "daqinghuayu_idol",
         "name": "大青花鱼(μ兵装)",
         "avatar": "daqinghuayu_idol.png",
@@ -5104,7 +5104,7 @@
             }
         ]
     },
-    "sheshuiyu": {
+    {
         "code": "sheshuiyu",
         "name": "射水鱼",
         "avatar": "sheshuiyu.png",
@@ -5149,7 +5149,7 @@
             }
         ]
     },
-    "yingwuluo": {
+    {
         "code": "yingwuluo",
         "name": "鹦鹉螺",
         "avatar": "yingwuluo.png",
@@ -5186,7 +5186,7 @@
             }
         ]
     },
-    "zaoshen": {
+    {
         "code": "zaoshen",
         "name": "女灶神",
         "avatar": "zaoshen.png",
@@ -5221,7 +5221,7 @@
             }
         ]
     },
-    "xiyatu": {
+    {
         "code": "xiyatu",
         "name": "西雅图",
         "avatar": "xiyatu.png",
@@ -5285,7 +5285,7 @@
             }
         ]
     },
-    "zuozhiya": {
+    {
         "code": "zuozhiya",
         "name": "佐治亚",
         "avatar": "zuozhiya.png",
@@ -5348,7 +5348,7 @@
             }
         ]
     },
-    "ankeleiqi": {
+    {
         "code": "ankeleiqi",
         "name": "安克雷奇",
         "avatar": "ankeleiqi.png",
@@ -5375,7 +5375,7 @@
             }
         ]
     },
-    "nvjiang": {
+    {
         "code": "nvjiang",
         "name": "女将",
         "avatar": "nvjiang.png",
@@ -5418,7 +5418,7 @@
             }
         ]
     },
-    "akasita": {
+    {
         "code": "akasita",
         "name": "阿卡司塔",
         "avatar": "akasita.png",
@@ -5471,7 +5471,7 @@
             }
         ]
     },
-    "rexin": {
+    {
         "code": "rexin",
         "name": "热心",
         "avatar": "rexin.png",
@@ -5522,7 +5522,7 @@
             }
         ]
     },
-    "xiaolietuquan": {
+    {
         "code": "xiaolietuquan",
         "name": "小猎兔犬",
         "avatar": "xiaolietuquan.png",
@@ -5537,7 +5537,7 @@
             }
         ]
     },
-    "dadouquan": {
+    {
         "code": "dadouquan",
         "name": "大斗犬",
         "avatar": "dadouquan.png",
@@ -5552,7 +5552,7 @@
             }
         ]
     },
-    "huixing": {
+    {
         "code": "huixing",
         "name": "彗星",
         "avatar": "huixing.png",
@@ -5573,7 +5573,7 @@
             }
         ]
     },
-    "xinyue": {
+    {
         "code": "xinyue",
         "name": "新月",
         "avatar": "xinyue.png",
@@ -5594,7 +5594,7 @@
             }
         ]
     },
-    "xiaotiane": {
+    {
         "code": "xiaotiane",
         "name": "小天鹅",
         "avatar": "xiaotiane.png",
@@ -5665,7 +5665,7 @@
             }
         ]
     },
-    "huti": {
+    {
         "code": "huti",
         "name": "狐提",
         "avatar": "huti.png",
@@ -5686,7 +5686,7 @@
             }
         ]
     },
-    "mingyunnvshen": {
+    {
         "code": "mingyunnvshen",
         "name": "命运女神",
         "avatar": "mingyunnvshen.png",
@@ -5721,7 +5721,7 @@
             }
         ]
     },
-    "gelunweier": {
+    {
         "code": "gelunweier",
         "name": "格伦维尔",
         "avatar": "gelunweier.png",
@@ -5746,7 +5746,7 @@
             }
         ]
     },
-    "yinghuochong": {
+    {
         "code": "yinghuochong",
         "name": "萤火虫",
         "avatar": "yinghuochong.png",
@@ -5778,7 +5778,7 @@
             }
         ]
     },
-    "yonggan": {
+    {
         "code": "yonggan",
         "name": "勇敢",
         "avatar": "yonggan.png",
@@ -5799,7 +5799,7 @@
             }
         ]
     },
-    "lieren": {
+    {
         "code": "lieren",
         "name": "猎人",
         "avatar": "lieren.png",
@@ -5820,7 +5820,7 @@
             }
         ]
     },
-    "biaoqiang": {
+    {
         "code": "biaoqiang",
         "name": "标枪",
         "avatar": "biaoqiang.png",
@@ -5935,7 +5935,7 @@
             }
         ]
     },
-    "tianhou": {
+    {
         "code": "tianhou",
         "name": "天后",
         "avatar": "tianhou.png",
@@ -5964,7 +5964,7 @@
             }
         ]
     },
-    "xixuegui": {
+    {
         "code": "xixuegui",
         "name": "吸血鬼",
         "avatar": "xixuegui.png",
@@ -6037,7 +6037,7 @@
             }
         ]
     },
-    "qiubite": {
+    {
         "code": "qiubite",
         "name": "丘比特",
         "avatar": "qiubite.png",
@@ -6066,7 +6066,7 @@
             }
         ]
     },
-    "zexi": {
+    {
         "code": "zexi",
         "name": "泽西",
         "avatar": "zexi.png",
@@ -6081,7 +6081,7 @@
             }
         ]
     },
-    "wudi": {
+    {
         "code": "wudi",
         "name": "无敌",
         "avatar": "wudi.png",
@@ -6109,7 +6109,7 @@
             }
         ]
     },
-    "huoqiangshou": {
+    {
         "code": "huoqiangshou",
         "name": "火枪手",
         "avatar": "huoqiangshou.png",
@@ -6124,7 +6124,7 @@
             }
         ]
     },
-    "huisheng": {
+    {
         "code": "huisheng",
         "name": "回声",
         "avatar": "huisheng.png",
@@ -6145,7 +6145,7 @@
             }
         ]
     },
-    "aisijimo": {
+    {
         "code": "aisijimo",
         "name": "爱斯基摩人",
         "avatar": "aisijimo.png",
@@ -6183,7 +6183,7 @@
             }
         ]
     },
-    "yikaluosi": {
+    {
         "code": "yikaluosi",
         "name": "伊卡洛斯",
         "avatar": "yikaluosi.png",
@@ -6249,7 +6249,7 @@
             }
         ]
     },
-    "jiaweisi": {
+    {
         "code": "jiaweisi",
         "name": "贾维斯",
         "avatar": "jiaweisi.png",
@@ -6290,7 +6290,7 @@
             }
         ]
     },
-    "yanusi": {
+    {
         "code": "yanusi",
         "name": "雅努斯",
         "avatar": "yanusi.png",
@@ -6328,7 +6328,7 @@
             }
         ]
     },
-    "liande": {
+    {
         "code": "liande",
         "name": "利安得",
         "avatar": "liande.png",
@@ -6349,7 +6349,7 @@
             }
         ]
     },
-    "ajilisi": {
+    {
         "code": "ajilisi",
         "name": "阿基里斯",
         "avatar": "ajilisi.png",
@@ -6370,7 +6370,7 @@
             }
         ]
     },
-    "ajiakesi": {
+    {
         "code": "ajiakesi",
         "name": "阿贾克斯",
         "avatar": "ajiakesi.png",
@@ -6420,7 +6420,7 @@
             }
         ]
     },
-    "daiduo": {
+    {
         "code": "daiduo",
         "name": "黛朵",
         "avatar": "daiduo.png",
@@ -6457,7 +6457,7 @@
             }
         ]
     },
-    "nananpudun": {
+    {
         "code": "nananpudun",
         "name": "南安普顿",
         "avatar": "nananpudun.png",
@@ -6538,7 +6538,7 @@
             }
         ]
     },
-    "xiefeierde": {
+    {
         "code": "xiefeierde",
         "name": "谢菲尔德",
         "avatar": "xiefeierde.png",
@@ -6605,7 +6605,7 @@
             }
         ]
     },
-    "manchesite": {
+    {
         "code": "manchesite",
         "name": "曼彻斯特",
         "avatar": "manchesite.png",
@@ -6646,7 +6646,7 @@
             }
         ]
     },
-    "geluosite": {
+    {
         "code": "geluosite",
         "name": "格罗斯特",
         "avatar": "geluosite.png",
@@ -6682,7 +6682,7 @@
             }
         ]
     },
-    "aidingbao": {
+    {
         "code": "aidingbao",
         "name": "爱丁堡",
         "avatar": "aidingbao.png",
@@ -6718,7 +6718,7 @@
             }
         ]
     },
-    "beierfasite": {
+    {
         "code": "beierfasite",
         "name": "贝尔法斯特",
         "avatar": "beierfasite.png",
@@ -6820,7 +6820,7 @@
             }
         ]
     },
-    "aruituosha": {
+    {
         "code": "aruituosha",
         "name": "阿瑞托莎",
         "avatar": "aruituosha.png",
@@ -6835,7 +6835,7 @@
             }
         ]
     },
-    "jialadiya": {
+    {
         "code": "jialadiya",
         "name": "加拉蒂亚",
         "avatar": "jialadiya.png",
@@ -6850,7 +6850,7 @@
             }
         ]
     },
-    "ouruola": {
+    {
         "code": "ouruola",
         "name": "欧若拉",
         "avatar": "ouruola.png",
@@ -6919,7 +6919,7 @@
             }
         ]
     },
-    "feiji": {
+    {
         "code": "feiji",
         "name": "斐济",
         "avatar": "feiji.png",
@@ -6946,7 +6946,7 @@
             }
         ]
     },
-    "yamaijia": {
+    {
         "code": "yamaijia",
         "name": "牙买加",
         "avatar": "yamaijia.png",
@@ -6990,7 +6990,7 @@
             }
         ]
     },
-    "beierfasite_younv": {
+    {
         "code": "beierfasite_younv",
         "name": "小贝法",
         "avatar": "beierfasite_younv.png",
@@ -7005,7 +7005,7 @@
             }
         ]
     },
-    "niukasier": {
+    {
         "code": "niukasier",
         "name": "纽卡斯尔",
         "avatar": "niukasier.png",
@@ -7032,7 +7032,7 @@
             }
         ]
     },
-    "tianlangxing": {
+    {
         "code": "tianlangxing",
         "name": "天狼星",
         "avatar": "tianlangxing.png",
@@ -7092,7 +7092,7 @@
             }
         ]
     },
-    "kulasuo": {
+    {
         "code": "kulasuo",
         "name": "库拉索",
         "avatar": "kulasuo.png",
@@ -7139,7 +7139,7 @@
             }
         ]
     },
-    "biaoyu": {
+    {
         "code": "biaoyu",
         "name": "杓鹬",
         "avatar": "biaoyu.png",
@@ -7186,7 +7186,7 @@
             }
         ]
     },
-    "quejie": {
+    {
         "code": "quejie",
         "name": "确捷",
         "avatar": "quejie.png",
@@ -7252,7 +7252,7 @@
             }
         ]
     },
-    "heitaizi": {
+    {
         "code": "heitaizi",
         "name": "黑太子",
         "avatar": "heitaizi.png",
@@ -7332,7 +7332,7 @@
             }
         ]
     },
-    "xiefeierde_idol": {
+    {
         "code": "xiefeierde_idol",
         "name": "谢菲尔德(μ兵装)",
         "avatar": "xiefeierde_idol.png",
@@ -7355,7 +7355,7 @@
             }
         ]
     },
-    "gelasige": {
+    {
         "code": "gelasige",
         "name": "格拉斯哥",
         "avatar": "gelasige.png",
@@ -7390,7 +7390,7 @@
             }
         ]
     },
-    "hemin": {
+    {
         "code": "hemin",
         "name": "赫敏",
         "avatar": "hemin.png",
@@ -7463,7 +7463,7 @@
             }
         ]
     },
-    "daiduo_idol": {
+    {
         "code": "daiduo_idol",
         "name": "黛朵(μ兵装)",
         "avatar": "daiduo_idol.png",
@@ -7485,7 +7485,7 @@
             }
         ]
     },
-    "peineiluopo": {
+    {
         "code": "peineiluopo",
         "name": "佩内洛珀",
         "avatar": "peineiluopo.png",
@@ -7537,7 +7537,7 @@
             }
         ]
     },
-    "kalvbudisi": {
+    {
         "code": "kalvbudisi",
         "name": "卡律布狄斯",
         "avatar": "kalvbudisi.png",
@@ -7596,7 +7596,7 @@
             }
         ]
     },
-    "sizhannvshen": {
+    {
         "code": "sizhannvshen",
         "name": "司战女神",
         "avatar": "sizhannvshen.png",
@@ -7639,7 +7639,7 @@
             }
         ]
     },
-    "jinqu": {
+    {
         "code": "jinqu",
         "name": "进取",
         "avatar": "jinqu.png",
@@ -7660,7 +7660,7 @@
             }
         ]
     },
-    "lundun": {
+    {
         "code": "lundun",
         "name": "伦敦",
         "avatar": "lundun.png",
@@ -7693,7 +7693,7 @@
             }
         ]
     },
-    "shiluopujun": {
+    {
         "code": "shiluopujun",
         "name": "什罗普郡",
         "avatar": "shiluopujun.png",
@@ -7720,7 +7720,7 @@
             }
         ]
     },
-    "kente": {
+    {
         "code": "kente",
         "name": "肯特",
         "avatar": "kente.png",
@@ -7735,7 +7735,7 @@
             }
         ]
     },
-    "safuke": {
+    {
         "code": "safuke",
         "name": "萨福克",
         "avatar": "safuke.png",
@@ -7756,7 +7756,7 @@
             }
         ]
     },
-    "nuofuke": {
+    {
         "code": "nuofuke",
         "name": "诺福克",
         "avatar": "nuofuke.png",
@@ -7771,7 +7771,7 @@
             }
         ]
     },
-    "duosaitejun": {
+    {
         "code": "duosaitejun",
         "name": "多塞特郡",
         "avatar": "duosaitejun.png",
@@ -7786,7 +7786,7 @@
             }
         ]
     },
-    "yueke": {
+    {
         "code": "yueke",
         "name": "约克",
         "avatar": "yueke.png",
@@ -7850,7 +7850,7 @@
             }
         ]
     },
-    "aikesaite": {
+    {
         "code": "aikesaite",
         "name": "埃克塞特",
         "avatar": "aikesaite.png",
@@ -7886,7 +7886,7 @@
             }
         ]
     },
-    "susaikesi": {
+    {
         "code": "susaikesi",
         "name": "苏塞克斯",
         "avatar": "susaikesi.png",
@@ -7928,7 +7928,7 @@
             }
         ]
     },
-    "chaijun_younv": {
+    {
         "code": "chaijun_younv",
         "name": "小柴郡",
         "avatar": "chaijun_younv.png",
@@ -7959,7 +7959,7 @@
             }
         ]
     },
-    "shengwang": {
+    {
         "code": "shengwang",
         "name": "声望",
         "avatar": "shengwang.png",
@@ -7974,7 +7974,7 @@
             }
         ]
     },
-    "fanji": {
+    {
         "code": "fanji",
         "name": "反击",
         "avatar": "fanji.png",
@@ -7989,7 +7989,7 @@
             }
         ]
     },
-    "hude": {
+    {
         "code": "hude",
         "name": "胡德",
         "avatar": "hude.png",
@@ -8042,7 +8042,7 @@
             }
         ]
     },
-    "shengwang_younv": {
+    {
         "code": "shengwang_younv",
         "name": "小声望",
         "avatar": "shengwang_younv.png",
@@ -8064,7 +8064,7 @@
             }
         ]
     },
-    "yilishabai": {
+    {
         "code": "yilishabai",
         "name": "伊丽莎白女王",
         "avatar": "yilishabai.png",
@@ -8148,7 +8148,7 @@
             }
         ]
     },
-    "yanzhan": {
+    {
         "code": "yanzhan",
         "name": "厌战",
         "avatar": "yanzhan.png",
@@ -8208,7 +8208,7 @@
             }
         ]
     },
-    "naerxun": {
+    {
         "code": "naerxun",
         "name": "纳尔逊",
         "avatar": "naerxun.png",
@@ -8250,7 +8250,7 @@
             }
         ]
     },
-    "luodeni": {
+    {
         "code": "luodeni",
         "name": "罗德尼",
         "avatar": "luodeni.png",
@@ -8321,7 +8321,7 @@
             }
         ]
     },
-    "qiaozhiwushi": {
+    {
         "code": "qiaozhiwushi",
         "name": "英王乔治五世",
         "avatar": "qiaozhiwushi.png",
@@ -8355,7 +8355,7 @@
             }
         ]
     },
-    "weiershiqinwang": {
+    {
         "code": "weiershiqinwang",
         "name": "威尔士亲王",
         "avatar": "weiershiqinwang.png",
@@ -8401,7 +8401,7 @@
             }
         ]
     },
-    "yuekegongjue": {
+    {
         "code": "yuekegongjue",
         "name": "约克公爵",
         "avatar": "yuekegongjue.png",
@@ -8441,7 +8441,7 @@
             }
         ]
     },
-    "hao": {
+    {
         "code": "hao",
         "name": "豪",
         "avatar": "hao.png",
@@ -8515,7 +8515,7 @@
             }
         ]
     },
-    "yingyong": {
+    {
         "code": "yingyong",
         "name": "英勇",
         "avatar": "yingyong.png",
@@ -8561,7 +8561,7 @@
             }
         ]
     },
-    "fuchou": {
+    {
         "code": "fuchou",
         "name": "复仇",
         "avatar": "fuchou.png",
@@ -8597,7 +8597,7 @@
             }
         ]
     },
-    "qianwei": {
+    {
         "code": "qianwei",
         "name": "前卫",
         "avatar": "qianwei.png",
@@ -8636,7 +8636,7 @@
             }
         ]
     },
-    "jingjishen": {
+    {
         "code": "jingjishen",
         "name": "竞技神",
         "avatar": "jingjishen.png",
@@ -8663,7 +8663,7 @@
             }
         ]
     },
-    "dujiaoshou": {
+    {
         "code": "dujiaoshou",
         "name": "独角兽",
         "avatar": "dujiaoshou.png",
@@ -8792,7 +8792,7 @@
             }
         ]
     },
-    "banrenma": {
+    {
         "code": "banrenma",
         "name": "半人马",
         "avatar": "banrenma.png",
@@ -8837,7 +8837,7 @@
             }
         ]
     },
-    "zhuiganzhe": {
+    {
         "code": "zhuiganzhe",
         "name": "追赶者",
         "avatar": "zhuiganzhe.png",
@@ -8886,7 +8886,7 @@
             }
         ]
     },
-    "yingxianzuo": {
+    {
         "code": "yingxianzuo",
         "name": "英仙座",
         "avatar": "yingxianzuo.png",
@@ -8922,7 +8922,7 @@
             }
         ]
     },
-    "aerbien": {
+    {
         "code": "aerbien",
         "name": "阿尔比恩",
         "avatar": "aerbien.png",
@@ -8970,7 +8970,7 @@
             }
         ]
     },
-    "texiusi": {
+    {
         "code": "texiusi",
         "name": "忒修斯",
         "avatar": "texiusi.png",
@@ -9015,7 +9015,7 @@
             }
         ]
     },
-    "ying": {
+    {
         "code": "ying",
         "name": "鹰",
         "avatar": "ying.png",
@@ -9052,7 +9052,7 @@
             }
         ]
     },
-    "huangjiafangzhou": {
+    {
         "code": "huangjiafangzhou",
         "name": "皇家方舟",
         "avatar": "huangjiafangzhou.png",
@@ -9152,7 +9152,7 @@
             }
         ]
     },
-    "guanghui": {
+    {
         "code": "guanghui",
         "name": "光辉",
         "avatar": "guanghui.png",
@@ -9226,7 +9226,7 @@
             }
         ]
     },
-    "shengli": {
+    {
         "code": "shengli",
         "name": "胜利",
         "avatar": "shengli.png",
@@ -9268,7 +9268,7 @@
             }
         ]
     },
-    "kewei": {
+    {
         "code": "kewei",
         "name": "可畏",
         "avatar": "kewei.png",
@@ -9320,7 +9320,7 @@
             }
         ]
     },
-    "guangrong": {
+    {
         "code": "guangrong",
         "name": "光荣",
         "avatar": "guangrong.png",
@@ -9355,7 +9355,7 @@
             }
         ]
     },
-    "guanghui_younv": {
+    {
         "code": "guanghui_younv",
         "name": "小光辉",
         "avatar": "guanghui_younv.png",
@@ -9377,7 +9377,7 @@
             }
         ]
     },
-    "guanghui_idol": {
+    {
         "code": "guanghui_idol",
         "name": "光辉(μ兵装)",
         "avatar": "guanghui_idol.png",
@@ -9399,7 +9399,7 @@
             }
         ]
     },
-    "bunao": {
+    {
         "code": "bunao",
         "name": "不挠",
         "avatar": "bunao.png",
@@ -9440,7 +9440,7 @@
             }
         ]
     },
-    "heianjie": {
+    {
         "code": "heianjie",
         "name": "黑暗界",
         "avatar": "heianjie.png",
@@ -9474,7 +9474,7 @@
             }
         ]
     },
-    "kongbu": {
+    {
         "code": "kongbu",
         "name": "恐怖",
         "avatar": "kongbu.png",
@@ -9501,7 +9501,7 @@
             }
         ]
     },
-    "abeikelongbi": {
+    {
         "code": "abeikelongbi",
         "name": "阿贝克隆比",
         "avatar": "abeikelongbi.png",
@@ -9546,7 +9546,7 @@
             }
         ]
     },
-    "haiwangxing": {
+    {
         "code": "haiwangxing",
         "name": "海王星",
         "avatar": "haiwangxing.png",
@@ -9592,7 +9592,7 @@
             }
         ]
     },
-    "junzhu": {
+    {
         "code": "junzhu",
         "name": "君主",
         "avatar": "junzhu.png",
@@ -9634,7 +9634,7 @@
             }
         ]
     },
-    "chaijun": {
+    {
         "code": "chaijun",
         "name": "柴郡",
         "avatar": "chaijun.png",
@@ -9701,7 +9701,7 @@
             }
         ]
     },
-    "deleike": {
+    {
         "code": "deleike",
         "name": "德雷克",
         "avatar": "deleike.png",
@@ -9739,7 +9739,7 @@
             }
         ]
     },
-    "pulimaosi": {
+    {
         "code": "pulimaosi",
         "name": "普利茅斯",
         "avatar": "pulimaosi.png",
@@ -9786,7 +9786,7 @@
             }
         ]
     },
-    "chuixue": {
+    {
         "code": "chuixue",
         "name": "吹雪",
         "avatar": "chuixue.png",
@@ -9863,7 +9863,7 @@
             }
         ]
     },
-    "baixue": {
+    {
         "code": "baixue",
         "name": "白雪",
         "avatar": "baixue.png",
@@ -9899,7 +9899,7 @@
             }
         ]
     },
-    "shenxue": {
+    {
         "code": "shenxue",
         "name": "深雪",
         "avatar": "shenxue.png",
@@ -9940,7 +9940,7 @@
             }
         ]
     },
-    "lingbo": {
+    {
         "code": "lingbo",
         "name": "绫波",
         "avatar": "lingbo.png",
@@ -10107,7 +10107,7 @@
             }
         ]
     },
-    "xiao": {
+    {
         "code": "xiao",
         "name": "晓",
         "avatar": "xiao.png",
@@ -10181,7 +10181,7 @@
             }
         ]
     },
-    "xiang": {
+    {
         "code": "xiang",
         "name": "响",
         "avatar": "xiang.png",
@@ -10221,7 +10221,7 @@
             }
         ]
     },
-    "lei": {
+    {
         "code": "lei",
         "name": "雷",
         "avatar": "lei.png",
@@ -10276,7 +10276,7 @@
             }
         ]
     },
-    "dian": {
+    {
         "code": "dian",
         "name": "电",
         "avatar": "dian.png",
@@ -10324,7 +10324,7 @@
             }
         ]
     },
-    "bailu": {
+    {
         "code": "bailu",
         "name": "白露",
         "avatar": "bailu.png",
@@ -10345,7 +10345,7 @@
             }
         ]
     },
-    "xili": {
+    {
         "code": "xili",
         "name": "夕立",
         "avatar": "xili.png",
@@ -10431,7 +10431,7 @@
             }
         ]
     },
-    "shiyu": {
+    {
         "code": "shiyu",
         "name": "时雨",
         "avatar": "shiyu.png",
@@ -10497,7 +10497,7 @@
             }
         ]
     },
-    "xuefeng": {
+    {
         "code": "xuefeng",
         "name": "雪风",
         "avatar": "xuefeng.png",
@@ -10551,7 +10551,7 @@
             }
         ]
     },
-    "yangyan": {
+    {
         "code": "yangyan",
         "name": "阳炎",
         "avatar": "yangyan.png",
@@ -10578,7 +10578,7 @@
             }
         ]
     },
-    "buzhihuo": {
+    {
         "code": "buzhihuo",
         "name": "不知火",
         "avatar": "buzhihuo.png",
@@ -10612,7 +10612,7 @@
             }
         ]
     },
-    "yefen": {
+    {
         "code": "yefen",
         "name": "野分",
         "avatar": "yefen.png",
@@ -10627,7 +10627,7 @@
             }
         ]
     },
-    "chuchun": {
+    {
         "code": "chuchun",
         "name": "初春",
         "avatar": "chuchun.png",
@@ -10680,7 +10680,7 @@
             }
         ]
     },
-    "ruoye": {
+    {
         "code": "ruoye",
         "name": "若叶",
         "avatar": "ruoye.png",
@@ -10720,7 +10720,7 @@
             }
         ]
     },
-    "chushuang": {
+    {
         "code": "chushuang",
         "name": "初霜",
         "avatar": "chushuang.png",
@@ -10762,7 +10762,7 @@
             }
         ]
     },
-    "youming": {
+    {
         "code": "youming",
         "name": "有明",
         "avatar": "youming.png",
@@ -10804,7 +10804,7 @@
             }
         ]
     },
-    "ximu": {
+    {
         "code": "ximu",
         "name": "夕暮",
         "avatar": "ximu.png",
@@ -10892,7 +10892,7 @@
             }
         ]
     },
-    "heichao": {
+    {
         "code": "heichao",
         "name": "黑潮",
         "avatar": "heichao.png",
@@ -10907,7 +10907,7 @@
             }
         ]
     },
-    "qinchao": {
+    {
         "code": "qinchao",
         "name": "亲潮",
         "avatar": "qinchao.png",
@@ -10922,7 +10922,7 @@
             }
         ]
     },
-    "daofeng": {
+    {
         "code": "daofeng",
         "name": "岛风",
         "avatar": "daofeng.png",
@@ -10988,7 +10988,7 @@
             }
         ]
     },
-    "shenfeng": {
+    {
         "code": "shenfeng",
         "name": "神风",
         "avatar": "shenfeng.png",
@@ -11009,7 +11009,7 @@
             }
         ]
     },
-    "songfeng": {
+    {
         "code": "songfeng",
         "name": "松风",
         "avatar": "songfeng.png",
@@ -11030,7 +11030,7 @@
             }
         ]
     },
-    "muyue": {
+    {
         "code": "muyue",
         "name": "睦月",
         "avatar": "muyue.png",
@@ -11090,7 +11090,7 @@
             }
         ]
     },
-    "ruyue": {
+    {
         "code": "ruyue",
         "name": "如月",
         "avatar": "ruyue.png",
@@ -11126,7 +11126,7 @@
             }
         ]
     },
-    "maoyue": {
+    {
         "code": "maoyue",
         "name": "卯月",
         "avatar": "maoyue.png",
@@ -11147,7 +11147,7 @@
             }
         ]
     },
-    "shuiwuyue": {
+    {
         "code": "shuiwuyue",
         "name": "水无月",
         "avatar": "shuiwuyue.png",
@@ -11162,7 +11162,7 @@
             }
         ]
     },
-    "wenyue": {
+    {
         "code": "wenyue",
         "name": "文月",
         "avatar": "wenyue.png",
@@ -11183,7 +11183,7 @@
             }
         ]
     },
-    "changyue": {
+    {
         "code": "changyue",
         "name": "长月",
         "avatar": "changyue.png",
@@ -11223,7 +11223,7 @@
             }
         ]
     },
-    "sanriyue": {
+    {
         "code": "sanriyue",
         "name": "三日月",
         "avatar": "sanriyue.png",
@@ -11253,7 +11253,7 @@
             }
         ]
     },
-    "haifeng": {
+    {
         "code": "haifeng",
         "name": "海风",
         "avatar": "haifeng.png",
@@ -11289,7 +11289,7 @@
             }
         ]
     },
-    "shanfeng": {
+    {
         "code": "shanfeng",
         "name": "山风",
         "avatar": "shanfeng.png",
@@ -11332,7 +11332,7 @@
             }
         ]
     },
-    "jiangfeng": {
+    {
         "code": "jiangfeng",
         "name": "江风",
         "avatar": "jiangfeng.png",
@@ -11366,7 +11366,7 @@
             }
         ]
     },
-    "qingbo": {
+    {
         "code": "qingbo",
         "name": "清波",
         "avatar": "qingbo.png",
@@ -11401,7 +11401,7 @@
             }
         ]
     },
-    "xinyue_jp": {
+    {
         "code": "xinyue_jp",
         "name": "新月",
         "avatar": "xinyue_jp.png",
@@ -11416,7 +11416,7 @@
             }
         ]
     },
-    "chunyue": {
+    {
         "code": "chunyue",
         "name": "春月",
         "avatar": "chunyue.png",
@@ -11443,7 +11443,7 @@
             }
         ]
     },
-    "xiaoyue": {
+    {
         "code": "xiaoyue",
         "name": "宵月",
         "avatar": "xiaoyue.png",
@@ -11487,7 +11487,7 @@
             }
         ]
     },
-    "pufeng": {
+    {
         "code": "pufeng",
         "name": "浦风",
         "avatar": "pufeng.png",
@@ -11530,7 +11530,7 @@
             }
         ]
     },
-    "jifeng": {
+    {
         "code": "jifeng",
         "name": "矶风",
         "avatar": "jifeng.png",
@@ -11573,7 +11573,7 @@
             }
         ]
     },
-    "bangfeng": {
+    {
         "code": "bangfeng",
         "name": "滨风",
         "avatar": "bangfeng.png",
@@ -11619,7 +11619,7 @@
             }
         ]
     },
-    "gufeng": {
+    {
         "code": "gufeng",
         "name": "谷风",
         "avatar": "gufeng.png",
@@ -11659,7 +11659,7 @@
             }
         ]
     },
-    "zhaochao": {
+    {
         "code": "zhaochao",
         "name": "朝潮",
         "avatar": "zhaochao.png",
@@ -11707,7 +11707,7 @@
             }
         ]
     },
-    "dachao": {
+    {
         "code": "dachao",
         "name": "大潮",
         "avatar": "dachao.png",
@@ -11767,7 +11767,7 @@
             }
         ]
     },
-    "manchao": {
+    {
         "code": "manchao",
         "name": "满潮",
         "avatar": "manchao.png",
@@ -11795,7 +11795,7 @@
             }
         ]
     },
-    "huangchao": {
+    {
         "code": "huangchao",
         "name": "荒潮",
         "avatar": "huangchao.png",
@@ -11830,7 +11830,7 @@
             }
         ]
     },
-    "pubo": {
+    {
         "code": "pubo",
         "name": "浦波",
         "avatar": "pubo.png",
@@ -11865,7 +11865,7 @@
             }
         ]
     },
-    "qifeng": {
+    {
         "code": "qifeng",
         "name": "旗风",
         "avatar": "qifeng.png",
@@ -11887,7 +11887,7 @@
             }
         ]
     },
-    "juanbo": {
+    {
         "code": "juanbo",
         "name": "卷波",
         "avatar": "juanbo.png",
@@ -11921,7 +11921,7 @@
             }
         ]
     },
-    "xia": {
+    {
         "code": "xia",
         "name": "霞",
         "avatar": "xia.png",
@@ -11990,7 +11990,7 @@
             }
         ]
     },
-    "huayue": {
+    {
         "code": "huayue",
         "name": "花月",
         "avatar": "huayue.png",
@@ -12050,7 +12050,7 @@
             }
         ]
     },
-    "changbo": {
+    {
         "code": "changbo",
         "name": "长波",
         "avatar": "changbo.png",
@@ -12130,7 +12130,7 @@
             }
         ]
     },
-    "liangyue": {
+    {
         "code": "liangyue",
         "name": "凉月",
         "avatar": "liangyue.png",
@@ -12182,7 +12182,7 @@
             }
         ]
     },
-    "zhuifeng": {
+    {
         "code": "zhuifeng",
         "name": "追风",
         "avatar": "zhuifeng.png",
@@ -12251,7 +12251,7 @@
             }
         ]
     },
-    "fengyun": {
+    {
         "code": "fengyun",
         "name": "风云",
         "avatar": "fengyun.png",
@@ -12303,7 +12303,7 @@
             }
         ]
     },
-    "ruoyue": {
+    {
         "code": "ruoyue",
         "name": "若月",
         "avatar": "ruoyue.png",
@@ -12341,7 +12341,7 @@
             }
         ]
     },
-    "xizhang": {
+    {
         "code": "xizhang",
         "name": "夕张",
         "avatar": "xizhang.png",
@@ -12368,7 +12368,7 @@
             }
         ]
     },
-    "changliang": {
+    {
         "code": "changliang",
         "name": "长良",
         "avatar": "changliang.png",
@@ -12397,7 +12397,7 @@
             }
         ]
     },
-    "wushiling": {
+    {
         "code": "wushiling",
         "name": "五十铃",
         "avatar": "wushiling.png",
@@ -12485,7 +12485,7 @@
             }
         ]
     },
-    "youliang": {
+    {
         "code": "youliang",
         "name": "由良",
         "avatar": "youliang.png",
@@ -12520,7 +12520,7 @@
             }
         ]
     },
-    "guinu": {
+    {
         "code": "guinu",
         "name": "鬼怒",
         "avatar": "guinu.png",
@@ -12590,7 +12590,7 @@
             }
         ]
     },
-    "awuwei": {
+    {
         "code": "awuwei",
         "name": "阿武隈",
         "avatar": "awuwei.png",
@@ -12611,7 +12611,7 @@
             }
         ]
     },
-    "zuishang": {
+    {
         "code": "zuishang",
         "name": "最上",
         "avatar": "zuishang.png",
@@ -12632,7 +12632,7 @@
             }
         ]
     },
-    "sanwei": {
+    {
         "code": "sanwei",
         "name": "三隈",
         "avatar": "sanwei.png",
@@ -12663,7 +12663,7 @@
             }
         ]
     },
-    "chuannei": {
+    {
         "code": "chuannei",
         "name": "川内",
         "avatar": "chuannei.png",
@@ -12684,7 +12684,7 @@
             }
         ]
     },
-    "shentong": {
+    {
         "code": "shentong",
         "name": "神通",
         "avatar": "shentong.png",
@@ -12733,7 +12733,7 @@
             }
         ]
     },
-    "nake": {
+    {
         "code": "nake",
         "name": "那珂",
         "avatar": "nake.png",
@@ -12769,7 +12769,7 @@
             }
         ]
     },
-    "aheye": {
+    {
         "code": "aheye",
         "name": "阿贺野",
         "avatar": "aheye.png",
@@ -12827,7 +12827,7 @@
             }
         ]
     },
-    "nengdai": {
+    {
         "code": "nengdai",
         "name": "能代",
         "avatar": "nengdai.png",
@@ -12939,7 +12939,7 @@
             }
         ]
     },
-    "jiuyun": {
+    {
         "code": "jiuyun",
         "name": "酒匂",
         "avatar": "jiuyun.png",
@@ -12977,7 +12977,7 @@
             }
         ]
     },
-    "guying": {
+    {
         "code": "guying",
         "name": "古鹰",
         "avatar": "guying.png",
@@ -12998,7 +12998,7 @@
             }
         ]
     },
-    "jiagu": {
+    {
         "code": "jiagu",
         "name": "加古",
         "avatar": "jiagu.png",
@@ -13019,7 +13019,7 @@
             }
         ]
     },
-    "qingye": {
+    {
         "code": "qingye",
         "name": "青叶",
         "avatar": "qingye.png",
@@ -13034,7 +13034,7 @@
             }
         ]
     },
-    "yili": {
+    {
         "code": "yili",
         "name": "衣笠",
         "avatar": "yili.png",
@@ -13049,7 +13049,7 @@
             }
         ]
     },
-    "zhumo": {
+    {
         "code": "zhumo",
         "name": "筑摩",
         "avatar": "zhumo.png",
@@ -13072,7 +13072,7 @@
             }
         ]
     },
-    "miaogao": {
+    {
         "code": "miaogao",
         "name": "妙高",
         "avatar": "miaogao.png",
@@ -13087,7 +13087,7 @@
             }
         ]
     },
-    "nazhi": {
+    {
         "code": "nazhi",
         "name": "那智",
         "avatar": "nazhi.png",
@@ -13102,7 +13102,7 @@
             }
         ]
     },
-    "zubing": {
+    {
         "code": "zubing",
         "name": "足柄",
         "avatar": "zubing.png",
@@ -13152,7 +13152,7 @@
             }
         ]
     },
-    "yuhei": {
+    {
         "code": "yuhei",
         "name": "羽黑",
         "avatar": "yuhei.png",
@@ -13197,7 +13197,7 @@
             }
         ]
     },
-    "gaoxiong": {
+    {
         "code": "gaoxiong",
         "name": "高雄",
         "avatar": "gaoxiong.png",
@@ -13261,7 +13261,7 @@
             }
         ]
     },
-    "aidang": {
+    {
         "code": "aidang",
         "name": "爱宕",
         "avatar": "aidang.png",
@@ -13320,7 +13320,7 @@
             }
         ]
     },
-    "moye": {
+    {
         "code": "moye",
         "name": "摩耶",
         "avatar": "moye.png",
@@ -13335,7 +13335,7 @@
             }
         ]
     },
-    "niaohai": {
+    {
         "code": "niaohai",
         "name": "鸟海",
         "avatar": "niaohai.png",
@@ -13363,7 +13363,7 @@
             }
         ]
     },
-    "linggu": {
+    {
         "code": "linggu",
         "name": "铃谷",
         "avatar": "linggu.png",
@@ -13386,7 +13386,7 @@
             }
         ]
     },
-    "xiongye": {
+    {
         "code": "xiongye",
         "name": "熊野",
         "avatar": "xiongye.png",
@@ -13450,7 +13450,7 @@
             }
         ]
     },
-    "jingang": {
+    {
         "code": "jingang",
         "name": "金刚",
         "avatar": "jingang.png",
@@ -13510,7 +13510,7 @@
             }
         ]
     },
-    "birui": {
+    {
         "code": "birui",
         "name": "比叡",
         "avatar": "birui.png",
@@ -13556,7 +13556,7 @@
             }
         ]
     },
-    "zhenming": {
+    {
         "code": "zhenming",
         "name": "榛名",
         "avatar": "zhenming.png",
@@ -13610,7 +13610,7 @@
             }
         ]
     },
-    "wudao": {
+    {
         "code": "wudao",
         "name": "雾岛",
         "avatar": "wudao.png",
@@ -13664,7 +13664,7 @@
             }
         ]
     },
-    "tiancheng": {
+    {
         "code": "tiancheng",
         "name": "天城",
         "avatar": "tiancheng.png",
@@ -13698,7 +13698,7 @@
             }
         ]
     },
-    "birui_younv": {
+    {
         "code": "birui_younv",
         "name": "小比叡",
         "avatar": "birui_younv.png",
@@ -13719,7 +13719,7 @@
             }
         ]
     },
-    "tiancheng_younv": {
+    {
         "code": "tiancheng_younv",
         "name": "小天城",
         "avatar": "tiancheng_younv.png",
@@ -13744,7 +13744,7 @@
             }
         ]
     },
-    "fusang": {
+    {
         "code": "fusang",
         "name": "扶桑",
         "avatar": "fusang.png",
@@ -13785,7 +13785,7 @@
             }
         ]
     },
-    "shancheng": {
+    {
         "code": "shancheng",
         "name": "山城",
         "avatar": "shancheng.png",
@@ -13888,7 +13888,7 @@
             }
         ]
     },
-    "yishi": {
+    {
         "code": "yishi",
         "name": "伊势",
         "avatar": "yishi.png",
@@ -13909,7 +13909,7 @@
             }
         ]
     },
-    "rixiang": {
+    {
         "code": "rixiang",
         "name": "日向",
         "avatar": "rixiang.png",
@@ -13930,7 +13930,7 @@
             }
         ]
     },
-    "changmen": {
+    {
         "code": "changmen",
         "name": "长门",
         "avatar": "changmen.png",
@@ -14007,7 +14007,7 @@
             }
         ]
     },
-    "luao": {
+    {
         "code": "luao",
         "name": "陆奥",
         "avatar": "luao.png",
@@ -14048,7 +14048,7 @@
             }
         ]
     },
-    "jiahezhanlie": {
+    {
         "code": "jiahezhanlie",
         "name": "加贺",
         "avatar": "jiahezhanlie.png",
@@ -14069,7 +14069,7 @@
             }
         ]
     },
-    "tuzuo": {
+    {
         "code": "tuzuo",
         "name": "土佐",
         "avatar": "tuzuo.png",
@@ -14108,7 +14108,7 @@
             }
         ]
     },
-    "wuzang": {
+    {
         "code": "wuzang",
         "name": "武藏",
         "avatar": "wuzang.png",
@@ -14150,7 +14150,7 @@
             }
         ]
     },
-    "sanli": {
+    {
         "code": "sanli",
         "name": "三笠",
         "avatar": "sanli.png",
@@ -14235,7 +14235,7 @@
             }
         ]
     },
-    "jiyi": {
+    {
         "code": "jiyi",
         "name": "纪伊",
         "avatar": "jiyi.png",
@@ -14274,7 +14274,7 @@
             }
         ]
     },
-    "junhe": {
+    {
         "code": "junhe",
         "name": "骏河",
         "avatar": "junhe.png",
@@ -14335,7 +14335,7 @@
             }
         ]
     },
-    "feiying": {
+    {
         "code": "feiying",
         "name": "飞鹰",
         "avatar": "feiying.png",
@@ -14350,7 +14350,7 @@
             }
         ]
     },
-    "sunying": {
+    {
         "code": "sunying",
         "name": "隼鹰",
         "avatar": "sunying.png",
@@ -14365,7 +14365,7 @@
             }
         ]
     },
-    "fengxiang": {
+    {
         "code": "fengxiang",
         "name": "凤翔",
         "avatar": "fengxiang.png",
@@ -14386,7 +14386,7 @@
             }
         ]
     },
-    "xiangfeng": {
+    {
         "code": "xiangfeng",
         "name": "祥凤",
         "avatar": "xiangfeng.png",
@@ -14413,7 +14413,7 @@
             }
         ]
     },
-    "longxiang": {
+    {
         "code": "longxiang",
         "name": "龙骧",
         "avatar": "longxiang.png",
@@ -14462,7 +14462,7 @@
             }
         ]
     },
-    "longfeng": {
+    {
         "code": "longfeng",
         "name": "龙凤",
         "avatar": "longfeng.png",
@@ -14503,7 +14503,7 @@
             }
         ]
     },
-    "qiansui": {
+    {
         "code": "qiansui",
         "name": "千岁",
         "avatar": "qiansui.png",
@@ -14553,7 +14553,7 @@
             }
         ]
     },
-    "qiandaitian": {
+    {
         "code": "qiandaitian",
         "name": "千代田",
         "avatar": "qiandaitian.png",
@@ -14588,7 +14588,7 @@
             }
         ]
     },
-    "chicheng": {
+    {
         "code": "chicheng",
         "name": "赤城",
         "avatar": "chicheng.png",
@@ -14660,7 +14660,7 @@
             }
         ]
     },
-    "jiahe": {
+    {
         "code": "jiahe",
         "name": "加贺",
         "avatar": "jiahe.png",
@@ -14748,7 +14748,7 @@
             }
         ]
     },
-    "canglong": {
+    {
         "code": "canglong",
         "name": "苍龙",
         "avatar": "canglong.png",
@@ -14787,7 +14787,7 @@
             }
         ]
     },
-    "feilong": {
+    {
         "code": "feilong",
         "name": "飞龙",
         "avatar": "feilong.png",
@@ -14820,7 +14820,7 @@
             }
         ]
     },
-    "xianghe": {
+    {
         "code": "xianghe",
         "name": "翔鹤",
         "avatar": "xianghe.png",
@@ -14861,7 +14861,7 @@
             }
         ]
     },
-    "ruihe": {
+    {
         "code": "ruihe",
         "name": "瑞鹤",
         "avatar": "ruihe.png",
@@ -14904,7 +14904,7 @@
             }
         ]
     },
-    "dafeng": {
+    {
         "code": "dafeng",
         "name": "大凤",
         "avatar": "dafeng.png",
@@ -15011,7 +15011,7 @@
             }
         ]
     },
-    "xinnong": {
+    {
         "code": "xinnong",
         "name": "信浓",
         "avatar": "xinnong.png",
@@ -15072,7 +15072,7 @@
             }
         ]
     },
-    "chicheng_younv": {
+    {
         "code": "chicheng_younv",
         "name": "小赤城",
         "avatar": "chicheng_younv.png",
@@ -15094,7 +15094,7 @@
             }
         ]
     },
-    "chicheng_idol": {
+    {
         "code": "chicheng_idol",
         "name": "赤城(μ兵装)",
         "avatar": "chicheng_idol.png",
@@ -15116,7 +15116,7 @@
             }
         ]
     },
-    "dafeng_idol": {
+    {
         "code": "dafeng_idol",
         "name": "大凤(μ兵装)",
         "avatar": "dafeng_idol.png",
@@ -15138,7 +15138,7 @@
             }
         ]
     },
-    "gecheng": {
+    {
         "code": "gecheng",
         "name": "葛城",
         "avatar": "gecheng.png",
@@ -15178,7 +15178,7 @@
             }
         ]
     },
-    "i19": {
+    {
         "code": "i19",
         "name": "伊19",
         "avatar": "i19.png",
@@ -15218,7 +15218,7 @@
             }
         ]
     },
-    "i26": {
+    {
         "code": "i26",
         "name": "伊26",
         "avatar": "i26.png",
@@ -15252,7 +15252,7 @@
             }
         ]
     },
-    "i58": {
+    {
         "code": "i58",
         "name": "伊58",
         "avatar": "i58.png",
@@ -15267,7 +15267,7 @@
             }
         ]
     },
-    "i25": {
+    {
         "code": "i25",
         "name": "伊25",
         "avatar": "i25.png",
@@ -15315,7 +15315,7 @@
             }
         ]
     },
-    "i56": {
+    {
         "code": "i56",
         "name": "伊56",
         "avatar": "i56.png",
@@ -15350,7 +15350,7 @@
             }
         ]
     },
-    "i168": {
+    {
         "code": "i168",
         "name": "伊168",
         "avatar": "i168.png",
@@ -15389,7 +15389,7 @@
             }
         ]
     },
-    "mingshi": {
+    {
         "code": "mingshi",
         "name": "明石",
         "avatar": "mingshi.png",
@@ -15465,7 +15465,7 @@
             }
         ]
     },
-    "i13": {
+    {
         "code": "i13",
         "name": "伊13",
         "avatar": "i13.png",
@@ -15487,7 +15487,7 @@
             }
         ]
     },
-    "jianye": {
+    {
         "code": "jianye",
         "name": "樫野",
         "avatar": "jianye.png",
@@ -15549,7 +15549,7 @@
             }
         ]
     },
-    "yichui": {
+    {
         "code": "yichui",
         "name": "伊吹",
         "avatar": "yichui.png",
@@ -15622,7 +15622,7 @@
             }
         ]
     },
-    "chuyun": {
+    {
         "code": "chuyun",
         "name": "出云",
         "avatar": "chuyun.png",
@@ -15649,7 +15649,7 @@
             }
         ]
     },
-    "beifeng": {
+    {
         "code": "beifeng",
         "name": "北风",
         "avatar": "beifeng.png",
@@ -15703,7 +15703,7 @@
             }
         ]
     },
-    "wuqi": {
+    {
         "code": "wuqi",
         "name": "吾妻",
         "avatar": "wuqi.png",
@@ -15756,7 +15756,7 @@
             }
         ]
     },
-    "bailong": {
+    {
         "code": "bailong",
         "name": "白龙",
         "avatar": "bailong.png",
@@ -15796,7 +15796,7 @@
             }
         ]
     },
-    "z1": {
+    {
         "code": "z1",
         "name": "Z1",
         "avatar": "z1.png",
@@ -15831,7 +15831,7 @@
             }
         ]
     },
-    "z2": {
+    {
         "code": "z2",
         "name": "Z2",
         "avatar": "z2.png",
@@ -15880,7 +15880,7 @@
             }
         ]
     },
-    "z16": {
+    {
         "code": "z16",
         "name": "Z16",
         "avatar": "z16.png",
@@ -15922,7 +15922,7 @@
             }
         ]
     },
-    "z18": {
+    {
         "code": "z18",
         "name": "Z18",
         "avatar": "z18.png",
@@ -15937,7 +15937,7 @@
             }
         ]
     },
-    "z19": {
+    {
         "code": "z19",
         "name": "Z19",
         "avatar": "z19.png",
@@ -15952,7 +15952,7 @@
             }
         ]
     },
-    "z20": {
+    {
         "code": "z20",
         "name": "Z20",
         "avatar": "z20.png",
@@ -15967,7 +15967,7 @@
             }
         ]
     },
-    "z21": {
+    {
         "code": "z21",
         "name": "Z21",
         "avatar": "z21.png",
@@ -15982,7 +15982,7 @@
             }
         ]
     },
-    "z23": {
+    {
         "code": "z23",
         "name": "Z23",
         "avatar": "z23.png",
@@ -16149,7 +16149,7 @@
             }
         ]
     },
-    "z24": {
+    {
         "code": "z24",
         "name": "Z24",
         "avatar": "z24.png",
@@ -16215,7 +16215,7 @@
             }
         ]
     },
-    "z25": {
+    {
         "code": "z25",
         "name": "Z25",
         "avatar": "z25.png",
@@ -16236,7 +16236,7 @@
             }
         ]
     },
-    "z26": {
+    {
         "code": "z26",
         "name": "Z26",
         "avatar": "z26.png",
@@ -16264,7 +16264,7 @@
             }
         ]
     },
-    "z28": {
+    {
         "code": "z28",
         "name": "Z28",
         "avatar": "z28.png",
@@ -16311,7 +16311,7 @@
             }
         ]
     },
-    "z35": {
+    {
         "code": "z35",
         "name": "Z35",
         "avatar": "z35.png",
@@ -16341,7 +16341,7 @@
             }
         ]
     },
-    "z36": {
+    {
         "code": "z36",
         "name": "Z36",
         "avatar": "z36.png",
@@ -16364,7 +16364,7 @@
             }
         ]
     },
-    "z46": {
+    {
         "code": "z46",
         "name": "Z46",
         "avatar": "z46.png",
@@ -16447,7 +16447,7 @@
             }
         ]
     },
-    "kenisibao": {
+    {
         "code": "kenisibao",
         "name": "柯尼斯堡",
         "avatar": "kenisibao.png",
@@ -16462,7 +16462,7 @@
             }
         ]
     },
-    "kaersilue": {
+    {
         "code": "kaersilue",
         "name": "卡尔斯鲁厄",
         "avatar": "kaersilue.png",
@@ -16483,7 +16483,7 @@
             }
         ]
     },
-    "kelong": {
+    {
         "code": "kelong",
         "name": "科隆",
         "avatar": "kelong.png",
@@ -16511,7 +16511,7 @@
             }
         ]
     },
-    "laibixi": {
+    {
         "code": "laibixi",
         "name": "莱比锡",
         "avatar": "laibixi.png",
@@ -16555,7 +16555,7 @@
             }
         ]
     },
-    "niulunbao": {
+    {
         "code": "niulunbao",
         "name": "纽伦堡",
         "avatar": "niulunbao.png",
@@ -16593,7 +16593,7 @@
             }
         ]
     },
-    "magedebao": {
+    {
         "code": "magedebao",
         "name": "马格德堡",
         "avatar": "magedebao.png",
@@ -16642,7 +16642,7 @@
             }
         ]
     },
-    "aimudeng": {
+    {
         "code": "aimudeng",
         "name": "埃姆登",
         "avatar": "aimudeng.png",
@@ -16692,7 +16692,7 @@
             }
         ]
     },
-    "aierbin": {
+    {
         "code": "aierbin",
         "name": "埃尔宾",
         "avatar": "aierbin.png",
@@ -16742,7 +16742,7 @@
             }
         ]
     },
-    "xipeierhaijunshangjiang": {
+    {
         "code": "xipeierhaijunshangjiang",
         "name": "希佩尔海军上将",
         "avatar": "xipeierhaijunshangjiang.png",
@@ -16778,7 +16778,7 @@
             }
         ]
     },
-    "bulvxieer": {
+    {
         "code": "bulvxieer",
         "name": "布吕歇尔",
         "avatar": "bulvxieer.png",
@@ -16815,7 +16815,7 @@
             }
         ]
     },
-    "ougen": {
+    {
         "code": "ougen",
         "name": "欧根亲王",
         "avatar": "ougen.png",
@@ -16888,7 +16888,7 @@
             }
         ]
     },
-    "deyizhi": {
+    {
         "code": "deyizhi",
         "name": "德意志",
         "avatar": "deyizhi.png",
@@ -16943,7 +16943,7 @@
             }
         ]
     },
-    "sipeibojue": {
+    {
         "code": "sipeibojue",
         "name": "斯佩伯爵海军上将",
         "avatar": "sipeibojue.png",
@@ -17009,7 +17009,7 @@
             }
         ]
     },
-    "xipeier_idol": {
+    {
         "code": "xipeier_idol",
         "name": "希佩尔海军上将(μ兵装)",
         "avatar": "xipeier_idol.png",
@@ -17031,7 +17031,7 @@
             }
         ]
     },
-    "luoen_idol": {
+    {
         "code": "luoen_idol",
         "name": "罗恩(μ兵装)",
         "avatar": "luoen_idol.png",
@@ -17054,7 +17054,7 @@
             }
         ]
     },
-    "haiyinlixi": {
+    {
         "code": "haiyinlixi",
         "name": "海因里希亲王",
         "avatar": "haiyinlixi.png",
@@ -17103,7 +17103,7 @@
             }
         ]
     },
-    "adaerbote": {
+    {
         "code": "adaerbote",
         "name": "阿达尔伯特亲王",
         "avatar": "adaerbote.png",
@@ -17140,7 +17140,7 @@
             }
         ]
     },
-    "yueke_ger": {
+    {
         "code": "yueke_ger",
         "name": "约克",
         "avatar": "yueke_ger.png",
@@ -17178,7 +17178,7 @@
             }
         ]
     },
-    "ougen_younv": {
+    {
         "code": "ougen_younv",
         "name": "小欧根",
         "avatar": "ougen_younv.png",
@@ -17201,7 +17201,7 @@
             }
         ]
     },
-    "sipeibojue_younv": {
+    {
         "code": "sipeibojue_younv",
         "name": "小斯佩",
         "avatar": "sipeibojue_younv.png",
@@ -17226,7 +17226,7 @@
             }
         ]
     },
-    "shaenhuosite": {
+    {
         "code": "shaenhuosite",
         "name": "沙恩霍斯特",
         "avatar": "shaenhuosite.png",
@@ -17254,7 +17254,7 @@
             }
         ]
     },
-    "genaisennao": {
+    {
         "code": "genaisennao",
         "name": "格奈森瑙",
         "avatar": "genaisennao.png",
@@ -17286,7 +17286,7 @@
             }
         ]
     },
-    "saidelici": {
+    {
         "code": "saidelici",
         "name": "塞德利茨",
         "avatar": "saidelici.png",
@@ -17334,7 +17334,7 @@
             }
         ]
     },
-    "lvzuofu": {
+    {
         "code": "lvzuofu",
         "name": "吕佐夫",
         "avatar": "lvzuofu.png",
@@ -17395,7 +17395,7 @@
             }
         ]
     },
-    "bulunxierde": {
+    {
         "code": "bulunxierde",
         "name": "布伦希尔德",
         "avatar": "bulunxierde.png",
@@ -17430,7 +17430,7 @@
             }
         ]
     },
-    "bisimai": {
+    {
         "code": "bisimai",
         "name": "俾斯麦",
         "avatar": "bisimai.png",
@@ -17473,7 +17473,7 @@
             }
         ]
     },
-    "tierbici": {
+    {
         "code": "tierbici",
         "name": "提尔比茨",
         "avatar": "tierbici.png",
@@ -17537,7 +17537,7 @@
             }
         ]
     },
-    "wuerlixi": {
+    {
         "code": "wuerlixi",
         "name": "乌尔里希·冯·胡滕",
         "avatar": "wuerlixi.png",
@@ -17581,7 +17581,7 @@
             }
         ]
     },
-    "tulingen": {
+    {
         "code": "tulingen",
         "name": "图林根",
         "avatar": "tulingen.png",
@@ -17619,7 +17619,7 @@
             }
         ]
     },
-    "weixi": {
+    {
         "code": "weixi",
         "name": "威悉",
         "avatar": "weixi.png",
@@ -17676,7 +17676,7 @@
             }
         ]
     },
-    "yibei": {
+    {
         "code": "yibei",
         "name": "易北",
         "avatar": "yibei.png",
@@ -17726,7 +17726,7 @@
             }
         ]
     },
-    "qibolin": {
+    {
         "code": "qibolin",
         "name": "齐柏林伯爵",
         "avatar": "qibolin.png",
@@ -17748,7 +17748,7 @@
             }
         ]
     },
-    "qibolin_younv": {
+    {
         "code": "qibolin_younv",
         "name": "小齐柏林",
         "avatar": "qibolin_younv.png",
@@ -17771,7 +17771,7 @@
             }
         ]
     },
-    "shitelasai": {
+    {
         "code": "shitelasai",
         "name": "彼得·史特拉塞",
         "avatar": "shitelasai.png",
@@ -17814,7 +17814,7 @@
             }
         ]
     },
-    "u81": {
+    {
         "code": "u81",
         "name": "U-81",
         "avatar": "u81.png",
@@ -17862,7 +17862,7 @@
             }
         ]
     },
-    "u47": {
+    {
         "code": "u47",
         "name": "U-47",
         "avatar": "u47.png",
@@ -17929,7 +17929,7 @@
             }
         ]
     },
-    "u557": {
+    {
         "code": "u557",
         "name": "U-557",
         "avatar": "u557.png",
@@ -17944,7 +17944,7 @@
             }
         ]
     },
-    "u556": {
+    {
         "code": "u556",
         "name": "U-556",
         "avatar": "u556.png",
@@ -17978,7 +17978,7 @@
             }
         ]
     },
-    "u73": {
+    {
         "code": "u73",
         "name": "U-73",
         "avatar": "u73.png",
@@ -18033,7 +18033,7 @@
             }
         ]
     },
-    "u101": {
+    {
         "code": "u101",
         "name": "U-101",
         "avatar": "u101.png",
@@ -18073,7 +18073,7 @@
             }
         ]
     },
-    "u522": {
+    {
         "code": "u522",
         "name": "U-522",
         "avatar": "u522.png",
@@ -18095,7 +18095,7 @@
             }
         ]
     },
-    "u110": {
+    {
         "code": "u110",
         "name": "U-110",
         "avatar": "u110.png",
@@ -18170,7 +18170,7 @@
             }
         ]
     },
-    "u96": {
+    {
         "code": "u96",
         "name": "U-96",
         "avatar": "u96.png",
@@ -18223,7 +18223,7 @@
             }
         ]
     },
-    "u37": {
+    {
         "code": "u37",
         "name": "U-37",
         "avatar": "u37.png",
@@ -18258,7 +18258,7 @@
             }
         ]
     },
-    "u410": {
+    {
         "code": "u410",
         "name": "U-410",
         "avatar": "u410.png",
@@ -18293,7 +18293,7 @@
             }
         ]
     },
-    "u1206": {
+    {
         "code": "u1206",
         "name": "U-1206",
         "avatar": "u1206.png",
@@ -18330,7 +18330,7 @@
             }
         ]
     },
-    "luoen": {
+    {
         "code": "luoen",
         "name": "罗恩",
         "avatar": "luoen.png",
@@ -18373,7 +18373,7 @@
             }
         ]
     },
-    "feiteliedadi": {
+    {
         "code": "feiteliedadi",
         "name": "腓特烈大帝",
         "avatar": "feiteliedadi.png",
@@ -18421,7 +18421,7 @@
             }
         ]
     },
-    "meiyinci": {
+    {
         "code": "meiyinci",
         "name": "美因茨",
         "avatar": "meiyinci.png",
@@ -18446,7 +18446,7 @@
             }
         ]
     },
-    "aoding": {
+    {
         "code": "aoding",
         "name": "奥丁",
         "avatar": "aoding.png",
@@ -18482,7 +18482,7 @@
             }
         ]
     },
-    "aijier": {
+    {
         "code": "aijier",
         "name": "埃吉尔",
         "avatar": "aijier.png",
@@ -18540,7 +18540,7 @@
             }
         ]
     },
-    "aogusite": {
+    {
         "code": "aogusite",
         "name": "奥古斯特·冯·帕塞瓦尔",
         "avatar": "aogusite.png",
@@ -18583,7 +18583,7 @@
             }
         ]
     },
-    "lupuleixite": {
+    {
         "code": "lupuleixite",
         "name": "鲁普雷希特亲王",
         "avatar": "lupuleixite.png",
@@ -18628,7 +18628,7 @@
             }
         ]
     },
-    "anshan": {
+    {
         "code": "anshan",
         "name": "鞍山",
         "avatar": "anshan.png",
@@ -18684,7 +18684,7 @@
             }
         ]
     },
-    "fushun": {
+    {
         "code": "fushun",
         "name": "抚顺",
         "avatar": "fushun.png",
@@ -18722,7 +18722,7 @@
             }
         ]
     },
-    "changchun": {
+    {
         "code": "changchun",
         "name": "长春",
         "avatar": "changchun.png",
@@ -18774,7 +18774,7 @@
             }
         ]
     },
-    "taiyuan": {
+    {
         "code": "taiyuan",
         "name": "太原",
         "avatar": "taiyuan.png",
@@ -18803,7 +18803,7 @@
             }
         ]
     },
-    "yixian": {
+    {
         "code": "yixian",
         "name": "逸仙",
         "avatar": "yixian.png",
@@ -18861,7 +18861,7 @@
             }
         ]
     },
-    "ninghai": {
+    {
         "code": "ninghai",
         "name": "宁海",
         "avatar": "ninghai.png",
@@ -18944,7 +18944,7 @@
             }
         ]
     },
-    "pinghai": {
+    {
         "code": "pinghai",
         "name": "平海",
         "avatar": "pinghai.png",
@@ -19035,7 +19035,7 @@
             }
         ]
     },
-    "yingrui": {
+    {
         "code": "yingrui",
         "name": "应瑞",
         "avatar": "yingrui.png",
@@ -19082,7 +19082,7 @@
             }
         ]
     },
-    "zhaohe": {
+    {
         "code": "zhaohe",
         "name": "肇和",
         "avatar": "zhaohe.png",
@@ -19143,7 +19143,7 @@
             }
         ]
     },
-    "haitian": {
+    {
         "code": "haitian",
         "name": "海天",
         "avatar": "haitian.png",
@@ -19191,7 +19191,7 @@
             }
         ]
     },
-    "haiqi": {
+    {
         "code": "haiqi",
         "name": "海圻",
         "avatar": "haiqi.png",
@@ -19230,7 +19230,7 @@
             }
         ]
     },
-    "zhenhai": {
+    {
         "code": "zhenhai",
         "name": "镇海",
         "avatar": "zhenhai.png",
@@ -19285,7 +19285,7 @@
             }
         ]
     },
-    "huajia": {
+    {
         "code": "huajia",
         "name": "华甲",
         "avatar": "huajia.png",
@@ -19326,7 +19326,7 @@
             }
         ]
     },
-    "dingan": {
+    {
         "code": "dingan",
         "name": "定安",
         "avatar": "dingan.png",
@@ -19368,7 +19368,7 @@
             }
         ]
     },
-    "haerbin": {
+    {
         "code": "haerbin",
         "name": "哈尔滨",
         "avatar": "haerbin.png",
@@ -19409,7 +19409,7 @@
             }
         ]
     },
-    "longqibing": {
+    {
         "code": "longqibing",
         "name": "龙骑兵",
         "avatar": "longqibing.png",
@@ -19444,7 +19444,7 @@
             }
         ]
     },
-    "wenqinzuojiaobeidi": {
+    {
         "code": "wenqinzuojiaobeidi",
         "name": "文琴佐·焦贝蒂",
         "avatar": "wenqinzuojiaobeidi.png",
@@ -19481,7 +19481,7 @@
             }
         ]
     },
-    "xibeifeng": {
+    {
         "code": "xibeifeng",
         "name": "西北风",
         "avatar": "xibeifeng.png",
@@ -19519,7 +19519,7 @@
             }
         ]
     },
-    "xinanfeng": {
+    {
         "code": "xinanfeng",
         "name": "西南风",
         "avatar": "xinanfeng.png",
@@ -19557,7 +19557,7 @@
             }
         ]
     },
-    "daleike": {
+    {
         "code": "daleike",
         "name": "尼科洛索·达雷科 ",
         "avatar": "daleike.png",
@@ -19592,7 +19592,7 @@
             }
         ]
     },
-    "pangpeimagenuo": {
+    {
         "code": "pangpeimagenuo",
         "name": "庞培·马格诺",
         "avatar": "pangpeimagenuo.png",
@@ -19629,7 +19629,7 @@
             }
         ]
     },
-    "aerfuleiduo": {
+    {
         "code": "aerfuleiduo",
         "name": "阿尔弗雷多·奥里亚尼",
         "avatar": "aerfuleiduo.png",
@@ -19668,7 +19668,7 @@
             }
         ]
     },
-    "aimannuaier": {
+    {
         "code": "aimannuaier",
         "name": "埃曼努埃尔·佩萨格诺",
         "avatar": "aimannuaier.png",
@@ -19707,7 +19707,7 @@
             }
         ]
     },
-    "abuluqi": {
+    {
         "code": "abuluqi",
         "name": "阿布鲁齐公爵",
         "avatar": "abuluqi.png",
@@ -19747,7 +19747,7 @@
             }
         ]
     },
-    "zhusaipei": {
+    {
         "code": "zhusaipei",
         "name": "朱塞佩·加里波第",
         "avatar": "zhusaipei.png",
@@ -19789,7 +19789,7 @@
             }
         ]
     },
-    "teluntuo": {
+    {
         "code": "teluntuo",
         "name": "特伦托",
         "avatar": "teluntuo.png",
@@ -19825,7 +19825,7 @@
             }
         ]
     },
-    "zhala": {
+    {
         "code": "zhala",
         "name": "扎拉",
         "avatar": "zhala.png",
@@ -19862,7 +19862,7 @@
             }
         ]
     },
-    "bola": {
+    {
         "code": "bola",
         "name": "波拉",
         "avatar": "bola.png",
@@ -19898,7 +19898,7 @@
             }
         ]
     },
-    "diliyasite": {
+    {
         "code": "diliyasite",
         "name": "的里雅斯特",
         "avatar": "diliyasite.png",
@@ -19935,7 +19935,7 @@
             }
         ]
     },
-    "boerzhanuo": {
+    {
         "code": "boerzhanuo",
         "name": "博尔扎诺",
         "avatar": "boerzhanuo.png",
@@ -19989,7 +19989,7 @@
             }
         ]
     },
-    "weineituo": {
+    {
         "code": "weineituo",
         "name": "维托里奥·维内托",
         "avatar": "weineituo.png",
@@ -20028,7 +20028,7 @@
             }
         ]
     },
-    "lituoliao": {
+    {
         "code": "lituoliao",
         "name": "利托里奥",
         "avatar": "lituoliao.png",
@@ -20095,7 +20095,7 @@
             }
         ]
     },
-    "luoma": {
+    {
         "code": "luoma",
         "name": "罗马",
         "avatar": "luoma.png",
@@ -20134,7 +20134,7 @@
             }
         ]
     },
-    "jiafuerbojue": {
+    {
         "code": "jiafuerbojue",
         "name": "加富尔伯爵",
         "avatar": "jiafuerbojue.png",
@@ -20167,7 +20167,7 @@
             }
         ]
     },
-    "kaisa": {
+    {
         "code": "kaisa",
         "name": "朱利奥·凯撒",
         "avatar": "kaisa.png",
@@ -20225,7 +20225,7 @@
             }
         ]
     },
-    "tianying": {
+    {
         "code": "tianying",
         "name": "天鹰",
         "avatar": "tianying.png",
@@ -20272,7 +20272,7 @@
             }
         ]
     },
-    "diguo": {
+    {
         "code": "diguo",
         "name": "帝国",
         "avatar": "diguo.png",
@@ -20314,7 +20314,7 @@
             }
         ]
     },
-    "tuolichaili": {
+    {
         "code": "tuolichaili",
         "name": "托里拆利 ",
         "avatar": "tuolichaili.png",
@@ -20355,7 +20355,7 @@
             }
         ]
     },
-    "dafenqi": {
+    {
         "code": "dafenqi",
         "name": "莱昂纳多·达·芬奇",
         "avatar": "dafenqi.png",
@@ -20398,7 +20398,7 @@
             }
         ]
     },
-    "makeboluo": {
+    {
         "code": "makeboluo",
         "name": "马可波罗",
         "avatar": "makeboluo.png",
@@ -20438,7 +20438,7 @@
             }
         ]
     },
-    "weiyan": {
+    {
         "code": "weiyan",
         "name": "威严",
         "avatar": "weiyan.png",
@@ -20516,7 +20516,7 @@
             }
         ]
     },
-    "mingsike": {
+    {
         "code": "mingsike",
         "name": "明斯克",
         "avatar": "mingsike.png",
@@ -20555,7 +20555,7 @@
             }
         ]
     },
-    "tashigan": {
+    {
         "code": "tashigan",
         "name": "塔什干",
         "avatar": "tashigan.png",
@@ -20607,7 +20607,7 @@
             }
         ]
     },
-    "tashigan_idol": {
+    {
         "code": "tashigan_idol",
         "name": "塔什干(μ兵装)",
         "avatar": "tashigan_idol.png",
@@ -20629,7 +20629,7 @@
             }
         ]
     },
-    "shensu": {
+    {
         "code": "shensu",
         "name": "神速",
         "avatar": "shensu.png",
@@ -20664,7 +20664,7 @@
             }
         ]
     },
-    "leiming": {
+    {
         "code": "leiming",
         "name": "雷鸣",
         "avatar": "leiming.png",
@@ -20705,7 +20705,7 @@
             }
         ]
     },
-    "hongliang": {
+    {
         "code": "hongliang",
         "name": "洪亮",
         "avatar": "hongliang.png",
@@ -20740,7 +20740,7 @@
             }
         ]
     },
-    "lingmin": {
+    {
         "code": "lingmin",
         "name": "灵敏",
         "avatar": "lingmin.png",
@@ -20784,7 +20784,7 @@
             }
         ]
     },
-    "jifu": {
+    {
         "code": "jifu",
         "name": "基辅",
         "avatar": "jifu.png",
@@ -20823,7 +20823,7 @@
             }
         ]
     },
-    "afuleer": {
+    {
         "code": "afuleer",
         "name": "阿芙乐尔",
         "avatar": "afuleer.png",
@@ -20867,7 +20867,7 @@
             }
         ]
     },
-    "shuixingjinian": {
+    {
         "code": "shuixingjinian",
         "name": "水星纪念",
         "avatar": "shuixingjinian.png",
@@ -20973,7 +20973,7 @@
             }
         ]
     },
-    "qiabayefu": {
+    {
         "code": "qiabayefu",
         "name": "恰巴耶夫",
         "avatar": "qiabayefu.png",
@@ -21039,7 +21039,7 @@
             }
         ]
     },
-    "jiluofu": {
+    {
         "code": "jiluofu",
         "name": "基洛夫",
         "avatar": "jiluofu.png",
@@ -21107,7 +21107,7 @@
             }
         ]
     },
-    "gubixuefu": {
+    {
         "code": "gubixuefu",
         "name": "古比雪夫",
         "avatar": "gubixuefu.png",
@@ -21145,7 +21145,7 @@
             }
         ]
     },
-    "moermansike": {
+    {
         "code": "moermansike",
         "name": "摩尔曼斯克",
         "avatar": "moermansike.png",
@@ -21188,7 +21188,7 @@
             }
         ]
     },
-    "talin": {
+    {
         "code": "talin",
         "name": "塔林",
         "avatar": "talin.png",
@@ -21240,7 +21240,7 @@
             }
         ]
     },
-    "gangute": {
+    {
         "code": "gangute",
         "name": "甘古特",
         "avatar": "gangute.png",
@@ -21293,7 +21293,7 @@
             }
         ]
     },
-    "suweiaibeilaluosi": {
+    {
         "code": "suweiaibeilaluosi",
         "name": "苏维埃贝拉罗斯",
         "avatar": "suweiaibeilaluosi.png",
@@ -21328,7 +21328,7 @@
             }
         ]
     },
-    "suweiailuoxiya": {
+    {
         "code": "suweiailuoxiya",
         "name": "苏维埃罗西亚",
         "avatar": "suweiailuoxiya.png",
@@ -21364,7 +21364,7 @@
             }
         ]
     },
-    "aerhangeersike": {
+    {
         "code": "aerhangeersike",
         "name": "阿尔汉格尔斯克",
         "avatar": "aerhangeersike.png",
@@ -21401,7 +21401,7 @@
             }
         ]
     },
-    "fuerjia": {
+    {
         "code": "fuerjia",
         "name": "伏尔加",
         "avatar": "fuerjia.png",
@@ -21437,7 +21437,7 @@
             }
         ]
     },
-    "kalangshitade": {
+    {
         "code": "kalangshitade",
         "name": "喀琅施塔得",
         "avatar": "kalangshitade.png",
@@ -21477,7 +21477,7 @@
             }
         ]
     },
-    "qikaluofu": {
+    {
         "code": "qikaluofu",
         "name": "契卡洛夫",
         "avatar": "qikaluofu.png",
@@ -21519,7 +21519,7 @@
             }
         ]
     },
-    "kaixuan": {
+    {
         "code": "kaixuan",
         "name": "凯旋",
         "avatar": "kaixuan.png",
@@ -21534,7 +21534,7 @@
             }
         ]
     },
-    "fuerban": {
+    {
         "code": "fuerban",
         "name": "福尔班",
         "avatar": "fuerban.png",
@@ -21607,7 +21607,7 @@
             }
         ]
     },
-    "lumang": {
+    {
         "code": "lumang",
         "name": "鲁莽",
         "avatar": "lumang.png",
@@ -21675,7 +21675,7 @@
             }
         ]
     },
-    "juejiang": {
+    {
         "code": "juejiang",
         "name": "倔强",
         "avatar": "juejiang.png",
@@ -21720,7 +21720,7 @@
             }
         ]
     },
-    "kebu": {
+    {
         "code": "kebu",
         "name": "可怖",
         "avatar": "kebu.png",
@@ -21770,7 +21770,7 @@
             }
         ]
     },
-    "mayebuleize": {
+    {
         "code": "mayebuleize",
         "name": "马耶·布雷泽",
         "avatar": "mayebuleize.png",
@@ -21823,7 +21823,7 @@
             }
         ]
     },
-    "aimierbeierding": {
+    {
         "code": "aimierbeierding",
         "name": "埃米尔·贝尔汀",
         "avatar": "aimierbeierding.png",
@@ -21890,7 +21890,7 @@
             }
         ]
     },
-    "shengnvzhende": {
+    {
         "code": "shengnvzhende",
         "name": "圣女贞德",
         "avatar": "shengnvzhende.png",
@@ -21926,7 +21926,7 @@
             }
         ]
     },
-    "lisailiu": {
+    {
         "code": "lisailiu",
         "name": "黎塞留",
         "avatar": "lisailiu.png",
@@ -21978,7 +21978,7 @@
             }
         ]
     },
-    "beiyaen": {
+    {
         "code": "beiyaen",
         "name": "贝亚恩",
         "avatar": "beiyaen.png",
@@ -22018,7 +22018,7 @@
             }
         ]
     },
-    "xukufu": {
+    {
         "code": "xukufu",
         "name": "絮库夫",
         "avatar": "xukufu.png",
@@ -22064,7 +22064,7 @@
             }
         ]
     },
-    "luyijiushi": {
+    {
         "code": "luyijiushi",
         "name": "路易九世",
         "avatar": "luyijiushi.png",
@@ -22107,7 +22107,7 @@
             }
         ]
     },
-    "xiangbin": {
+    {
         "code": "xiangbin",
         "name": "香槟",
         "avatar": "xiangbin.png",
@@ -22145,7 +22145,7 @@
             }
         ]
     },
-    "buleisite": {
+    {
         "code": "buleisite",
         "name": "布雷斯特",
         "avatar": "buleisite.png",
@@ -22185,7 +22185,7 @@
             }
         ]
     },
-    "lemaer": {
+    {
         "code": "lemaer",
         "name": "勒马尔",
         "avatar": "lemaer.png",
@@ -22242,7 +22242,7 @@
             }
         ]
     },
-    "taertu": {
+    {
         "code": "taertu",
         "name": "塔尔图",
         "avatar": "taertu.png",
@@ -22278,7 +22278,7 @@
             }
         ]
     },
-    "wokelan": {
+    {
         "code": "wokelan",
         "name": "沃克兰",
         "avatar": "wokelan.png",
@@ -22347,7 +22347,7 @@
             }
         ]
     },
-    "edu": {
+    {
         "code": "edu",
         "name": "恶毒",
         "avatar": "edu.png",
@@ -22414,7 +22414,7 @@
             }
         ]
     },
-    "edu_idol": {
+    {
         "code": "edu_idol",
         "name": "恶毒(μ兵装)",
         "avatar": "edu_idol.png",
@@ -22438,7 +22438,7 @@
             }
         ]
     },
-    "buqu": {
+    {
         "code": "buqu",
         "name": "不屈",
         "avatar": "buqu.png",
@@ -22490,7 +22490,7 @@
             }
         ]
     },
-    "jialisuoniye": {
+    {
         "code": "jialisuoniye",
         "name": "拉·加利索尼埃",
         "avatar": "jialisuoniye.png",
@@ -22555,7 +22555,7 @@
             }
         ]
     },
-    "fuxu": {
+    {
         "code": "fuxu",
         "name": "福煦",
         "avatar": "fuxu.png",
@@ -22597,7 +22597,7 @@
             }
         ]
     },
-    "aerjiliya": {
+    {
         "code": "aerjiliya",
         "name": "阿尔及利亚",
         "avatar": "aerjiliya.png",
@@ -22651,7 +22651,7 @@
             }
         ]
     },
-    "dunkeerke": {
+    {
         "code": "dunkeerke",
         "name": "敦刻尔克",
         "avatar": "dunkeerke.png",
@@ -22698,7 +22698,7 @@
             }
         ]
     },
-    "rangbaer": {
+    {
         "code": "rangbaer",
         "name": "让·巴尔",
         "avatar": "rangbaer.png",
@@ -22747,7 +22747,7 @@
             }
         ]
     },
-    "jiasikenie_idol": {
+    {
         "code": "jiasikenie_idol",
         "name": "加斯科涅(μ兵装)",
         "avatar": "jiasikenie_idol.png",
@@ -22770,7 +22770,7 @@
             }
         ]
     },
-    "xiafei": {
+    {
         "code": "xiafei",
         "name": "霞飞",
         "avatar": "xiafei.png",
@@ -22811,7 +22811,7 @@
             }
         ]
     },
-    "jiasikenie": {
+    {
         "code": "jiasikenie",
         "name": "加斯科涅",
         "avatar": "jiasikenie.png",
@@ -22853,7 +22853,7 @@
             }
         ]
     },
-    "huangjiacaifu": {
+    {
         "code": "huangjiacaifu",
         "name": "皇家财富号",
         "avatar": "huangjiacaifu.png",
@@ -22894,7 +22894,7 @@
             }
         ]
     },
-    "lieren_alter": {
+    {
         "code": "lieren_alter",
         "name": "猎人·META",
         "avatar": "lieren_alter.png",
@@ -22915,7 +22915,7 @@
             }
         ]
     },
-    "mingyunnvshen_alter": {
+    {
         "code": "mingyunnvshen_alter",
         "name": "命运女神·META",
         "avatar": "mingyunnvshen_alter.png",
@@ -22937,7 +22937,7 @@
             }
         ]
     },
-    "hailunna_alter": {
+    {
         "code": "hailunna_alter",
         "name": "海伦娜·META",
         "avatar": "hailunna_alter.png",
@@ -22961,7 +22961,7 @@
             }
         ]
     },
-    "mengfeisi_alter": {
+    {
         "code": "mengfeisi_alter",
         "name": "孟菲斯·META",
         "avatar": "mengfeisi_alter.png",
@@ -22987,7 +22987,7 @@
             }
         ]
     },
-    "xiefeierde_alter": {
+    {
         "code": "xiefeierde_alter",
         "name": "谢菲尔德·META",
         "avatar": "xiefeierde_alter.png",
@@ -23011,7 +23011,7 @@
             }
         ]
     },
-    "teluntuo_alter": {
+    {
         "code": "teluntuo_alter",
         "name": "特伦托·META",
         "avatar": "teluntuo_alter.png",
@@ -23034,7 +23034,7 @@
             }
         ]
     },
-    "genaisennao_alter": {
+    {
         "code": "genaisennao_alter",
         "name": "格奈森瑙·META",
         "avatar": "genaisennao_alter.png",
@@ -23056,7 +23056,7 @@
             }
         ]
     },
-    "shaenhuosite_alter": {
+    {
         "code": "shaenhuosite_alter",
         "name": "沙恩霍斯特·META",
         "avatar": "shaenhuosite_alter.png",
@@ -23077,7 +23077,7 @@
             }
         ]
     },
-    "fanji_alter": {
+    {
         "code": "fanji_alter",
         "name": "反击·META",
         "avatar": "fanji_alter.png",
@@ -23098,7 +23098,7 @@
             }
         ]
     },
-    "shengwang_alter": {
+    {
         "code": "shengwang_alter",
         "name": "声望·META",
         "avatar": "shengwang_alter.png",
@@ -23122,7 +23122,7 @@
             }
         ]
     },
-    "fusang_alter": {
+    {
         "code": "fusang_alter",
         "name": "扶桑·META",
         "avatar": "fusang_alter.png",
@@ -23144,7 +23144,7 @@
             }
         ]
     },
-    "shancheng_alter": {
+    {
         "code": "shancheng_alter",
         "name": "山城·META",
         "avatar": "shancheng_alter.png",
@@ -23165,7 +23165,7 @@
             }
         ]
     },
-    "yalisangna_alter": {
+    {
         "code": "yalisangna_alter",
         "name": "亚利桑那·META",
         "avatar": "yalisangna_alter.png",
@@ -23190,7 +23190,7 @@
             }
         ]
     },
-    "feiying_alter": {
+    {
         "code": "feiying_alter",
         "name": "飞鹰·META",
         "avatar": "feiying_alter.png",
@@ -23211,7 +23211,7 @@
             }
         ]
     },
-    "sunying_alter": {
+    {
         "code": "sunying_alter",
         "name": "隼鹰·META",
         "avatar": "sunying_alter.png",
@@ -23232,7 +23232,7 @@
             }
         ]
     },
-    "feilong_alter": {
+    {
         "code": "feilong_alter",
         "name": "飞龙·META",
         "avatar": "feilong_alter.png",
@@ -23256,7 +23256,7 @@
             }
         ]
     },
-    "huangjiafangzhou_alter": {
+    {
         "code": "huangjiafangzhou_alter",
         "name": "皇家方舟·META",
         "avatar": "huangjiafangzhou_alter.png",
@@ -23279,7 +23279,7 @@
             }
         ]
     },
-    "canglong_alter": {
+    {
         "code": "canglong_alter",
         "name": "苍龙·META",
         "avatar": "canglong_alter.png",
@@ -23304,7 +23304,7 @@
             }
         ]
     },
-    "hdn101": {
+    {
         "code": "hdn101",
         "name": "涅普顿",
         "avatar": "hdn101.png",
@@ -23319,7 +23319,7 @@
             }
         ]
     },
-    "hdn201": {
+    {
         "code": "hdn201",
         "name": "诺瓦露",
         "avatar": "hdn201.png",
@@ -23334,7 +23334,7 @@
             }
         ]
     },
-    "hdn301": {
+    {
         "code": "hdn301",
         "name": "布兰",
         "avatar": "hdn301.png",
@@ -23349,7 +23349,7 @@
             }
         ]
     },
-    "hdn401": {
+    {
         "code": "hdn401",
         "name": "贝露",
         "avatar": "hdn401.png",
@@ -23364,7 +23364,7 @@
             }
         ]
     },
-    "hdn102_1": {
+    {
         "code": "hdn102_1",
         "name": "绀紫之心",
         "avatar": "hdn102_1.png",
@@ -23385,7 +23385,7 @@
             }
         ]
     },
-    "hdn202_1": {
+    {
         "code": "hdn202_1",
         "name": "圣黑之心",
         "avatar": "hdn202_1.png",
@@ -23406,7 +23406,7 @@
             }
         ]
     },
-    "hdn302_1": {
+    {
         "code": "hdn302_1",
         "name": "群白之心",
         "avatar": "hdn302_1.png",
@@ -23427,7 +23427,7 @@
             }
         ]
     },
-    "hdn402_1": {
+    {
         "code": "hdn402_1",
         "name": "翡绿之心",
         "avatar": "hdn402_1.png",
@@ -23448,7 +23448,7 @@
             }
         ]
     },
-    "22": {
+    {
         "code": 22,
         "name": "22",
         "avatar": "22.png",
@@ -23463,7 +23463,7 @@
             }
         ]
     },
-    "33": {
+    {
         "code": 33,
         "name": "33",
         "avatar": "33.png",
@@ -23478,7 +23478,7 @@
             }
         ]
     },
-    "jiuyuan": {
+    {
         "code": "jiuyuan",
         "name": "久远",
         "avatar": "jiuyuan.png",
@@ -23505,7 +23505,7 @@
             }
         ]
     },
-    "maoyin": {
+    {
         "code": "maoyin",
         "name": "猫音",
         "avatar": "maoyin.png",
@@ -23532,7 +23532,7 @@
             }
         ]
     },
-    "lulutiye": {
+    {
         "code": "lulutiye",
         "name": "露露缇耶",
         "avatar": "lulutiye.png",
@@ -23559,7 +23559,7 @@
             }
         ]
     },
-    "wululu": {
+    {
         "code": "wululu",
         "name": "乌璐露",
         "avatar": "wululu.png",
@@ -23586,7 +23586,7 @@
             }
         ]
     },
-    "salana": {
+    {
         "code": "salana",
         "name": "萨拉娜",
         "avatar": "salana.png",
@@ -23613,7 +23613,7 @@
             }
         ]
     },
-    "fumilulu": {
+    {
         "code": "fumilulu",
         "name": "芙米露露",
         "avatar": "fumilulu.png",
@@ -23640,7 +23640,7 @@
             }
         ]
     },
-    "aijiangdd": {
+    {
         "code": "aijiangdd",
         "name": "绊爱",
         "avatar": "aijiangdd.png",
@@ -23678,7 +23678,7 @@
             }
         ]
     },
-    "aijiangcl": {
+    {
         "code": "aijiangcl",
         "name": "绊爱·Elegant",
         "avatar": "aijiangcl.png",
@@ -23702,7 +23702,7 @@
             }
         ]
     },
-    "aijiangcv": {
+    {
         "code": "aijiangcv",
         "name": "绊爱·Anniversary",
         "avatar": "aijiangcv.png",
@@ -23717,7 +23717,7 @@
             }
         ]
     },
-    "aijiangbb": {
+    {
         "code": "aijiangbb",
         "name": "绊爱·SuperGamer",
         "avatar": "aijiangbb.png",
@@ -23741,7 +23741,7 @@
             }
         ]
     },
-    "vtuber_fubuki": {
+    {
         "code": "vtuber_fubuki",
         "name": "白上吹雪",
         "avatar": "vtuber_fubuki.png",
@@ -23775,7 +23775,7 @@
             }
         ]
     },
-    "vtuber_sora": {
+    {
         "code": "vtuber_sora",
         "name": "时乃空",
         "avatar": "vtuber_sora.png",
@@ -23812,7 +23812,7 @@
             }
         ]
     },
-    "vtuber_aqua": {
+    {
         "code": "vtuber_aqua",
         "name": "湊阿库娅",
         "avatar": "vtuber_aqua.png",
@@ -23848,7 +23848,7 @@
             }
         ]
     },
-    "vtuber_matsuri": {
+    {
         "code": "vtuber_matsuri",
         "name": "夏色祭",
         "avatar": "vtuber_matsuri.png",
@@ -23883,7 +23883,7 @@
             }
         ]
     },
-    "vtuber_ayame": {
+    {
         "code": "vtuber_ayame",
         "name": "百鬼绫目",
         "avatar": "vtuber_ayame.png",
@@ -23920,7 +23920,7 @@
             }
         ]
     },
-    "vtuber_shion": {
+    {
         "code": "vtuber_shion",
         "name": "紫咲诗音",
         "avatar": "vtuber_shion.png",
@@ -23957,7 +23957,7 @@
             }
         ]
     },
-    "vtuber_mio": {
+    {
         "code": "vtuber_mio",
         "name": "大神澪",
         "avatar": "vtuber_mio.png",
@@ -23995,7 +23995,7 @@
             }
         ]
     },
-    "maliluosi_doa": {
+    {
         "code": "maliluosi_doa",
         "name": "玛莉萝丝",
         "avatar": "maliluosi_doa.png",
@@ -24032,7 +24032,7 @@
             }
         ]
     },
-    "suixiang_doa": {
+    {
         "code": "suixiang_doa",
         "name": "穗香",
         "avatar": "suixiang_doa.png",
@@ -24067,7 +24067,7 @@
             }
         ]
     },
-    "xia_doa": {
+    {
         "code": "xia_doa",
         "name": "霞",
         "avatar": "xia_doa.png",
@@ -24103,7 +24103,7 @@
             }
         ]
     },
-    "haixiao_doa": {
+    {
         "code": "haixiao_doa",
         "name": "海咲",
         "avatar": "haixiao_doa.png",
@@ -24139,7 +24139,7 @@
             }
         ]
     },
-    "zhixiao_doa": {
+    {
         "code": "zhixiao_doa",
         "name": "凪咲",
         "avatar": "zhixiao_doa.png",
@@ -24174,7 +24174,7 @@
             }
         ]
     },
-    "nvtiangou_doa": {
+    {
         "code": "nvtiangou_doa",
         "name": "女天狗",
         "avatar": "nvtiangou_doa.png",
@@ -24208,7 +24208,7 @@
             }
         ]
     },
-    "monika_doa": {
+    {
         "code": "monika_doa",
         "name": "莫妮卡",
         "avatar": "monika_doa.png",
@@ -24246,7 +24246,7 @@
             }
         ]
     },
-    "chunxiang": {
+    {
         "code": "chunxiang",
         "name": "天海春香",
         "avatar": "chunxiang.png",
@@ -24281,7 +24281,7 @@
             }
         ]
     },
-    "qianzao": {
+    {
         "code": "qianzao",
         "name": "如月千早",
         "avatar": "qianzao.png",
@@ -24316,7 +24316,7 @@
             }
         ]
     },
-    "yizhi": {
+    {
         "code": "yizhi",
         "name": "水濑伊织",
         "avatar": "yizhi.png",
@@ -24351,7 +24351,7 @@
             }
         ]
     },
-    "zi": {
+    {
         "code": "zi",
         "name": "三浦 梓",
         "avatar": "zi.png",
@@ -24386,7 +24386,7 @@
             }
         ]
     },
-    "lvzi": {
+    {
         "code": "lvzi",
         "name": "秋月律子",
         "avatar": "lvzi.png",
@@ -24421,7 +24421,7 @@
             }
         ]
     },
-    "yamei": {
+    {
         "code": "yamei",
         "name": "双海亚美",
         "avatar": "yamei.png",
@@ -24456,7 +24456,7 @@
             }
         ]
     },
-    "zhenmei": {
+    {
         "code": "zhenmei",
         "name": "双海真美",
         "avatar": "zhenmei.png",
@@ -24491,7 +24491,7 @@
             }
         ]
     },
-    "baoduoliuhua": {
+    {
         "code": "baoduoliuhua",
         "name": "宝多六花 ",
         "avatar": "baoduoliuhua.png",
@@ -24528,7 +24528,7 @@
             }
         ]
     },
-    "qian": {
+    {
         "code": "qian",
         "name": "新条茜 ",
         "avatar": "qian.png",
@@ -24564,7 +24564,7 @@
             }
         ]
     },
-    "lian": {
+    {
         "code": "lian",
         "name": "莲",
         "avatar": "lian.png",
@@ -24603,7 +24603,7 @@
             }
         ]
     },
-    "naimeizi": {
+    {
         "code": "naimeizi",
         "name": "奈美子",
         "avatar": "naimeizi.png",
@@ -24640,7 +24640,7 @@
             }
         ]
     },
-    "mengya": {
+    {
         "code": "mengya",
         "name": "南梦芽",
         "avatar": "mengya.png",
@@ -24676,7 +24676,7 @@
             }
         ]
     },
-    "qianlai": {
+    {
         "code": "qianlai",
         "name": "飞鸟川千濑",
         "avatar": "qianlai.png",
@@ -24712,7 +24712,7 @@
             }
         ]
     },
-    "he": {
+    {
         "code": "he",
         "name": "貉",
         "avatar": "he.png",
@@ -24752,7 +24752,7 @@
             }
         ]
     },
-    "laisha": {
+    {
         "code": "laisha",
         "name": "莱莎琳·斯托特",
         "avatar": "laisha.png",
@@ -24790,7 +24790,7 @@
             }
         ]
     },
-    "keluodiya": {
+    {
         "code": "keluodiya",
         "name": "科洛蒂娅·巴兰茨",
         "avatar": "keluodiya.png",
@@ -24836,7 +24836,7 @@
             }
         ]
     },
-    "patelixia": {
+    {
         "code": "patelixia",
         "name": "帕特莉夏·阿贝尔海姆",
         "avatar": "patelixia.png",
@@ -24874,7 +24874,7 @@
             }
         ]
     },
-    "lila": {
+    {
         "code": "lila",
         "name": "莉拉·德西亚斯",
         "avatar": "lila.png",
@@ -24914,7 +24914,7 @@
             }
         ]
     },
-    "saili": {
+    {
         "code": "saili",
         "name": "赛莉·古劳斯",
         "avatar": "saili.png",
@@ -24957,7 +24957,7 @@
             }
         ]
     },
-    "kala": {
+    {
         "code": "kala",
         "name": "卡菈·伊迪亚斯",
         "avatar": "kala.png",
@@ -24983,4 +24983,4 @@
             }
         ]
     }
-}
+]
