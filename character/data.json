@@ -5,6 +5,7 @@
         "avatar": "gin.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 98,
         "skins": [
             {
                 "code": "gin",
@@ -42,6 +43,7 @@
         "avatar": "kin.png",
         "type": 1,
         "rarity": 5,
+        "nationality": 98,
         "skins": [
             {
                 "code": "kin",
@@ -61,6 +63,7 @@
         "avatar": "buli_super.png",
         "type": 1,
         "rarity": 6,
+        "nationality": 98,
         "skins": [
             {
                 "code": "buli_super",
@@ -87,6 +90,7 @@
         "avatar": "duwei.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "duwei",
@@ -147,6 +151,7 @@
         "avatar": "kaxin.png",
         "type": 1,
         "rarity": 2,
+        "nationality": 1,
         "skins": [
             {
                 "code": "kaxin",
@@ -195,6 +200,7 @@
         "avatar": "tangsi.png",
         "type": 1,
         "rarity": 2,
+        "nationality": 1,
         "skins": [
             {
                 "code": "tangsi",
@@ -241,6 +247,7 @@
         "avatar": "gelideli.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "gelideli",
@@ -270,6 +277,7 @@
         "avatar": "keleiwen.png",
         "type": 1,
         "rarity": 2,
+        "nationality": 1,
         "skins": [
             {
                 "code": "keleiwen",
@@ -299,6 +307,7 @@
         "avatar": "maikaoer.png",
         "type": 1,
         "rarity": 2,
+        "nationality": 1,
         "skins": [
             {
                 "code": "maikaoer",
@@ -318,6 +327,7 @@
         "avatar": "moli.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "moli",
@@ -337,6 +347,7 @@
         "avatar": "fulaiche.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "fulaiche",
@@ -356,6 +367,7 @@
         "avatar": "aosiben.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "aosiben",
@@ -394,6 +406,7 @@
         "avatar": "saqieer.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "saqieer",
@@ -413,6 +426,7 @@
         "avatar": "aolike.png",
         "type": 1,
         "rarity": 2,
+        "nationality": 1,
         "skins": [
             {
                 "code": "aolike",
@@ -432,6 +446,7 @@
         "avatar": "fute.png",
         "type": 1,
         "rarity": 2,
+        "nationality": 1,
         "skins": [
             {
                 "code": "fute",
@@ -451,6 +466,7 @@
         "avatar": "sipengsi.png",
         "type": 1,
         "rarity": 2,
+        "nationality": 1,
         "skins": [
             {
                 "code": "sipengsi",
@@ -470,6 +486,7 @@
         "avatar": "bensen.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "bensen",
@@ -506,6 +523,7 @@
         "avatar": "lafei.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "lafei",
@@ -697,6 +715,7 @@
         "avatar": "ximusi.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "ximusi",
@@ -732,6 +751,7 @@
         "avatar": "haman.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "haman",
@@ -829,6 +849,7 @@
         "avatar": "aierdeliqi.png",
         "type": 1,
         "rarity": 5,
+        "nationality": 1,
         "skins": [
             {
                 "code": "aierdeliqi",
@@ -922,6 +943,7 @@
         "avatar": "beili.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "beili",
@@ -983,6 +1005,7 @@
         "avatar": "ladefute.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "ladefute",
@@ -1018,6 +1041,7 @@
         "avatar": "jiejinsi.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "jiejinsi",
@@ -1055,6 +1079,7 @@
         "avatar": "nigulasi.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "nigulasi",
@@ -1154,6 +1179,7 @@
         "avatar": "bushi.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "bushi",
@@ -1194,6 +1220,7 @@
         "avatar": "heizewude.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "heizewude",
@@ -1218,6 +1245,7 @@
         "avatar": "beiqi.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "beiqi",
@@ -1272,6 +1300,7 @@
         "avatar": "huobi.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "huobi",
@@ -1313,6 +1342,7 @@
         "avatar": "keerke.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "keerke",
@@ -1354,6 +1384,7 @@
         "avatar": "jinboli.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "jinboli",
@@ -1399,6 +1430,7 @@
         "avatar": "malani.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "malani",
@@ -1444,6 +1476,7 @@
         "avatar": "aierwen.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "aierwen",
@@ -1486,6 +1519,7 @@
         "avatar": "sitanli.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "sitanli",
@@ -1512,6 +1546,7 @@
         "avatar": "simoli.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "simoli",
@@ -1556,6 +1591,7 @@
         "avatar": "haerxibaoweier.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "haerxibaoweier",
@@ -1600,6 +1636,7 @@
         "avatar": "kubo.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "kubo",
@@ -1663,6 +1700,7 @@
         "avatar": "ailunsamuna.png",
         "type": 1,
         "rarity": 5,
+        "nationality": 1,
         "skins": [
             {
                 "code": "ailunsamuna",
@@ -1709,6 +1747,7 @@
         "avatar": "shidifenbote.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "shidifenbote",
@@ -1758,6 +1797,7 @@
         "avatar": "molisen.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "molisen",
@@ -1801,6 +1841,7 @@
         "avatar": "yinggelahan.png",
         "type": 1,
         "rarity": 5,
+        "nationality": 1,
         "skins": [
             {
                 "code": "yinggelahan",
@@ -1848,6 +1889,7 @@
         "avatar": "bulisituoer.png",
         "type": 1,
         "rarity": 5,
+        "nationality": 1,
         "skins": [
             {
                 "code": "bulisituoer",
@@ -1895,6 +1937,7 @@
         "avatar": "hamanii.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "hamanii",
@@ -1938,6 +1981,7 @@
         "avatar": "aomaha.png",
         "type": 2,
         "rarity": 2,
+        "nationality": 1,
         "skins": [
             {
                 "code": "aomaha",
@@ -1957,6 +2001,7 @@
         "avatar": "luoli.png",
         "type": 2,
         "rarity": 2,
+        "nationality": 1,
         "skins": [
             {
                 "code": "luoli",
@@ -1976,6 +2021,7 @@
         "avatar": "bulukelin.png",
         "type": 2,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "bulukelin",
@@ -1995,6 +2041,7 @@
         "avatar": "feinikesi.png",
         "type": 2,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "feinikesi",
@@ -2014,6 +2061,7 @@
         "avatar": "hailunna.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "hailunna",
@@ -2108,6 +2156,7 @@
         "avatar": "yatelanda.png",
         "type": 2,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "yatelanda",
@@ -2127,6 +2176,7 @@
         "avatar": "zhunuo.png",
         "type": 2,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "zhunuo",
@@ -2186,6 +2236,7 @@
         "avatar": "shengdiyage.png",
         "type": 2,
         "rarity": 5,
+        "nationality": 1,
         "skins": [
             {
                 "code": "shengdiyage",
@@ -2244,6 +2295,7 @@
         "avatar": "kelifulan.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "kelifulan",
@@ -2356,6 +2408,7 @@
         "avatar": "gelunbiya.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "gelunbiya",
@@ -2418,6 +2471,7 @@
         "avatar": "lishiman.png",
         "type": 2,
         "rarity": 2,
+        "nationality": 1,
         "skins": [
             {
                 "code": "lishiman",
@@ -2437,6 +2491,7 @@
         "avatar": "huonululu.png",
         "type": 2,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "huonululu",
@@ -2513,6 +2568,7 @@
         "avatar": "shengluyisi.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "shengluyisi",
@@ -2577,6 +2633,7 @@
         "avatar": "mengbiliai.png",
         "type": 2,
         "rarity": 5,
+        "nationality": 1,
         "skins": [
             {
                 "code": "mengbiliai",
@@ -2628,6 +2685,7 @@
         "avatar": "danfo.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "danfo",
@@ -2647,6 +2705,7 @@
         "avatar": "mengfeisi.png",
         "type": 2,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "mengfeisi",
@@ -2725,6 +2784,7 @@
         "avatar": "kangkede.png",
         "type": 2,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "kangkede",
@@ -2791,6 +2851,7 @@
         "avatar": "hailunna_younv.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "hailunna_younv",
@@ -2817,6 +2878,7 @@
         "avatar": "kelifulan_younv.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "kelifulan_younv",
@@ -2842,6 +2904,7 @@
         "avatar": "shengdiyage_younv.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "shengdiyage_younv",
@@ -2868,6 +2931,7 @@
         "avatar": "shenghuan.png",
         "type": 2,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "shenghuan",
@@ -2912,6 +2976,7 @@
         "avatar": "bominghan.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "bominghan",
@@ -2988,6 +3053,7 @@
         "avatar": "kelifulan_idol.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "kelifulan_idol",
@@ -3014,6 +3080,7 @@
         "avatar": "biluokexi.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "biluokexi",
@@ -3107,6 +3174,7 @@
         "avatar": "linuo.png",
         "type": 2,
         "rarity": 5,
+        "nationality": 1,
         "skins": [
             {
                 "code": "linuo",
@@ -3199,6 +3267,7 @@
         "avatar": "mabuerheide.png",
         "type": 2,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "mabuerheide",
@@ -3283,6 +3352,7 @@
         "avatar": "boyixi.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "boyixi",
@@ -3368,6 +3438,7 @@
         "avatar": "pengsakela.png",
         "type": 3,
         "rarity": 2,
+        "nationality": 1,
         "skins": [
             {
                 "code": "pengsakela",
@@ -3387,6 +3458,7 @@
         "avatar": "yanhucheng.png",
         "type": 3,
         "rarity": 2,
+        "nationality": 1,
         "skins": [
             {
                 "code": "yanhucheng",
@@ -3406,6 +3478,7 @@
         "avatar": "beianpudun.png",
         "type": 3,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "beianpudun",
@@ -3425,6 +3498,7 @@
         "avatar": "zhijiage.png",
         "type": 3,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "zhijiage",
@@ -3444,6 +3518,7 @@
         "avatar": "xiusidun.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "xiusidun",
@@ -3463,6 +3538,7 @@
         "avatar": "botelan.png",
         "type": 3,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "botelan",
@@ -3509,6 +3585,7 @@
         "avatar": "bolisi.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "bolisi",
@@ -3560,6 +3637,7 @@
         "avatar": "asituoliya.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "asituoliya",
@@ -3601,6 +3679,7 @@
         "avatar": "kunxi.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "kunxi",
@@ -3630,6 +3709,7 @@
         "avatar": "wensensi.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "wensensi",
@@ -3675,6 +3755,7 @@
         "avatar": "weiqita.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "weiqita",
@@ -3732,6 +3813,7 @@
         "avatar": "xinaoerliang.png",
         "type": 3,
         "rarity": 5,
+        "nationality": 1,
         "skins": [
             {
                 "code": "xinaoerliang",
@@ -3777,6 +3859,7 @@
         "avatar": "mingniabolisi.png",
         "type": 3,
         "rarity": 5,
+        "nationality": 1,
         "skins": [
             {
                 "code": "mingniabolisi",
@@ -3870,6 +3953,7 @@
         "avatar": "jiujinshan.png",
         "type": 3,
         "rarity": 5,
+        "nationality": 1,
         "skins": [
             {
                 "code": "jiujinshan",
@@ -3933,6 +4017,7 @@
         "avatar": "baerdimo.png",
         "type": 3,
         "rarity": 5,
+        "nationality": 1,
         "skins": [
             {
                 "code": "baerdimo",
@@ -4045,6 +4130,7 @@
         "avatar": "bulaimodun.png",
         "type": 3,
         "rarity": 5,
+        "nationality": 1,
         "skins": [
             {
                 "code": "bulaimodun",
@@ -4151,6 +4237,7 @@
         "avatar": "baerdimo_idol.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "baerdimo_idol",
@@ -4178,6 +4265,7 @@
         "avatar": "beianpudunii.png",
         "type": 3,
         "rarity": 5,
+        "nationality": 1,
         "skins": [
             {
                 "code": "beianpudunii",
@@ -4226,6 +4314,7 @@
         "avatar": "neihuada.png",
         "type": 5,
         "rarity": 2,
+        "nationality": 1,
         "skins": [
             {
                 "code": "neihuada",
@@ -4272,6 +4361,7 @@
         "avatar": "ekelahema.png",
         "type": 5,
         "rarity": 2,
+        "nationality": 1,
         "skins": [
             {
                 "code": "ekelahema",
@@ -4318,6 +4408,7 @@
         "avatar": "binxifaniya.png",
         "type": 5,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "binxifaniya",
@@ -4355,6 +4446,7 @@
         "avatar": "yalisangna.png",
         "type": 5,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "yalisangna",
@@ -4392,6 +4484,7 @@
         "avatar": "tiannaxi.png",
         "type": 5,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "tiannaxi",
@@ -4411,6 +4504,7 @@
         "avatar": "jialifuniya.png",
         "type": 5,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "jialifuniya",
@@ -4430,6 +4524,7 @@
         "avatar": "keluoladuo.png",
         "type": 5,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "keluoladuo",
@@ -4481,6 +4576,7 @@
         "avatar": "malilan.png",
         "type": 5,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "malilan",
@@ -4516,6 +4612,7 @@
         "avatar": "xifujiniya.png",
         "type": 5,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "xifujiniya",
@@ -4551,6 +4648,7 @@
         "avatar": "beikaluolaina.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 1,
         "skins": [
             {
                 "code": "beikaluolaina",
@@ -4588,6 +4686,7 @@
         "avatar": "huashengdun.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 1,
         "skins": [
             {
                 "code": "huashengdun",
@@ -4625,6 +4724,7 @@
         "avatar": "nandaketa.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 1,
         "skins": [
             {
                 "code": "nandaketa",
@@ -4661,6 +4761,7 @@
         "avatar": "xinzexi.png",
         "type": 5,
         "rarity": 6,
+        "nationality": 1,
         "skins": [
             {
                 "code": "xinzexi",
@@ -4730,6 +4831,7 @@
         "avatar": "masazhusai.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 1,
         "skins": [
             {
                 "code": "masazhusai",
@@ -4771,6 +4873,7 @@
         "avatar": "alabama.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 1,
         "skins": [
             {
                 "code": "alabama",
@@ -4814,6 +4917,7 @@
         "avatar": "changdao.png",
         "type": 6,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "changdao",
@@ -4870,6 +4974,7 @@
         "avatar": "boge.png",
         "type": 6,
         "rarity": 2,
+        "nationality": 1,
         "skins": [
             {
                 "code": "boge",
@@ -4899,6 +5004,7 @@
         "avatar": "kasabulanka.png",
         "type": 6,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "kasabulanka",
@@ -4941,6 +5047,7 @@
         "avatar": "lanli.png",
         "type": 6,
         "rarity": 2,
+        "nationality": 1,
         "skins": [
             {
                 "code": "lanli",
@@ -4970,6 +5077,7 @@
         "avatar": "liekexingdun.png",
         "type": 7,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "liekexingdun",
@@ -5008,6 +5116,7 @@
         "avatar": "salatuojia.png",
         "type": 7,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "salatuojia",
@@ -5199,6 +5308,7 @@
         "avatar": "tujizhe.png",
         "type": 6,
         "rarity": 2,
+        "nationality": 1,
         "skins": [
             {
                 "code": "tujizhe",
@@ -5228,6 +5338,7 @@
         "avatar": "yuekecheng.png",
         "type": 7,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "yuekecheng",
@@ -5289,6 +5400,7 @@
         "avatar": "qiye.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 1,
         "skins": [
             {
                 "code": "qiye",
@@ -5427,6 +5539,7 @@
         "avatar": "dahuangfeng.png",
         "type": 7,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "dahuangfeng",
@@ -5498,6 +5611,7 @@
         "avatar": "hufeng.png",
         "type": 7,
         "rarity": 3,
+        "nationality": 1,
         "skins": [
             {
                 "code": "hufeng",
@@ -5517,6 +5631,7 @@
         "avatar": "aisaikesi.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 1,
         "skins": [
             {
                 "code": "aisaikesi",
@@ -5614,6 +5729,7 @@
         "avatar": "yuekechengii.png",
         "type": 7,
         "rarity": 6,
+        "nationality": 1,
         "skins": [
             {
                 "code": "yuekechengii",
@@ -5660,6 +5776,7 @@
         "avatar": "wuwei.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 1,
         "skins": [
             {
                 "code": "wuwei",
@@ -5704,6 +5821,7 @@
         "avatar": "dahuangfengii.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 1,
         "skins": [
             {
                 "code": "dahuangfengii",
@@ -5749,6 +5867,7 @@
         "avatar": "tikangdeluojia.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 1,
         "skins": [
             {
                 "code": "tikangdeluojia",
@@ -5791,6 +5910,7 @@
         "avatar": "bangkeshan.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 1,
         "skins": [
             {
                 "code": "bangkeshan",
@@ -5830,6 +5950,7 @@
         "avatar": "duli.png",
         "type": 6,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "duli",
@@ -5940,6 +6061,7 @@
         "avatar": "pulinsidun.png",
         "type": 6,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "pulinsidun",
@@ -6016,6 +6138,7 @@
         "avatar": "lanliii.png",
         "type": 6,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "lanliii",
@@ -6061,6 +6184,7 @@
         "avatar": "badan.png",
         "type": 6,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "badan",
@@ -6105,6 +6229,7 @@
         "avatar": "xianggelila.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 1,
         "skins": [
             {
                 "code": "xianggelila",
@@ -6165,6 +6290,7 @@
         "avatar": "qiye_younv.png",
         "type": 7,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "qiye_younv",
@@ -6195,6 +6321,7 @@
         "avatar": "tiaoyu.png",
         "type": 8,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "tiaoyu",
@@ -6214,6 +6341,7 @@
         "avatar": "daqinghuayu.png",
         "type": 8,
         "rarity": 5,
+        "nationality": 1,
         "skins": [
             {
                 "code": "daqinghuayu",
@@ -6271,6 +6399,7 @@
         "avatar": "jiqi.png",
         "type": 8,
         "rarity": 5,
+        "nationality": 1,
         "skins": [
             {
                 "code": "jiqi",
@@ -6332,6 +6461,7 @@
         "avatar": "lansaiyu.png",
         "type": 8,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "lansaiyu",
@@ -6376,6 +6506,7 @@
         "avatar": "daqinghuayu_idol.png",
         "type": 8,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "daqinghuayu_idol",
@@ -6403,6 +6534,7 @@
         "avatar": "sheshuiyu.png",
         "type": 8,
         "rarity": 5,
+        "nationality": 1,
         "skins": [
             {
                 "code": "sheshuiyu",
@@ -6460,6 +6592,7 @@
         "avatar": "yingwuluo.png",
         "type": 8,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "yingwuluo",
@@ -6505,6 +6638,7 @@
         "avatar": "zaoshen.png",
         "type": 12,
         "rarity": 4,
+        "nationality": 1,
         "skins": [
             {
                 "code": "zaoshen",
@@ -6547,6 +6681,7 @@
         "avatar": "xiyatu.png",
         "type": 2,
         "rarity": 7,
+        "nationality": 1,
         "skins": [
             {
                 "code": "xiyatu",
@@ -6627,6 +6762,7 @@
         "avatar": "zuozhiya.png",
         "type": 5,
         "rarity": 7,
+        "nationality": 1,
         "skins": [
             {
                 "code": "zuozhiya",
@@ -6705,6 +6841,7 @@
         "avatar": "ankeleiqi.png",
         "type": 3,
         "rarity": 7,
+        "nationality": 1,
         "skins": [
             {
                 "code": "ankeleiqi",
@@ -6736,6 +6873,7 @@
         "avatar": "nvjiang.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 2,
         "skins": [
             {
                 "code": "nvjiang",
@@ -6791,6 +6929,7 @@
         "avatar": "akasita.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 2,
         "skins": [
             {
                 "code": "akasita",
@@ -6862,6 +7001,7 @@
         "avatar": "rexin.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 2,
         "skins": [
             {
                 "code": "rexin",
@@ -6927,6 +7067,7 @@
         "avatar": "xiaolietuquan.png",
         "type": 1,
         "rarity": 2,
+        "nationality": 2,
         "skins": [
             {
                 "code": "xiaolietuquan",
@@ -6946,6 +7087,7 @@
         "avatar": "dadouquan.png",
         "type": 1,
         "rarity": 2,
+        "nationality": 2,
         "skins": [
             {
                 "code": "dadouquan",
@@ -6965,6 +7107,7 @@
         "avatar": "huixing.png",
         "type": 1,
         "rarity": 2,
+        "nationality": 2,
         "skins": [
             {
                 "code": "huixing",
@@ -6994,6 +7137,7 @@
         "avatar": "xinyue.png",
         "type": 1,
         "rarity": 2,
+        "nationality": 2,
         "skins": [
             {
                 "code": "xinyue",
@@ -7023,6 +7167,7 @@
         "avatar": "xiaotiane.png",
         "type": 1,
         "rarity": 2,
+        "nationality": 2,
         "skins": [
             {
                 "code": "xiaotiane",
@@ -7121,6 +7266,7 @@
         "avatar": "huti.png",
         "type": 1,
         "rarity": 2,
+        "nationality": 2,
         "skins": [
             {
                 "code": "huti",
@@ -7150,6 +7296,7 @@
         "avatar": "mingyunnvshen.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 2,
         "skins": [
             {
                 "code": "mingyunnvshen",
@@ -7196,6 +7343,7 @@
         "avatar": "gelunweier.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "gelunweier",
@@ -7225,6 +7373,7 @@
         "avatar": "yinghuochong.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "yinghuochong",
@@ -7264,6 +7413,7 @@
         "avatar": "yonggan.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "yonggan",
@@ -7289,6 +7439,7 @@
         "avatar": "lieren.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 2,
         "skins": [
             {
                 "code": "lieren",
@@ -7314,6 +7465,7 @@
         "avatar": "biaoqiang.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "biaoqiang",
@@ -7469,6 +7621,7 @@
         "avatar": "tianhou.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 2,
         "skins": [
             {
                 "code": "tianhou",
@@ -7506,6 +7659,7 @@
         "avatar": "xixuegui.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "xixuegui",
@@ -7602,6 +7756,7 @@
         "avatar": "qiubite.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 2,
         "skins": [
             {
                 "code": "qiubite",
@@ -7639,6 +7794,7 @@
         "avatar": "zexi.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 2,
         "skins": [
             {
                 "code": "zexi",
@@ -7658,6 +7814,7 @@
         "avatar": "wudi.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "wudi",
@@ -7693,6 +7850,7 @@
         "avatar": "huoqiangshou.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "huoqiangshou",
@@ -7712,6 +7870,7 @@
         "avatar": "huisheng.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 2,
         "skins": [
             {
                 "code": "huisheng",
@@ -7737,6 +7896,7 @@
         "avatar": "aisijimo.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "aisijimo",
@@ -7782,6 +7942,7 @@
         "avatar": "yikaluosi.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "yikaluosi",
@@ -7864,6 +8025,7 @@
         "avatar": "jiaweisi.png",
         "type": 1,
         "rarity": 5,
+        "nationality": 2,
         "skins": [
             {
                 "code": "jiaweisi",
@@ -7913,6 +8075,7 @@
         "avatar": "yanusi.png",
         "type": 1,
         "rarity": 5,
+        "nationality": 2,
         "skins": [
             {
                 "code": "yanusi",
@@ -7957,6 +8120,7 @@
         "avatar": "liande.png",
         "type": 2,
         "rarity": 2,
+        "nationality": 2,
         "skins": [
             {
                 "code": "liande",
@@ -7986,6 +8150,7 @@
         "avatar": "ajilisi.png",
         "type": 2,
         "rarity": 3,
+        "nationality": 2,
         "skins": [
             {
                 "code": "ajilisi",
@@ -8015,6 +8180,7 @@
         "avatar": "ajiakesi.png",
         "type": 2,
         "rarity": 3,
+        "nationality": 2,
         "skins": [
             {
                 "code": "ajiakesi",
@@ -8080,6 +8246,7 @@
         "avatar": "daiduo.png",
         "type": 2,
         "rarity": 5,
+        "nationality": 2,
         "skins": [
             {
                 "code": "daiduo",
@@ -8124,6 +8291,7 @@
         "avatar": "nananpudun.png",
         "type": 2,
         "rarity": 3,
+        "nationality": 2,
         "skins": [
             {
                 "code": "nananpudun",
@@ -8220,6 +8388,7 @@
         "avatar": "xiefeierde.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "xiefeierde",
@@ -8305,6 +8474,7 @@
         "avatar": "manchesite.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "manchesite",
@@ -8352,6 +8522,7 @@
         "avatar": "geluosite.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "geluosite",
@@ -8396,6 +8567,7 @@
         "avatar": "aidingbao.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "aidingbao",
@@ -8443,6 +8615,7 @@
         "avatar": "beierfasite.png",
         "type": 2,
         "rarity": 5,
+        "nationality": 2,
         "skins": [
             {
                 "code": "beierfasite",
@@ -8577,6 +8750,7 @@
         "avatar": "aruituosha.png",
         "type": 2,
         "rarity": 3,
+        "nationality": 2,
         "skins": [
             {
                 "code": "aruituosha",
@@ -8596,6 +8770,7 @@
         "avatar": "jialadiya.png",
         "type": 2,
         "rarity": 3,
+        "nationality": 2,
         "skins": [
             {
                 "code": "jialadiya",
@@ -8615,6 +8790,7 @@
         "avatar": "ouruola.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "ouruola",
@@ -8702,6 +8878,7 @@
         "avatar": "feiji.png",
         "type": 2,
         "rarity": 3,
+        "nationality": 2,
         "skins": [
             {
                 "code": "feiji",
@@ -8737,6 +8914,7 @@
         "avatar": "yamaijia.png",
         "type": 2,
         "rarity": 3,
+        "nationality": 2,
         "skins": [
             {
                 "code": "yamaijia",
@@ -8792,6 +8970,7 @@
         "avatar": "beierfasite_younv.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "beierfasite_younv",
@@ -8811,6 +8990,7 @@
         "avatar": "niukasier.png",
         "type": 2,
         "rarity": 3,
+        "nationality": 2,
         "skins": [
             {
                 "code": "niukasier",
@@ -8850,6 +9030,7 @@
         "avatar": "tianlangxing.png",
         "type": 2,
         "rarity": 5,
+        "nationality": 2,
         "skins": [
             {
                 "code": "tianlangxing",
@@ -8926,6 +9107,7 @@
         "avatar": "kulasuo.png",
         "type": 2,
         "rarity": 3,
+        "nationality": 2,
         "skins": [
             {
                 "code": "kulasuo",
@@ -8985,6 +9167,7 @@
         "avatar": "biaoyu.png",
         "type": 2,
         "rarity": 3,
+        "nationality": 2,
         "skins": [
             {
                 "code": "biaoyu",
@@ -9044,6 +9227,7 @@
         "avatar": "quejie.png",
         "type": 2,
         "rarity": 5,
+        "nationality": 2,
         "skins": [
             {
                 "code": "quejie",
@@ -9122,6 +9306,7 @@
         "avatar": "heitaizi.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "heitaizi",
@@ -9220,6 +9405,7 @@
         "avatar": "xiefeierde_idol.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "xiefeierde_idol",
@@ -9247,6 +9433,7 @@
         "avatar": "gelasige.png",
         "type": 2,
         "rarity": 3,
+        "nationality": 2,
         "skins": [
             {
                 "code": "gelasige",
@@ -9289,6 +9476,7 @@
         "avatar": "hemin.png",
         "type": 2,
         "rarity": 5,
+        "nationality": 2,
         "skins": [
             {
                 "code": "hemin",
@@ -9379,6 +9567,7 @@
         "avatar": "daiduo_idol.png",
         "type": 2,
         "rarity": 5,
+        "nationality": 2,
         "skins": [
             {
                 "code": "daiduo_idol",
@@ -9405,6 +9594,7 @@
         "avatar": "peineiluopo.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "peineiluopo",
@@ -9468,6 +9658,7 @@
         "avatar": "kalvbudisi.png",
         "type": 2,
         "rarity": 5,
+        "nationality": 2,
         "skins": [
             {
                 "code": "kalvbudisi",
@@ -9542,6 +9733,7 @@
         "avatar": "sizhannvshen.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "sizhannvshen",
@@ -9593,6 +9785,7 @@
         "avatar": "jinqu.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "jinqu",
@@ -9618,6 +9811,7 @@
         "avatar": "lundun.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "lundun",
@@ -9663,6 +9857,7 @@
         "avatar": "shiluopujun.png",
         "type": 3,
         "rarity": 3,
+        "nationality": 2,
         "skins": [
             {
                 "code": "shiluopujun",
@@ -9698,6 +9893,7 @@
         "avatar": "kente.png",
         "type": 3,
         "rarity": 3,
+        "nationality": 2,
         "skins": [
             {
                 "code": "kente",
@@ -9717,6 +9913,7 @@
         "avatar": "safuke.png",
         "type": 3,
         "rarity": 3,
+        "nationality": 2,
         "skins": [
             {
                 "code": "safuke",
@@ -9746,6 +9943,7 @@
         "avatar": "nuofuke.png",
         "type": 3,
         "rarity": 3,
+        "nationality": 2,
         "skins": [
             {
                 "code": "nuofuke",
@@ -9765,6 +9963,7 @@
         "avatar": "duosaitejun.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "duosaitejun",
@@ -9784,6 +9983,7 @@
         "avatar": "yueke.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "yueke",
@@ -9868,6 +10068,7 @@
         "avatar": "aikesaite.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "aikesaite",
@@ -9915,6 +10116,7 @@
         "avatar": "susaikesi.png",
         "type": 3,
         "rarity": 3,
+        "nationality": 2,
         "skins": [
             {
                 "code": "susaikesi",
@@ -9969,6 +10171,7 @@
         "avatar": "chaijun_younv.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "chaijun_younv",
@@ -10004,6 +10207,7 @@
         "avatar": "shengwang.png",
         "type": 4,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "shengwang",
@@ -10023,6 +10227,7 @@
         "avatar": "fanji.png",
         "type": 4,
         "rarity": 3,
+        "nationality": 2,
         "skins": [
             {
                 "code": "fanji",
@@ -10042,6 +10247,7 @@
         "avatar": "hude.png",
         "type": 4,
         "rarity": 5,
+        "nationality": 2,
         "skins": [
             {
                 "code": "hude",
@@ -10114,6 +10320,7 @@
         "avatar": "shengwang_younv.png",
         "type": 4,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "shengwang_younv",
@@ -10140,6 +10347,7 @@
         "avatar": "yilishabai.png",
         "type": 5,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "yilishabai",
@@ -10247,6 +10455,7 @@
         "avatar": "yanzhan.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 2,
         "skins": [
             {
                 "code": "yanzhan",
@@ -10323,6 +10532,7 @@
         "avatar": "naerxun.png",
         "type": 5,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "naerxun",
@@ -10377,6 +10587,7 @@
         "avatar": "luodeni.png",
         "type": 5,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "luodeni",
@@ -10466,6 +10677,7 @@
         "avatar": "qiaozhiwushi.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 2,
         "skins": [
             {
                 "code": "qiaozhiwushi",
@@ -10508,6 +10720,7 @@
         "avatar": "weiershiqinwang.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 2,
         "skins": [
             {
                 "code": "weiershiqinwang",
@@ -10570,6 +10783,7 @@
         "avatar": "yuekegongjue.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 2,
         "skins": [
             {
                 "code": "yuekegongjue",
@@ -10621,6 +10835,7 @@
         "avatar": "hao.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 2,
         "skins": [
             {
                 "code": "hao",
@@ -10711,6 +10926,7 @@
         "avatar": "yingyong.png",
         "type": 5,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "yingyong",
@@ -10768,6 +10984,7 @@
         "avatar": "fuchou.png",
         "type": 5,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "fuchou",
@@ -10812,6 +11029,7 @@
         "avatar": "qianwei.png",
         "type": 5,
         "rarity": 6,
+        "nationality": 2,
         "skins": [
             {
                 "code": "qianwei",
@@ -10859,6 +11077,7 @@
         "avatar": "jingjishen.png",
         "type": 6,
         "rarity": 2,
+        "nationality": 2,
         "skins": [
             {
                 "code": "jingjishen",
@@ -10894,6 +11113,7 @@
         "avatar": "dujiaoshou.png",
         "type": 6,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "dujiaoshou",
@@ -11061,6 +11281,7 @@
         "avatar": "banrenma.png",
         "type": 6,
         "rarity": 5,
+        "nationality": 2,
         "skins": [
             {
                 "code": "banrenma",
@@ -11116,6 +11337,7 @@
         "avatar": "zhuiganzhe.png",
         "type": 6,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "zhuiganzhe",
@@ -11176,6 +11398,7 @@
         "avatar": "yingxianzuo.png",
         "type": 6,
         "rarity": 5,
+        "nationality": 2,
         "skins": [
             {
                 "code": "yingxianzuo",
@@ -11219,6 +11442,7 @@
         "avatar": "aerbien.png",
         "type": 6,
         "rarity": 5,
+        "nationality": 2,
         "skins": [
             {
                 "code": "aerbien",
@@ -11273,6 +11497,7 @@
         "avatar": "texiusi.png",
         "type": 6,
         "rarity": 5,
+        "nationality": 2,
         "skins": [
             {
                 "code": "texiusi",
@@ -11324,6 +11549,7 @@
         "avatar": "ying.png",
         "type": 7,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "ying",
@@ -11369,6 +11595,7 @@
         "avatar": "huangjiafangzhou.png",
         "type": 7,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "huangjiafangzhou",
@@ -11497,6 +11724,7 @@
         "avatar": "guanghui.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 2,
         "skins": [
             {
                 "code": "guanghui",
@@ -11595,6 +11823,7 @@
         "avatar": "shengli.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 2,
         "skins": [
             {
                 "code": "shengli",
@@ -11648,6 +11877,7 @@
         "avatar": "kewei.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 2,
         "skins": [
             {
                 "code": "kewei",
@@ -11712,6 +11942,7 @@
         "avatar": "guangrong.png",
         "type": 7,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "guangrong",
@@ -11759,6 +11990,7 @@
         "avatar": "guanghui_younv.png",
         "type": 7,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "guanghui_younv",
@@ -11785,6 +12017,7 @@
         "avatar": "guanghui_idol.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 2,
         "skins": [
             {
                 "code": "guanghui_idol",
@@ -11811,6 +12044,7 @@
         "avatar": "bunao.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 2,
         "skins": [
             {
                 "code": "bunao",
@@ -11860,6 +12094,7 @@
         "avatar": "heianjie.png",
         "type": 13,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "heianjie",
@@ -11906,6 +12141,7 @@
         "avatar": "kongbu.png",
         "type": 13,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "kongbu",
@@ -11941,6 +12177,7 @@
         "avatar": "abeikelongbi.png",
         "type": 13,
         "rarity": 4,
+        "nationality": 2,
         "skins": [
             {
                 "code": "abeikelongbi",
@@ -11997,6 +12234,7 @@
         "avatar": "haiwangxing.png",
         "type": 2,
         "rarity": 7,
+        "nationality": 2,
         "skins": [
             {
                 "code": "haiwangxing",
@@ -12055,6 +12293,7 @@
         "avatar": "junzhu.png",
         "type": 5,
         "rarity": 7,
+        "nationality": 2,
         "skins": [
             {
                 "code": "junzhu",
@@ -12109,6 +12348,7 @@
         "avatar": "chaijun.png",
         "type": 3,
         "rarity": 7,
+        "nationality": 2,
         "skins": [
             {
                 "code": "chaijun",
@@ -12192,6 +12432,7 @@
         "avatar": "deleike.png",
         "type": 3,
         "rarity": 8,
+        "nationality": 2,
         "skins": [
             {
                 "code": "deleike",
@@ -12238,6 +12479,7 @@
         "avatar": "pulimaosi.png",
         "type": 2,
         "rarity": 8,
+        "nationality": 2,
         "skins": [
             {
                 "code": "pulimaosi",
@@ -12292,6 +12534,7 @@
         "avatar": "chuixue.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "chuixue",
@@ -12391,6 +12634,7 @@
         "avatar": "baixue.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "baixue",
@@ -12434,6 +12678,7 @@
         "avatar": "shenxue.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "shenxue",
@@ -12483,6 +12728,7 @@
         "avatar": "lingbo.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "lingbo",
@@ -12705,6 +12951,7 @@
         "avatar": "xiao.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "xiao",
@@ -12796,6 +13043,7 @@
         "avatar": "xiang.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "xiang",
@@ -12844,6 +13092,7 @@
         "avatar": "lei.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "lei",
@@ -12914,6 +13163,7 @@
         "avatar": "dian.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "dian",
@@ -12977,6 +13227,7 @@
         "avatar": "bailu.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "bailu",
@@ -13006,6 +13257,7 @@
         "avatar": "xili.png",
         "type": 1,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "xili",
@@ -13120,6 +13372,7 @@
         "avatar": "shiyu.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "shiyu",
@@ -13204,6 +13457,7 @@
         "avatar": "xuefeng.png",
         "type": 1,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "xuefeng",
@@ -13271,6 +13525,7 @@
         "avatar": "yangyan.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "yangyan",
@@ -13310,6 +13565,7 @@
         "avatar": "buzhihuo.png",
         "type": 1,
         "rarity": 2,
+        "nationality": 3,
         "skins": [
             {
                 "code": "buzhihuo",
@@ -13356,6 +13612,7 @@
         "avatar": "yefen.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "yefen",
@@ -13375,6 +13632,7 @@
         "avatar": "chuchun.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "chuchun",
@@ -13443,6 +13701,7 @@
         "avatar": "ruoye.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "ruoye",
@@ -13494,6 +13753,7 @@
         "avatar": "chushuang.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "chushuang",
@@ -13548,6 +13808,7 @@
         "avatar": "youming.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "youming",
@@ -13602,6 +13863,7 @@
         "avatar": "ximu.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "ximu",
@@ -13716,6 +13978,7 @@
         "avatar": "heichao.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "heichao",
@@ -13735,6 +13998,7 @@
         "avatar": "qinchao.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "qinchao",
@@ -13754,6 +14018,7 @@
         "avatar": "daofeng.png",
         "type": 1,
         "rarity": 6,
+        "nationality": 3,
         "skins": [
             {
                 "code": "daofeng",
@@ -13835,6 +14100,7 @@
         "avatar": "shenfeng.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "shenfeng",
@@ -13864,6 +14130,7 @@
         "avatar": "songfeng.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "songfeng",
@@ -13893,6 +14160,7 @@
         "avatar": "muyue.png",
         "type": 1,
         "rarity": 2,
+        "nationality": 3,
         "skins": [
             {
                 "code": "muyue",
@@ -13969,6 +14237,7 @@
         "avatar": "ruyue.png",
         "type": 1,
         "rarity": 2,
+        "nationality": 3,
         "skins": [
             {
                 "code": "ruyue",
@@ -14017,6 +14286,7 @@
         "avatar": "maoyue.png",
         "type": 1,
         "rarity": 2,
+        "nationality": 3,
         "skins": [
             {
                 "code": "maoyue",
@@ -14046,6 +14316,7 @@
         "avatar": "shuiwuyue.png",
         "type": 1,
         "rarity": 2,
+        "nationality": 3,
         "skins": [
             {
                 "code": "shuiwuyue",
@@ -14065,6 +14336,7 @@
         "avatar": "wenyue.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "wenyue",
@@ -14094,6 +14366,7 @@
         "avatar": "changyue.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "changyue",
@@ -14141,6 +14414,7 @@
         "avatar": "sanriyue.png",
         "type": 1,
         "rarity": 2,
+        "nationality": 3,
         "skins": [
             {
                 "code": "sanriyue",
@@ -14179,6 +14453,7 @@
         "avatar": "haifeng.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "haifeng",
@@ -14223,6 +14498,7 @@
         "avatar": "shanfeng.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "shanfeng",
@@ -14274,6 +14550,7 @@
         "avatar": "jiangfeng.png",
         "type": 1,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "jiangfeng",
@@ -14320,6 +14597,7 @@
         "avatar": "qingbo.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "qingbo",
@@ -14362,6 +14640,7 @@
         "avatar": "xinyue_jp.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "xinyue_jp",
@@ -14381,6 +14660,7 @@
         "avatar": "chunyue.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "chunyue",
@@ -14416,6 +14696,7 @@
         "avatar": "xiaoyue.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "xiaoyue",
@@ -14471,6 +14752,7 @@
         "avatar": "pufeng.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "pufeng",
@@ -14525,6 +14807,7 @@
         "avatar": "jifeng.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "jifeng",
@@ -14579,6 +14862,7 @@
         "avatar": "bangfeng.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "bangfeng",
@@ -14641,6 +14925,7 @@
         "avatar": "gufeng.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "gufeng",
@@ -14697,6 +14982,7 @@
         "avatar": "zhaochao.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "zhaochao",
@@ -14761,6 +15047,7 @@
         "avatar": "dachao.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "dachao",
@@ -14840,6 +15127,7 @@
         "avatar": "manchao.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "manchao",
@@ -14876,6 +15164,7 @@
         "avatar": "huangchao.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "huangchao",
@@ -14918,6 +15207,7 @@
         "avatar": "pubo.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "pubo",
@@ -14961,6 +15251,7 @@
         "avatar": "qifeng.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "qifeng",
@@ -14987,6 +15278,7 @@
         "avatar": "juanbo.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "juanbo",
@@ -15029,6 +15321,7 @@
         "avatar": "xia.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "xia",
@@ -15112,6 +15405,7 @@
         "avatar": "huayue.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "huayue",
@@ -15184,6 +15478,7 @@
         "avatar": "changbo.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "changbo",
@@ -15283,6 +15578,7 @@
         "avatar": "liangyue.png",
         "type": 1,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "liangyue",
@@ -15346,6 +15642,7 @@
         "avatar": "zhuifeng.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "zhuifeng",
@@ -15426,6 +15723,7 @@
         "avatar": "fengyun.png",
         "type": 1,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "fengyun",
@@ -15489,6 +15787,7 @@
         "avatar": "ruoyue.png",
         "type": 1,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "ruoyue",
@@ -15535,6 +15834,7 @@
         "avatar": "xizhang.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "xizhang",
@@ -15570,6 +15870,7 @@
         "avatar": "changliang.png",
         "type": 2,
         "rarity": 2,
+        "nationality": 3,
         "skins": [
             {
                 "code": "changliang",
@@ -15606,6 +15907,7 @@
         "avatar": "wushiling.png",
         "type": 2,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "wushiling",
@@ -15715,6 +16017,7 @@
         "avatar": "youliang.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "youliang",
@@ -15758,6 +16061,7 @@
         "avatar": "guinu.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "guinu",
@@ -15841,6 +16145,7 @@
         "avatar": "awuwei.png",
         "type": 2,
         "rarity": 2,
+        "nationality": 3,
         "skins": [
             {
                 "code": "awuwei",
@@ -15870,6 +16175,7 @@
         "avatar": "zuishang.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "zuishang",
@@ -15899,6 +16205,7 @@
         "avatar": "sanwei.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "sanwei",
@@ -15938,6 +16245,7 @@
         "avatar": "chuannei.png",
         "type": 2,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "chuannei",
@@ -15967,6 +16275,7 @@
         "avatar": "shentong.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "shentong",
@@ -16031,6 +16340,7 @@
         "avatar": "nake.png",
         "type": 2,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "nake",
@@ -16074,6 +16384,7 @@
         "avatar": "aheye.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "aheye",
@@ -16147,6 +16458,7 @@
         "avatar": "nengdai.png",
         "type": 2,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "nengdai",
@@ -16290,6 +16602,7 @@
         "avatar": "jiuyun.png",
         "type": 2,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "jiuyun",
@@ -16336,6 +16649,7 @@
         "avatar": "guying.png",
         "type": 3,
         "rarity": 2,
+        "nationality": 3,
         "skins": [
             {
                 "code": "guying",
@@ -16365,6 +16679,7 @@
         "avatar": "jiagu.png",
         "type": 3,
         "rarity": 2,
+        "nationality": 3,
         "skins": [
             {
                 "code": "jiagu",
@@ -16394,6 +16709,7 @@
         "avatar": "qingye.png",
         "type": 3,
         "rarity": 2,
+        "nationality": 3,
         "skins": [
             {
                 "code": "qingye",
@@ -16413,6 +16729,7 @@
         "avatar": "yili.png",
         "type": 3,
         "rarity": 2,
+        "nationality": 3,
         "skins": [
             {
                 "code": "yili",
@@ -16432,6 +16749,7 @@
         "avatar": "zhumo.png",
         "type": 3,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "zhumo",
@@ -16459,6 +16777,7 @@
         "avatar": "miaogao.png",
         "type": 3,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "miaogao",
@@ -16478,6 +16797,7 @@
         "avatar": "nazhi.png",
         "type": 3,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "nazhi",
@@ -16497,6 +16817,7 @@
         "avatar": "zubing.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "zubing",
@@ -16559,6 +16880,7 @@
         "avatar": "yuhei.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "yuhei",
@@ -16615,6 +16937,7 @@
         "avatar": "gaoxiong.png",
         "type": 3,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "gaoxiong",
@@ -16703,6 +17026,7 @@
         "avatar": "aidang.png",
         "type": 3,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "aidang",
@@ -16786,6 +17110,7 @@
         "avatar": "moye.png",
         "type": 3,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "moye",
@@ -16805,6 +17130,7 @@
         "avatar": "niaohai.png",
         "type": 3,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "niaohai",
@@ -16841,6 +17167,7 @@
         "avatar": "linggu.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "linggu",
@@ -16868,6 +17195,7 @@
         "avatar": "xiongye.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "xiongye",
@@ -16947,6 +17275,7 @@
         "avatar": "jingang.png",
         "type": 4,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "jingang",
@@ -17023,6 +17352,7 @@
         "avatar": "birui.png",
         "type": 4,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "birui",
@@ -17085,6 +17415,7 @@
         "avatar": "zhenming.png",
         "type": 4,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "zhenming",
@@ -17154,6 +17485,7 @@
         "avatar": "wudao.png",
         "type": 4,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "wudao",
@@ -17227,6 +17559,7 @@
         "avatar": "tiancheng.png",
         "type": 4,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "tiancheng",
@@ -17268,6 +17601,7 @@
         "avatar": "birui_younv.png",
         "type": 4,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "birui_younv",
@@ -17293,6 +17627,7 @@
         "avatar": "tiancheng_younv.png",
         "type": 4,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "tiancheng_younv",
@@ -17322,6 +17657,7 @@
         "avatar": "fusang.png",
         "type": 5,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "fusang",
@@ -17379,6 +17715,7 @@
         "avatar": "shancheng.png",
         "type": 5,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "shancheng",
@@ -17516,6 +17853,7 @@
         "avatar": "yishi.png",
         "type": 5,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "yishi",
@@ -17545,6 +17883,7 @@
         "avatar": "rixiang.png",
         "type": 5,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "rixiang",
@@ -17574,6 +17913,7 @@
         "avatar": "changmen.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "changmen",
@@ -17674,6 +18014,7 @@
         "avatar": "luao.png",
         "type": 5,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "luao",
@@ -17727,6 +18068,7 @@
         "avatar": "jiahezhanlie.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "jiahezhanlie",
@@ -17752,6 +18094,7 @@
         "avatar": "tuzuo.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "tuzuo",
@@ -17799,6 +18142,7 @@
         "avatar": "wuzang.png",
         "type": 5,
         "rarity": 6,
+        "nationality": 3,
         "skins": [
             {
                 "code": "wuzang",
@@ -17849,6 +18193,7 @@
         "avatar": "sanli.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "sanli",
@@ -17958,6 +18303,7 @@
         "avatar": "jiyi.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "jiyi",
@@ -18004,6 +18350,7 @@
         "avatar": "junhe.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "junhe",
@@ -18081,6 +18428,7 @@
         "avatar": "feiying.png",
         "type": 6,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "feiying",
@@ -18100,6 +18448,7 @@
         "avatar": "sunying.png",
         "type": 6,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "sunying",
@@ -18119,6 +18468,7 @@
         "avatar": "fengxiang.png",
         "type": 6,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "fengxiang",
@@ -18148,6 +18498,7 @@
         "avatar": "xiangfeng.png",
         "type": 6,
         "rarity": 3,
+        "nationality": 3,
         "skins": [
             {
                 "code": "xiangfeng",
@@ -18187,6 +18538,7 @@
         "avatar": "longxiang.png",
         "type": 6,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "longxiang",
@@ -18248,6 +18600,7 @@
         "avatar": "longfeng.png",
         "type": 6,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "longfeng",
@@ -18296,6 +18649,7 @@
         "avatar": "qiansui.png",
         "type": 6,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "qiansui",
@@ -18358,6 +18712,7 @@
         "avatar": "qiandaitian.png",
         "type": 6,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "qiandaitian",
@@ -18401,6 +18756,7 @@
         "avatar": "chicheng.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "chicheng",
@@ -18494,6 +18850,7 @@
         "avatar": "jiahe.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "jiahe",
@@ -18610,6 +18967,7 @@
         "avatar": "canglong.png",
         "type": 7,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "canglong",
@@ -18665,6 +19023,7 @@
         "avatar": "feilong.png",
         "type": 7,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "feilong",
@@ -18710,6 +19069,7 @@
         "avatar": "xianghe.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "xianghe",
@@ -18762,6 +19122,7 @@
         "avatar": "ruihe.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "ruihe",
@@ -18815,6 +19176,7 @@
         "avatar": "dafeng.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "dafeng",
@@ -18943,6 +19305,7 @@
         "avatar": "xinnong.png",
         "type": 7,
         "rarity": 6,
+        "nationality": 3,
         "skins": [
             {
                 "code": "xinnong",
@@ -19015,6 +19378,7 @@
         "avatar": "chicheng_younv.png",
         "type": 7,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "chicheng_younv",
@@ -19041,6 +19405,7 @@
         "avatar": "chicheng_idol.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "chicheng_idol",
@@ -19067,6 +19432,7 @@
         "avatar": "dafeng_idol.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "dafeng_idol",
@@ -19093,6 +19459,7 @@
         "avatar": "gecheng.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "gecheng",
@@ -19141,6 +19508,7 @@
         "avatar": "i19.png",
         "type": 8,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "i19",
@@ -19197,6 +19565,7 @@
         "avatar": "i26.png",
         "type": 8,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "i26",
@@ -19243,6 +19612,7 @@
         "avatar": "i58.png",
         "type": 8,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "i58",
@@ -19262,6 +19632,7 @@
         "avatar": "i25.png",
         "type": 8,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "i25",
@@ -19322,6 +19693,7 @@
         "avatar": "i56.png",
         "type": 8,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "i56",
@@ -19365,6 +19737,7 @@
         "avatar": "i168.png",
         "type": 8,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "i168",
@@ -19412,6 +19785,7 @@
         "avatar": "mingshi.png",
         "type": 12,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "mingshi",
@@ -19509,6 +19883,7 @@
         "avatar": "i13.png",
         "type": 17,
         "rarity": 5,
+        "nationality": 3,
         "skins": [
             {
                 "code": "i13",
@@ -19535,6 +19910,7 @@
         "avatar": "jianye.png",
         "type": 19,
         "rarity": 4,
+        "nationality": 3,
         "skins": [
             {
                 "code": "jianye",
@@ -19609,6 +19985,7 @@
         "avatar": "yichui.png",
         "type": 3,
         "rarity": 7,
+        "nationality": 3,
         "skins": [
             {
                 "code": "yichui",
@@ -19699,6 +20076,7 @@
         "avatar": "chuyun.png",
         "type": 5,
         "rarity": 7,
+        "nationality": 3,
         "skins": [
             {
                 "code": "chuyun",
@@ -19734,6 +20112,7 @@
         "avatar": "beifeng.png",
         "type": 1,
         "rarity": 7,
+        "nationality": 3,
         "skins": [
             {
                 "code": "beifeng",
@@ -19800,6 +20179,7 @@
         "avatar": "wuqi.png",
         "type": 18,
         "rarity": 8,
+        "nationality": 3,
         "skins": [
             {
                 "code": "wuqi",
@@ -19864,6 +20244,7 @@
         "avatar": "bailong.png",
         "type": 7,
         "rarity": 8,
+        "nationality": 3,
         "skins": [
             {
                 "code": "bailong",
@@ -19911,6 +20292,7 @@
         "avatar": "z1.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "z1",
@@ -19958,6 +20340,7 @@
         "avatar": "z2.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "z2",
@@ -20017,6 +20400,7 @@
         "avatar": "z16.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "z16",
@@ -20067,6 +20451,7 @@
         "avatar": "z18.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 4,
         "skins": [
             {
                 "code": "z18",
@@ -20086,6 +20471,7 @@
         "avatar": "z19.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 4,
         "skins": [
             {
                 "code": "z19",
@@ -20105,6 +20491,7 @@
         "avatar": "z20.png",
         "type": 1,
         "rarity": 2,
+        "nationality": 4,
         "skins": [
             {
                 "code": "z20",
@@ -20124,6 +20511,7 @@
         "avatar": "z21.png",
         "type": 1,
         "rarity": 2,
+        "nationality": 4,
         "skins": [
             {
                 "code": "z21",
@@ -20143,6 +20531,7 @@
         "avatar": "z23.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "z23",
@@ -20358,6 +20747,7 @@
         "avatar": "z24.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "z24",
@@ -20436,6 +20826,7 @@
         "avatar": "z25.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "z25",
@@ -20465,6 +20856,7 @@
         "avatar": "z26.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "z26",
@@ -20501,6 +20893,7 @@
         "avatar": "z28.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "z28",
@@ -20560,6 +20953,7 @@
         "avatar": "z35.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "z35",
@@ -20597,6 +20991,7 @@
         "avatar": "z36.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "z36",
@@ -20624,6 +21019,7 @@
         "avatar": "z46.png",
         "type": 1,
         "rarity": 5,
+        "nationality": 4,
         "skins": [
             {
                 "code": "z46",
@@ -20729,6 +21125,7 @@
         "avatar": "kenisibao.png",
         "type": 2,
         "rarity": 2,
+        "nationality": 4,
         "skins": [
             {
                 "code": "kenisibao",
@@ -20748,6 +21145,7 @@
         "avatar": "kaersilue.png",
         "type": 2,
         "rarity": 2,
+        "nationality": 4,
         "skins": [
             {
                 "code": "kaersilue",
@@ -20777,6 +21175,7 @@
         "avatar": "kelong.png",
         "type": 2,
         "rarity": 2,
+        "nationality": 4,
         "skins": [
             {
                 "code": "kelong",
@@ -20813,6 +21212,7 @@
         "avatar": "laibixi.png",
         "type": 2,
         "rarity": 3,
+        "nationality": 4,
         "skins": [
             {
                 "code": "laibixi",
@@ -20868,6 +21268,7 @@
         "avatar": "niulunbao.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "niulunbao",
@@ -20914,6 +21315,7 @@
         "avatar": "magedebao.png",
         "type": 2,
         "rarity": 5,
+        "nationality": 4,
         "skins": [
             {
                 "code": "magedebao",
@@ -20975,6 +21377,7 @@
         "avatar": "aimudeng.png",
         "type": 2,
         "rarity": 5,
+        "nationality": 4,
         "skins": [
             {
                 "code": "aimudeng",
@@ -21037,6 +21440,7 @@
         "avatar": "aierbin.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "aierbin",
@@ -21098,6 +21502,7 @@
         "avatar": "xipeierhaijunshangjiang.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "xipeierhaijunshangjiang",
@@ -21141,6 +21546,7 @@
         "avatar": "bulvxieer.png",
         "type": 3,
         "rarity": 5,
+        "nationality": 4,
         "skins": [
             {
                 "code": "bulvxieer",
@@ -21186,6 +21592,7 @@
         "avatar": "ougen.png",
         "type": 3,
         "rarity": 5,
+        "nationality": 4,
         "skins": [
             {
                 "code": "ougen",
@@ -21285,6 +21692,7 @@
         "avatar": "deyizhi.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "deyizhi",
@@ -21360,6 +21768,7 @@
         "avatar": "sipeibojue.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "sipeibojue",
@@ -21446,6 +21855,7 @@
         "avatar": "xipeier_idol.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "xipeier_idol",
@@ -21472,6 +21882,7 @@
         "avatar": "luoen_idol.png",
         "type": 3,
         "rarity": 5,
+        "nationality": 4,
         "skins": [
             {
                 "code": "luoen_idol",
@@ -21499,6 +21910,7 @@
         "avatar": "haiyinlixi.png",
         "type": 3,
         "rarity": 5,
+        "nationality": 4,
         "skins": [
             {
                 "code": "haiyinlixi",
@@ -21558,6 +21970,7 @@
         "avatar": "adaerbote.png",
         "type": 3,
         "rarity": 5,
+        "nationality": 4,
         "skins": [
             {
                 "code": "adaerbote",
@@ -21603,6 +22016,7 @@
         "avatar": "yueke_ger.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "yueke_ger",
@@ -21649,6 +22063,7 @@
         "avatar": "ougen_younv.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "ougen_younv",
@@ -21676,6 +22091,7 @@
         "avatar": "sipeibojue_younv.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "sipeibojue_younv",
@@ -21705,6 +22121,7 @@
         "avatar": "shaenhuosite.png",
         "type": 4,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "shaenhuosite",
@@ -21740,6 +22157,7 @@
         "avatar": "genaisennao.png",
         "type": 4,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "genaisennao",
@@ -21780,6 +22198,7 @@
         "avatar": "saidelici.png",
         "type": 4,
         "rarity": 5,
+        "nationality": 4,
         "skins": [
             {
                 "code": "saidelici",
@@ -21840,6 +22259,7 @@
         "avatar": "lvzuofu.png",
         "type": 4,
         "rarity": 5,
+        "nationality": 4,
         "skins": [
             {
                 "code": "lvzuofu",
@@ -21912,6 +22332,7 @@
         "avatar": "bulunxierde.png",
         "type": 4,
         "rarity": 5,
+        "nationality": 4,
         "skins": [
             {
                 "code": "bulunxierde",
@@ -21955,6 +22376,7 @@
         "avatar": "bisimai.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 4,
         "skins": [
             {
                 "code": "bisimai",
@@ -22010,6 +22432,7 @@
         "avatar": "tierbici.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 4,
         "skins": [
             {
                 "code": "tierbici",
@@ -22092,6 +22515,7 @@
         "avatar": "wuerlixi.png",
         "type": 5,
         "rarity": 6,
+        "nationality": 4,
         "skins": [
             {
                 "code": "wuerlixi",
@@ -22144,6 +22568,7 @@
         "avatar": "tulingen.png",
         "type": 5,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "tulingen",
@@ -22190,6 +22615,7 @@
         "avatar": "weixi.png",
         "type": 6,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "weixi",
@@ -22262,6 +22688,7 @@
         "avatar": "yibei.png",
         "type": 6,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "yibei",
@@ -22323,6 +22750,7 @@
         "avatar": "qibolin.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 4,
         "skins": [
             {
                 "code": "qibolin",
@@ -22353,6 +22781,7 @@
         "avatar": "qibolin_younv.png",
         "type": 7,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "qibolin_younv",
@@ -22380,6 +22809,7 @@
         "avatar": "shitelasai.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 4,
         "skins": [
             {
                 "code": "shitelasai",
@@ -22435,6 +22865,7 @@
         "avatar": "u81.png",
         "type": 8,
         "rarity": 5,
+        "nationality": 4,
         "skins": [
             {
                 "code": "u81",
@@ -22495,6 +22926,7 @@
         "avatar": "u47.png",
         "type": 8,
         "rarity": 5,
+        "nationality": 4,
         "skins": [
             {
                 "code": "u47",
@@ -22585,6 +23017,7 @@
         "avatar": "u557.png",
         "type": 8,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "u557",
@@ -22604,6 +23037,7 @@
         "avatar": "u556.png",
         "type": 8,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "u556",
@@ -22646,6 +23080,7 @@
         "avatar": "u73.png",
         "type": 8,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "u73",
@@ -22709,6 +23144,7 @@
         "avatar": "u101.png",
         "type": 8,
         "rarity": 5,
+        "nationality": 4,
         "skins": [
             {
                 "code": "u101",
@@ -22757,6 +23193,7 @@
         "avatar": "u522.png",
         "type": 8,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "u522",
@@ -22783,6 +23220,7 @@
         "avatar": "u110.png",
         "type": 8,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "u110",
@@ -22881,6 +23319,7 @@
         "avatar": "u96.png",
         "type": 8,
         "rarity": 5,
+        "nationality": 4,
         "skins": [
             {
                 "code": "u96",
@@ -22945,6 +23384,7 @@
         "avatar": "u37.png",
         "type": 8,
         "rarity": 5,
+        "nationality": 4,
         "skins": [
             {
                 "code": "u37",
@@ -22988,6 +23428,7 @@
         "avatar": "u410.png",
         "type": 8,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "u410",
@@ -23031,6 +23472,7 @@
         "avatar": "u1206.png",
         "type": 8,
         "rarity": 4,
+        "nationality": 4,
         "skins": [
             {
                 "code": "u1206",
@@ -23076,6 +23518,7 @@
         "avatar": "luoen.png",
         "type": 3,
         "rarity": 7,
+        "nationality": 4,
         "skins": [
             {
                 "code": "luoen",
@@ -23131,6 +23574,7 @@
         "avatar": "feiteliedadi.png",
         "type": 5,
         "rarity": 8,
+        "nationality": 4,
         "skins": [
             {
                 "code": "feiteliedadi",
@@ -23191,6 +23635,7 @@
         "avatar": "meiyinci.png",
         "type": 2,
         "rarity": 7,
+        "nationality": 4,
         "skins": [
             {
                 "code": "meiyinci",
@@ -23220,6 +23665,7 @@
         "avatar": "aoding.png",
         "type": 4,
         "rarity": 7,
+        "nationality": 4,
         "skins": [
             {
                 "code": "aoding",
@@ -23263,6 +23709,7 @@
         "avatar": "aijier.png",
         "type": 18,
         "rarity": 8,
+        "nationality": 4,
         "skins": [
             {
                 "code": "aijier",
@@ -23332,6 +23779,7 @@
         "avatar": "aogusite.png",
         "type": 7,
         "rarity": 7,
+        "nationality": 4,
         "skins": [
             {
                 "code": "aogusite",
@@ -23383,6 +23831,7 @@
         "avatar": "lupuleixite.png",
         "type": 4,
         "rarity": 7,
+        "nationality": 4,
         "skins": [
             {
                 "code": "lupuleixite",
@@ -23435,6 +23884,7 @@
         "avatar": "anshan.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 5,
         "skins": [
             {
                 "code": "anshan",
@@ -23505,6 +23955,7 @@
         "avatar": "fushun.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 5,
         "skins": [
             {
                 "code": "fushun",
@@ -23550,6 +24001,7 @@
         "avatar": "changchun.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 5,
         "skins": [
             {
                 "code": "changchun",
@@ -23617,6 +24069,7 @@
         "avatar": "taiyuan.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 5,
         "skins": [
             {
                 "code": "taiyuan",
@@ -23654,6 +24107,7 @@
         "avatar": "yixian.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 5,
         "skins": [
             {
                 "code": "yixian",
@@ -23725,6 +24179,7 @@
         "avatar": "ninghai.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 5,
         "skins": [
             {
                 "code": "ninghai",
@@ -23837,6 +24292,7 @@
         "avatar": "pinghai.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 5,
         "skins": [
             {
                 "code": "pinghai",
@@ -23958,6 +24414,7 @@
         "avatar": "yingrui.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 5,
         "skins": [
             {
                 "code": "yingrui",
@@ -24016,6 +24473,7 @@
         "avatar": "zhaohe.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 5,
         "skins": [
             {
                 "code": "zhaohe",
@@ -24088,6 +24546,7 @@
         "avatar": "haitian.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 5,
         "skins": [
             {
                 "code": "haitian",
@@ -24143,6 +24602,7 @@
         "avatar": "haiqi.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 5,
         "skins": [
             {
                 "code": "haiqi",
@@ -24190,6 +24650,7 @@
         "avatar": "zhenhai.png",
         "type": 6,
         "rarity": 4,
+        "nationality": 5,
         "skins": [
             {
                 "code": "zhenhai",
@@ -24257,6 +24718,7 @@
         "avatar": "huajia.png",
         "type": 6,
         "rarity": 4,
+        "nationality": 5,
         "skins": [
             {
                 "code": "huajia",
@@ -24304,6 +24766,7 @@
         "avatar": "dingan.png",
         "type": 19,
         "rarity": 4,
+        "nationality": 5,
         "skins": [
             {
                 "code": "dingan",
@@ -24352,6 +24815,7 @@
         "avatar": "haerbin.png",
         "type": 2,
         "rarity": 7,
+        "nationality": 5,
         "skins": [
             {
                 "code": "haerbin",
@@ -24399,6 +24863,7 @@
         "avatar": "longqibing.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 6,
         "skins": [
             {
                 "code": "longqibing",
@@ -24442,6 +24907,7 @@
         "avatar": "wenqinzuojiaobeidi.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 6,
         "skins": [
             {
                 "code": "wenqinzuojiaobeidi",
@@ -24487,6 +24953,7 @@
         "avatar": "xibeifeng.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 6,
         "skins": [
             {
                 "code": "xibeifeng",
@@ -24533,6 +25000,7 @@
         "avatar": "xinanfeng.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 6,
         "skins": [
             {
                 "code": "xinanfeng",
@@ -24579,6 +25047,7 @@
         "avatar": "daleike.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 6,
         "skins": [
             {
                 "code": "daleike",
@@ -24622,6 +25091,7 @@
         "avatar": "pangpeimagenuo.png",
         "type": 1,
         "rarity": 5,
+        "nationality": 6,
         "skins": [
             {
                 "code": "pangpeimagenuo",
@@ -24667,6 +25137,7 @@
         "avatar": "aerfuleiduo.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 6,
         "skins": [
             {
                 "code": "aerfuleiduo",
@@ -24714,6 +25185,7 @@
         "avatar": "aimannuaier.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 6,
         "skins": [
             {
                 "code": "aimannuaier",
@@ -24761,6 +25233,7 @@
         "avatar": "abuluqi.png",
         "type": 2,
         "rarity": 5,
+        "nationality": 6,
         "skins": [
             {
                 "code": "abuluqi",
@@ -24809,6 +25282,7 @@
         "avatar": "zhusaipei.png",
         "type": 2,
         "rarity": 5,
+        "nationality": 6,
         "skins": [
             {
                 "code": "zhusaipei",
@@ -24859,6 +25333,7 @@
         "avatar": "teluntuo.png",
         "type": 3,
         "rarity": 3,
+        "nationality": 6,
         "skins": [
             {
                 "code": "teluntuo",
@@ -24903,6 +25378,7 @@
         "avatar": "zhala.png",
         "type": 3,
         "rarity": 5,
+        "nationality": 6,
         "skins": [
             {
                 "code": "zhala",
@@ -24948,6 +25424,7 @@
         "avatar": "bola.png",
         "type": 3,
         "rarity": 5,
+        "nationality": 6,
         "skins": [
             {
                 "code": "bola",
@@ -24992,6 +25469,7 @@
         "avatar": "diliyasite.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 6,
         "skins": [
             {
                 "code": "diliyasite",
@@ -25037,6 +25515,7 @@
         "avatar": "boerzhanuo.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 6,
         "skins": [
             {
                 "code": "boerzhanuo",
@@ -25102,6 +25581,7 @@
         "avatar": "weineituo.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 6,
         "skins": [
             {
                 "code": "weineituo",
@@ -25149,6 +25629,7 @@
         "avatar": "lituoliao.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 6,
         "skins": [
             {
                 "code": "lituoliao",
@@ -25232,6 +25713,7 @@
         "avatar": "luoma.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 6,
         "skins": [
             {
                 "code": "luoma",
@@ -25279,6 +25761,7 @@
         "avatar": "jiafuerbojue.png",
         "type": 5,
         "rarity": 3,
+        "nationality": 6,
         "skins": [
             {
                 "code": "jiafuerbojue",
@@ -25320,6 +25803,7 @@
         "avatar": "kaisa.png",
         "type": 5,
         "rarity": 4,
+        "nationality": 6,
         "skins": [
             {
                 "code": "kaisa",
@@ -25390,6 +25874,7 @@
         "avatar": "tianying.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 6,
         "skins": [
             {
                 "code": "tianying",
@@ -25448,6 +25933,7 @@
         "avatar": "diguo.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 6,
         "skins": [
             {
                 "code": "diguo",
@@ -25498,6 +25984,7 @@
         "avatar": "tuolichaili.png",
         "type": 8,
         "rarity": 4,
+        "nationality": 6,
         "skins": [
             {
                 "code": "tuolichaili",
@@ -25547,6 +26034,7 @@
         "avatar": "dafenqi.png",
         "type": 8,
         "rarity": 5,
+        "nationality": 6,
         "skins": [
             {
                 "code": "dafenqi",
@@ -25598,6 +26086,7 @@
         "avatar": "makeboluo.png",
         "type": 5,
         "rarity": 7,
+        "nationality": 6,
         "skins": [
             {
                 "code": "makeboluo",
@@ -25646,6 +26135,7 @@
         "avatar": "weiyan.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 7,
         "skins": [
             {
                 "code": "weiyan",
@@ -25743,6 +26233,7 @@
         "avatar": "mingsike.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 7,
         "skins": [
             {
                 "code": "mingsike",
@@ -25790,6 +26281,7 @@
         "avatar": "tashigan.png",
         "type": 1,
         "rarity": 5,
+        "nationality": 7,
         "skins": [
             {
                 "code": "tashigan",
@@ -25853,6 +26345,7 @@
         "avatar": "tashigan_idol.png",
         "type": 1,
         "rarity": 5,
+        "nationality": 7,
         "skins": [
             {
                 "code": "tashigan_idol",
@@ -25879,6 +26372,7 @@
         "avatar": "shensu.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 7,
         "skins": [
             {
                 "code": "shensu",
@@ -25922,6 +26416,7 @@
         "avatar": "leiming.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 7,
         "skins": [
             {
                 "code": "leiming",
@@ -25971,6 +26466,7 @@
         "avatar": "hongliang.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 7,
         "skins": [
             {
                 "code": "hongliang",
@@ -26014,6 +26510,7 @@
         "avatar": "lingmin.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 7,
         "skins": [
             {
                 "code": "lingmin",
@@ -26066,6 +26563,7 @@
         "avatar": "jifu.png",
         "type": 1,
         "rarity": 5,
+        "nationality": 7,
         "skins": [
             {
                 "code": "jifu",
@@ -26113,6 +26611,7 @@
         "avatar": "afuleer.png",
         "type": 2,
         "rarity": 5,
+        "nationality": 7,
         "skins": [
             {
                 "code": "afuleer",
@@ -26167,6 +26666,7 @@
         "avatar": "shuixingjinian.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 7,
         "skins": [
             {
                 "code": "shuixingjinian",
@@ -26295,6 +26795,7 @@
         "avatar": "qiabayefu.png",
         "type": 2,
         "rarity": 5,
+        "nationality": 7,
         "skins": [
             {
                 "code": "qiabayefu",
@@ -26376,6 +26877,7 @@
         "avatar": "jiluofu.png",
         "type": 2,
         "rarity": 5,
+        "nationality": 7,
         "skins": [
             {
                 "code": "jiluofu",
@@ -26460,6 +26962,7 @@
         "avatar": "gubixuefu.png",
         "type": 2,
         "rarity": 5,
+        "nationality": 7,
         "skins": [
             {
                 "code": "gubixuefu",
@@ -26504,6 +27007,7 @@
         "avatar": "moermansike.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 7,
         "skins": [
             {
                 "code": "moermansike",
@@ -26554,6 +27058,7 @@
         "avatar": "talin.png",
         "type": 3,
         "rarity": 5,
+        "nationality": 7,
         "skins": [
             {
                 "code": "talin",
@@ -26616,6 +27121,7 @@
         "avatar": "gangute.png",
         "type": 5,
         "rarity": 4,
+        "nationality": 7,
         "skins": [
             {
                 "code": "gangute",
@@ -26681,6 +27187,7 @@
         "avatar": "suweiaibeilaluosi.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 7,
         "skins": [
             {
                 "code": "suweiaibeilaluosi",
@@ -26724,6 +27231,7 @@
         "avatar": "suweiailuoxiya.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 7,
         "skins": [
             {
                 "code": "suweiailuoxiya",
@@ -26768,6 +27276,7 @@
         "avatar": "aerhangeersike.png",
         "type": 5,
         "rarity": 4,
+        "nationality": 7,
         "skins": [
             {
                 "code": "aerhangeersike",
@@ -26813,6 +27322,7 @@
         "avatar": "fuerjia.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 7,
         "skins": [
             {
                 "code": "fuerjia",
@@ -26857,6 +27367,7 @@
         "avatar": "kalangshitade.png",
         "type": 18,
         "rarity": 6,
+        "nationality": 7,
         "skins": [
             {
                 "code": "kalangshitade",
@@ -26904,6 +27415,7 @@
         "avatar": "qikaluofu.png",
         "type": 7,
         "rarity": 7,
+        "nationality": 7,
         "skins": [
             {
                 "code": "qikaluofu",
@@ -26953,6 +27465,7 @@
         "avatar": "kaixuan.png",
         "type": 1,
         "rarity": 5,
+        "nationality": 8,
         "skins": [
             {
                 "code": "kaixuan",
@@ -26972,6 +27485,7 @@
         "avatar": "fuerban.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 8,
         "skins": [
             {
                 "code": "fuerban",
@@ -27069,6 +27583,7 @@
         "avatar": "lumang.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 8,
         "skins": [
             {
                 "code": "lumang",
@@ -27148,6 +27663,7 @@
         "avatar": "juejiang.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 8,
         "skins": [
             {
                 "code": "juejiang",
@@ -27200,6 +27716,7 @@
         "avatar": "kebu.png",
         "type": 1,
         "rarity": 5,
+        "nationality": 8,
         "skins": [
             {
                 "code": "kebu",
@@ -27260,6 +27777,7 @@
         "avatar": "mayebuleize.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 8,
         "skins": [
             {
                 "code": "mayebuleize",
@@ -27325,6 +27843,7 @@
         "avatar": "aimierbeierding.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 8,
         "skins": [
             {
                 "code": "aimierbeierding",
@@ -27410,6 +27929,7 @@
         "avatar": "shengnvzhende.png",
         "type": 2,
         "rarity": 5,
+        "nationality": 8,
         "skins": [
             {
                 "code": "shengnvzhende",
@@ -27454,6 +27974,7 @@
         "avatar": "lisailiu.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 8,
         "skins": [
             {
                 "code": "lisailiu",
@@ -27517,6 +28038,7 @@
         "avatar": "beiyaen.png",
         "type": 7,
         "rarity": 4,
+        "nationality": 8,
         "skins": [
             {
                 "code": "beiyaen",
@@ -27564,6 +28086,7 @@
         "avatar": "xukufu.png",
         "type": 8,
         "rarity": 4,
+        "nationality": 8,
         "skins": [
             {
                 "code": "xukufu",
@@ -27621,6 +28144,7 @@
         "avatar": "luyijiushi.png",
         "type": 3,
         "rarity": 7,
+        "nationality": 8,
         "skins": [
             {
                 "code": "luyijiushi",
@@ -27676,6 +28200,7 @@
         "avatar": "xiangbin.png",
         "type": 5,
         "rarity": 7,
+        "nationality": 8,
         "skins": [
             {
                 "code": "xiangbin",
@@ -27722,6 +28247,7 @@
         "avatar": "buleisite.png",
         "type": 18,
         "rarity": 8,
+        "nationality": 8,
         "skins": [
             {
                 "code": "buleisite",
@@ -27769,6 +28295,7 @@
         "avatar": "lemaer.png",
         "type": 1,
         "rarity": 3,
+        "nationality": 9,
         "skins": [
             {
                 "code": "lemaer",
@@ -27845,6 +28372,7 @@
         "avatar": "taertu.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 9,
         "skins": [
             {
                 "code": "taertu",
@@ -27889,6 +28417,7 @@
         "avatar": "wokelan.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 9,
         "skins": [
             {
                 "code": "wokelan",
@@ -27970,6 +28499,7 @@
         "avatar": "edu.png",
         "type": 1,
         "rarity": 5,
+        "nationality": 9,
         "skins": [
             {
                 "code": "edu",
@@ -28052,6 +28582,7 @@
         "avatar": "edu_idol.png",
         "type": 1,
         "rarity": 5,
+        "nationality": 9,
         "skins": [
             {
                 "code": "edu_idol",
@@ -28080,6 +28611,7 @@
         "avatar": "buqu.png",
         "type": 1,
         "rarity": 5,
+        "nationality": 9,
         "skins": [
             {
                 "code": "buqu",
@@ -28143,6 +28675,7 @@
         "avatar": "jialisuoniye.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 9,
         "skins": [
             {
                 "code": "jialisuoniye",
@@ -28223,6 +28756,7 @@
         "avatar": "fuxu.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 9,
         "skins": [
             {
                 "code": "fuxu",
@@ -28273,6 +28807,7 @@
         "avatar": "aerjiliya.png",
         "type": 3,
         "rarity": 5,
+        "nationality": 9,
         "skins": [
             {
                 "code": "aerjiliya",
@@ -28339,6 +28874,7 @@
         "avatar": "dunkeerke.png",
         "type": 4,
         "rarity": 4,
+        "nationality": 9,
         "skins": [
             {
                 "code": "dunkeerke",
@@ -28398,6 +28934,7 @@
         "avatar": "rangbaer.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 9,
         "skins": [
             {
                 "code": "rangbaer",
@@ -28463,6 +29000,7 @@
         "avatar": "jiasikenie_idol.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 9,
         "skins": [
             {
                 "code": "jiasikenie_idol",
@@ -28490,6 +29028,7 @@
         "avatar": "xiafei.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 9,
         "skins": [
             {
                 "code": "xiafei",
@@ -28538,6 +29077,7 @@
         "avatar": "jiasikenie.png",
         "type": 5,
         "rarity": 7,
+        "nationality": 9,
         "skins": [
             {
                 "code": "jiasikenie",
@@ -28588,6 +29128,7 @@
         "avatar": "huangjiacaifu.png",
         "type": 22,
         "rarity": 5,
+        "nationality": 96,
         "skins": [
             {
                 "code": "huangjiacaifu",
@@ -28635,6 +29176,7 @@
         "avatar": "lieren_alter.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 97,
         "skins": [
             {
                 "code": "lieren_alter",
@@ -28660,6 +29202,7 @@
         "avatar": "mingyunnvshen_alter.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 97,
         "skins": [
             {
                 "code": "mingyunnvshen_alter",
@@ -28685,6 +29228,7 @@
         "avatar": "hailunna_alter.png",
         "type": 2,
         "rarity": 5,
+        "nationality": 97,
         "skins": [
             {
                 "code": "hailunna_alter",
@@ -28713,6 +29257,7 @@
         "avatar": "mengfeisi_alter.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 97,
         "skins": [
             {
                 "code": "mengfeisi_alter",
@@ -28743,6 +29288,7 @@
         "avatar": "xiefeierde_alter.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 97,
         "skins": [
             {
                 "code": "xiefeierde_alter",
@@ -28770,6 +29316,7 @@
         "avatar": "teluntuo_alter.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 97,
         "skins": [
             {
                 "code": "teluntuo_alter",
@@ -28797,6 +29344,7 @@
         "avatar": "genaisennao_alter.png",
         "type": 4,
         "rarity": 5,
+        "nationality": 97,
         "skins": [
             {
                 "code": "genaisennao_alter",
@@ -28823,6 +29371,7 @@
         "avatar": "shaenhuosite_alter.png",
         "type": 4,
         "rarity": 5,
+        "nationality": 97,
         "skins": [
             {
                 "code": "shaenhuosite_alter",
@@ -28848,6 +29397,7 @@
         "avatar": "fanji_alter.png",
         "type": 4,
         "rarity": 5,
+        "nationality": 97,
         "skins": [
             {
                 "code": "fanji_alter",
@@ -28873,6 +29423,7 @@
         "avatar": "shengwang_alter.png",
         "type": 4,
         "rarity": 5,
+        "nationality": 97,
         "skins": [
             {
                 "code": "shengwang_alter",
@@ -28901,6 +29452,7 @@
         "avatar": "fusang_alter.png",
         "type": 5,
         "rarity": 4,
+        "nationality": 97,
         "skins": [
             {
                 "code": "fusang_alter",
@@ -28927,6 +29479,7 @@
         "avatar": "shancheng_alter.png",
         "type": 5,
         "rarity": 4,
+        "nationality": 97,
         "skins": [
             {
                 "code": "shancheng_alter",
@@ -28952,6 +29505,7 @@
         "avatar": "yalisangna_alter.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 97,
         "skins": [
             {
                 "code": "yalisangna_alter",
@@ -28980,6 +29534,7 @@
         "avatar": "feiying_alter.png",
         "type": 6,
         "rarity": 4,
+        "nationality": 97,
         "skins": [
             {
                 "code": "feiying_alter",
@@ -29005,6 +29560,7 @@
         "avatar": "sunying_alter.png",
         "type": 6,
         "rarity": 4,
+        "nationality": 97,
         "skins": [
             {
                 "code": "sunying_alter",
@@ -29030,6 +29586,7 @@
         "avatar": "feilong_alter.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 97,
         "skins": [
             {
                 "code": "feilong_alter",
@@ -29058,6 +29615,7 @@
         "avatar": "huangjiafangzhou_alter.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 97,
         "skins": [
             {
                 "code": "huangjiafangzhou_alter",
@@ -29085,6 +29643,7 @@
         "avatar": "canglong_alter.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 97,
         "skins": [
             {
                 "code": "canglong_alter",
@@ -29114,6 +29673,7 @@
         "avatar": "hdn101.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 101,
         "skins": [
             {
                 "code": "hdn101",
@@ -29133,6 +29693,7 @@
         "avatar": "hdn201.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 101,
         "skins": [
             {
                 "code": "hdn201",
@@ -29152,6 +29713,7 @@
         "avatar": "hdn301.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 101,
         "skins": [
             {
                 "code": "hdn301",
@@ -29171,6 +29733,7 @@
         "avatar": "hdn401.png",
         "type": 7,
         "rarity": 4,
+        "nationality": 101,
         "skins": [
             {
                 "code": "hdn401",
@@ -29190,6 +29753,7 @@
         "avatar": "hdn102_1.png",
         "type": 2,
         "rarity": 5,
+        "nationality": 101,
         "skins": [
             {
                 "code": "hdn102_1",
@@ -29219,6 +29783,7 @@
         "avatar": "hdn202_1.png",
         "type": 3,
         "rarity": 5,
+        "nationality": 101,
         "skins": [
             {
                 "code": "hdn202_1",
@@ -29248,6 +29813,7 @@
         "avatar": "hdn302_1.png",
         "type": 1,
         "rarity": 5,
+        "nationality": 101,
         "skins": [
             {
                 "code": "hdn302_1",
@@ -29277,6 +29843,7 @@
         "avatar": "hdn402_1.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 101,
         "skins": [
             {
                 "code": "hdn402_1",
@@ -29306,6 +29873,7 @@
         "avatar": "22.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 102,
         "skins": [
             {
                 "code": 22,
@@ -29325,6 +29893,7 @@
         "avatar": "33.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 102,
         "skins": [
             {
                 "code": 33,
@@ -29344,6 +29913,7 @@
         "avatar": "jiuyuan.png",
         "type": 3,
         "rarity": 5,
+        "nationality": 103,
         "skins": [
             {
                 "code": "jiuyuan",
@@ -29379,6 +29949,7 @@
         "avatar": "maoyin.png",
         "type": 1,
         "rarity": 5,
+        "nationality": 103,
         "skins": [
             {
                 "code": "maoyin",
@@ -29414,6 +29985,7 @@
         "avatar": "lulutiye.png",
         "type": 2,
         "rarity": 5,
+        "nationality": 103,
         "skins": [
             {
                 "code": "lulutiye",
@@ -29449,6 +30021,7 @@
         "avatar": "wululu.png",
         "type": 6,
         "rarity": 4,
+        "nationality": 103,
         "skins": [
             {
                 "code": "wululu",
@@ -29484,6 +30057,7 @@
         "avatar": "salana.png",
         "type": 6,
         "rarity": 4,
+        "nationality": 103,
         "skins": [
             {
                 "code": "salana",
@@ -29519,6 +30093,7 @@
         "avatar": "fumilulu.png",
         "type": 7,
         "rarity": 4,
+        "nationality": 103,
         "skins": [
             {
                 "code": "fumilulu",
@@ -29554,6 +30129,7 @@
         "avatar": "aijiangdd.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 104,
         "skins": [
             {
                 "code": "aijiangdd",
@@ -29600,6 +30176,7 @@
         "avatar": "aijiangcl.png",
         "type": 3,
         "rarity": 5,
+        "nationality": 104,
         "skins": [
             {
                 "code": "aijiangcl",
@@ -29628,6 +30205,7 @@
         "avatar": "aijiangcv.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 104,
         "skins": [
             {
                 "code": "aijiangcv",
@@ -29647,6 +30225,7 @@
         "avatar": "aijiangbb.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 104,
         "skins": [
             {
                 "code": "aijiangbb",
@@ -29675,6 +30254,7 @@
         "avatar": "vtuber_fubuki.png",
         "type": 1,
         "rarity": 5,
+        "nationality": 105,
         "skins": [
             {
                 "code": "vtuber_fubuki",
@@ -29717,6 +30297,7 @@
         "avatar": "vtuber_sora.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 105,
         "skins": [
             {
                 "code": "vtuber_sora",
@@ -29762,6 +30343,7 @@
         "avatar": "vtuber_aqua.png",
         "type": 8,
         "rarity": 5,
+        "nationality": 105,
         "skins": [
             {
                 "code": "vtuber_aqua",
@@ -29806,6 +30388,7 @@
         "avatar": "vtuber_matsuri.png",
         "type": 1,
         "rarity": 4,
+        "nationality": 105,
         "skins": [
             {
                 "code": "vtuber_matsuri",
@@ -29849,6 +30432,7 @@
         "avatar": "vtuber_ayame.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 105,
         "skins": [
             {
                 "code": "vtuber_ayame",
@@ -29894,6 +30478,7 @@
         "avatar": "vtuber_shion.png",
         "type": 6,
         "rarity": 4,
+        "nationality": 105,
         "skins": [
             {
                 "code": "vtuber_shion",
@@ -29939,6 +30524,7 @@
         "avatar": "vtuber_mio.png",
         "type": 7,
         "rarity": 4,
+        "nationality": 105,
         "skins": [
             {
                 "code": "vtuber_mio",
@@ -29985,6 +30571,7 @@
         "avatar": "maliluosi_doa.png",
         "type": 1,
         "rarity": 5,
+        "nationality": 106,
         "skins": [
             {
                 "code": "maliluosi_doa",
@@ -30030,6 +30617,7 @@
         "avatar": "suixiang_doa.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 106,
         "skins": [
             {
                 "code": "suixiang_doa",
@@ -30073,6 +30661,7 @@
         "avatar": "xia_doa.png",
         "type": 3,
         "rarity": 5,
+        "nationality": 106,
         "skins": [
             {
                 "code": "xia_doa",
@@ -30117,6 +30706,7 @@
         "avatar": "haixiao_doa.png",
         "type": 2,
         "rarity": 5,
+        "nationality": 106,
         "skins": [
             {
                 "code": "haixiao_doa",
@@ -30161,6 +30751,7 @@
         "avatar": "zhixiao_doa.png",
         "type": 5,
         "rarity": 4,
+        "nationality": 106,
         "skins": [
             {
                 "code": "zhixiao_doa",
@@ -30204,6 +30795,7 @@
         "avatar": "nvtiangou_doa.png",
         "type": 7,
         "rarity": 4,
+        "nationality": 106,
         "skins": [
             {
                 "code": "nvtiangou_doa",
@@ -30246,6 +30838,7 @@
         "avatar": "monika_doa.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 106,
         "skins": [
             {
                 "code": "monika_doa",
@@ -30292,6 +30885,7 @@
         "avatar": "chunxiang.png",
         "type": 2,
         "rarity": 5,
+        "nationality": 107,
         "skins": [
             {
                 "code": "chunxiang",
@@ -30335,6 +30929,7 @@
         "avatar": "qianzao.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 107,
         "skins": [
             {
                 "code": "qianzao",
@@ -30378,6 +30973,7 @@
         "avatar": "yizhi.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 107,
         "skins": [
             {
                 "code": "yizhi",
@@ -30421,6 +31017,7 @@
         "avatar": "zi.png",
         "type": 3,
         "rarity": 5,
+        "nationality": 107,
         "skins": [
             {
                 "code": "zi",
@@ -30464,6 +31061,7 @@
         "avatar": "lvzi.png",
         "type": 19,
         "rarity": 4,
+        "nationality": 107,
         "skins": [
             {
                 "code": "lvzi",
@@ -30507,6 +31105,7 @@
         "avatar": "yamei.png",
         "type": 8,
         "rarity": 4,
+        "nationality": 107,
         "skins": [
             {
                 "code": "yamei",
@@ -30550,6 +31149,7 @@
         "avatar": "zhenmei.png",
         "type": 8,
         "rarity": 4,
+        "nationality": 107,
         "skins": [
             {
                 "code": "zhenmei",
@@ -30593,6 +31193,7 @@
         "avatar": "baoduoliuhua.png",
         "type": 2,
         "rarity": 5,
+        "nationality": 108,
         "skins": [
             {
                 "code": "baoduoliuhua",
@@ -30638,6 +31239,7 @@
         "avatar": "qian.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 108,
         "skins": [
             {
                 "code": "qian",
@@ -30682,6 +31284,7 @@
         "avatar": "lian.png",
         "type": 2,
         "rarity": 4,
+        "nationality": 108,
         "skins": [
             {
                 "code": "lian",
@@ -30729,6 +31332,7 @@
         "avatar": "naimeizi.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 108,
         "skins": [
             {
                 "code": "naimeizi",
@@ -30774,6 +31378,7 @@
         "avatar": "mengya.png",
         "type": 3,
         "rarity": 5,
+        "nationality": 108,
         "skins": [
             {
                 "code": "mengya",
@@ -30818,6 +31423,7 @@
         "avatar": "qianlai.png",
         "type": 7,
         "rarity": 5,
+        "nationality": 108,
         "skins": [
             {
                 "code": "qianlai",
@@ -30862,6 +31468,7 @@
         "avatar": "he.png",
         "type": 5,
         "rarity": 4,
+        "nationality": 108,
         "skins": [
             {
                 "code": "he",
@@ -30910,6 +31517,7 @@
         "avatar": "laisha.png",
         "type": 2,
         "rarity": 5,
+        "nationality": 109,
         "skins": [
             {
                 "code": "laisha",
@@ -30954,6 +31562,7 @@
         "avatar": "keluodiya.png",
         "type": 6,
         "rarity": 5,
+        "nationality": 109,
         "skins": [
             {
                 "code": "keluodiya",
@@ -31006,6 +31615,7 @@
         "avatar": "patelixia.png",
         "type": 5,
         "rarity": 5,
+        "nationality": 109,
         "skins": [
             {
                 "code": "patelixia",
@@ -31050,6 +31660,7 @@
         "avatar": "lila.png",
         "type": 3,
         "rarity": 4,
+        "nationality": 109,
         "skins": [
             {
                 "code": "lila",
@@ -31096,6 +31707,7 @@
         "avatar": "saili.png",
         "type": 7,
         "rarity": 4,
+        "nationality": 109,
         "skins": [
             {
                 "code": "saili",
@@ -31145,6 +31757,7 @@
         "avatar": "kala.png",
         "type": 18,
         "rarity": 5,
+        "nationality": 109,
         "skins": [
             {
                 "code": "kala",
