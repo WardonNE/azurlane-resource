@@ -2,7 +2,7 @@
     {
         "code": "gin",
         "name": "泛用型布里",
-        "avatar": "gin\/gin.png",
+        "avatar": "gin.png",
         "type": 1,
         "rarity": 4,
         "nationality": 98,
@@ -40,7 +40,7 @@
     {
         "code": "kin",
         "name": "试作型布里MKII",
-        "avatar": "kin\/kin.png",
+        "avatar": "kin.png",
         "type": 1,
         "rarity": 5,
         "nationality": 98,
@@ -60,7 +60,7 @@
     {
         "code": "buli_super",
         "name": "特装型布里MKIII",
-        "avatar": "buli_super\/buli_super.png",
+        "avatar": "buli_super.png",
         "type": 1,
         "rarity": 6,
         "nationality": 98,
@@ -87,7 +87,7 @@
     {
         "code": "duwei",
         "name": "杜威",
-        "avatar": "duwei\/duwei.png",
+        "avatar": "duwei.png",
         "type": 1,
         "rarity": 3,
         "nationality": 1,
@@ -148,7 +148,7 @@
     {
         "code": "kaxin",
         "name": "卡辛",
-        "avatar": "kaxin\/kaxin.png",
+        "avatar": "kaxin.png",
         "type": 1,
         "rarity": 2,
         "nationality": 1,
@@ -197,7 +197,7 @@
     {
         "code": "tangsi",
         "name": "唐斯",
-        "avatar": "tangsi\/tangsi.png",
+        "avatar": "tangsi.png",
         "type": 1,
         "rarity": 2,
         "nationality": 1,
@@ -244,7 +244,7 @@
     {
         "code": "gelideli",
         "name": "格里德利",
-        "avatar": "gelideli\/gelideli.png",
+        "avatar": "gelideli.png",
         "type": 1,
         "rarity": 3,
         "nationality": 1,
@@ -274,7 +274,7 @@
     {
         "code": "keleiwen",
         "name": "克雷文",
-        "avatar": "keleiwen\/keleiwen.png",
+        "avatar": "keleiwen.png",
         "type": 1,
         "rarity": 2,
         "nationality": 1,
@@ -304,7 +304,7 @@
     {
         "code": "maikaoer",
         "name": "麦考尔",
-        "avatar": "maikaoer\/maikaoer.png",
+        "avatar": "maikaoer.png",
         "type": 1,
         "rarity": 2,
         "nationality": 1,
@@ -324,7 +324,7 @@
     {
         "code": "moli",
         "name": "莫里",
-        "avatar": "moli\/moli.png",
+        "avatar": "moli.png",
         "type": 1,
         "rarity": 4,
         "nationality": 1,
@@ -344,7 +344,7 @@
     {
         "code": "fulaiche",
         "name": "弗莱彻",
-        "avatar": "fulaiche\/fulaiche.png",
+        "avatar": "fulaiche.png",
         "type": 1,
         "rarity": 3,
         "nationality": 1,
@@ -364,7 +364,7 @@
     {
         "code": "aosiben",
         "name": "查尔斯·奥斯本",
-        "avatar": "aosiben\/aosiben.png",
+        "avatar": "aosiben.png",
         "type": 1,
         "rarity": 4,
         "nationality": 1,
@@ -403,7 +403,7 @@
     {
         "code": "saqieer",
         "name": "撒切尔",
-        "avatar": "saqieer\/saqieer.png",
+        "avatar": "saqieer.png",
         "type": 1,
         "rarity": 3,
         "nationality": 1,
@@ -423,7 +423,7 @@
     {
         "code": "aolike",
         "name": "奥利克",
-        "avatar": "aolike\/aolike.png",
+        "avatar": "aolike.png",
         "type": 1,
         "rarity": 2,
         "nationality": 1,
@@ -443,7 +443,7 @@
     {
         "code": "fute",
         "name": "富特",
-        "avatar": "fute\/fute.png",
+        "avatar": "fute.png",
         "type": 1,
         "rarity": 2,
         "nationality": 1,
@@ -463,7 +463,7 @@
     {
         "code": "sipengsi",
         "name": "斯彭斯",
-        "avatar": "sipengsi\/sipengsi.png",
+        "avatar": "sipengsi.png",
         "type": 1,
         "rarity": 2,
         "nationality": 1,
@@ -483,7 +483,7 @@
     {
         "code": "bensen",
         "name": "本森",
-        "avatar": "bensen\/bensen.png",
+        "avatar": "bensen.png",
         "type": 1,
         "rarity": 3,
         "nationality": 1,
@@ -520,7 +520,7 @@
     {
         "code": "lafei",
         "name": "拉菲",
-        "avatar": "lafei\/lafei.png",
+        "avatar": "lafei.png",
         "type": 1,
         "rarity": 4,
         "nationality": 1,
@@ -712,7 +712,7 @@
     {
         "code": "ximusi",
         "name": "西姆斯",
-        "avatar": "ximusi\/ximusi.png",
+        "avatar": "ximusi.png",
         "type": 1,
         "rarity": 3,
         "nationality": 1,
@@ -748,7 +748,7 @@
     {
         "code": "haman",
         "name": "哈曼",
-        "avatar": "haman\/haman.png",
+        "avatar": "haman.png",
         "type": 1,
         "rarity": 3,
         "nationality": 1,
@@ -846,7 +846,7 @@
     {
         "code": "aierdeliqi",
         "name": "埃尔德里奇",
-        "avatar": "aierdeliqi\/aierdeliqi.png",
+        "avatar": "aierdeliqi.png",
         "type": 1,
         "rarity": 5,
         "nationality": 1,
@@ -940,7 +940,7 @@
     {
         "code": "beili",
         "name": "贝利",
-        "avatar": "beili\/beili.png",
+        "avatar": "beili.png",
         "type": 1,
         "rarity": 3,
         "nationality": 1,
@@ -1002,7 +1002,7 @@
     {
         "code": "ladefute",
         "name": "拉德福特",
-        "avatar": "ladefute\/ladefute.png",
+        "avatar": "ladefute.png",
         "type": 1,
         "rarity": 3,
         "nationality": 1,
@@ -1038,7 +1038,7 @@
     {
         "code": "jiejinsi",
         "name": "杰金斯",
-        "avatar": "jiejinsi\/jiejinsi.png",
+        "avatar": "jiejinsi.png",
         "type": 1,
         "rarity": 3,
         "nationality": 1,
@@ -1076,7 +1076,7 @@
     {
         "code": "nigulasi",
         "name": "尼古拉斯",
-        "avatar": "nigulasi\/nigulasi.png",
+        "avatar": "nigulasi.png",
         "type": 1,
         "rarity": 4,
         "nationality": 1,
@@ -1176,7 +1176,7 @@
     {
         "code": "bushi",
         "name": "布什",
-        "avatar": "bushi\/bushi.png",
+        "avatar": "bushi.png",
         "type": 1,
         "rarity": 3,
         "nationality": 1,
@@ -1217,7 +1217,7 @@
     {
         "code": "heizewude",
         "name": "黑泽伍德",
-        "avatar": "heizewude\/heizewude.png",
+        "avatar": "heizewude.png",
         "type": 1,
         "rarity": 3,
         "nationality": 1,
@@ -1242,7 +1242,7 @@
     {
         "code": "beiqi",
         "name": "贝奇",
-        "avatar": "beiqi\/beiqi.png",
+        "avatar": "beiqi.png",
         "type": 1,
         "rarity": 3,
         "nationality": 1,
@@ -1297,7 +1297,7 @@
     {
         "code": "huobi",
         "name": "霍比",
-        "avatar": "huobi\/huobi.png",
+        "avatar": "huobi.png",
         "type": 1,
         "rarity": 3,
         "nationality": 1,
@@ -1339,7 +1339,7 @@
     {
         "code": "keerke",
         "name": "科尔克",
-        "avatar": "keerke\/keerke.png",
+        "avatar": "keerke.png",
         "type": 1,
         "rarity": 3,
         "nationality": 1,
@@ -1381,7 +1381,7 @@
     {
         "code": "jinboli",
         "name": "金伯利",
-        "avatar": "jinboli\/jinboli.png",
+        "avatar": "jinboli.png",
         "type": 1,
         "rarity": 3,
         "nationality": 1,
@@ -1427,7 +1427,7 @@
     {
         "code": "malani",
         "name": "马拉尼",
-        "avatar": "malani\/malani.png",
+        "avatar": "malani.png",
         "type": 1,
         "rarity": 4,
         "nationality": 1,
@@ -1473,7 +1473,7 @@
     {
         "code": "aierwen",
         "name": "艾尔温",
-        "avatar": "aierwen\/aierwen.png",
+        "avatar": "aierwen.png",
         "type": 1,
         "rarity": 3,
         "nationality": 1,
@@ -1516,7 +1516,7 @@
     {
         "code": "sitanli",
         "name": "斯坦利",
-        "avatar": "sitanli\/sitanli.png",
+        "avatar": "sitanli.png",
         "type": 1,
         "rarity": 3,
         "nationality": 1,
@@ -1543,7 +1543,7 @@
     {
         "code": "simoli",
         "name": "斯莫利",
-        "avatar": "simoli\/simoli.png",
+        "avatar": "simoli.png",
         "type": 1,
         "rarity": 3,
         "nationality": 1,
@@ -1588,7 +1588,7 @@
     {
         "code": "haerxibaoweier",
         "name": "哈尔西·鲍威尔",
-        "avatar": "haerxibaoweier\/haerxibaoweier.png",
+        "avatar": "haerxibaoweier.png",
         "type": 1,
         "rarity": 3,
         "nationality": 1,
@@ -1633,7 +1633,7 @@
     {
         "code": "kubo",
         "name": "库珀",
-        "avatar": "kubo\/kubo.png",
+        "avatar": "kubo.png",
         "type": 1,
         "rarity": 4,
         "nationality": 1,
@@ -1697,7 +1697,7 @@
     {
         "code": "ailunsamuna",
         "name": "艾伦·萨姆纳",
-        "avatar": "ailunsamuna\/ailunsamuna.png",
+        "avatar": "ailunsamuna.png",
         "type": 1,
         "rarity": 5,
         "nationality": 1,
@@ -1744,7 +1744,7 @@
     {
         "code": "shidifenbote",
         "name": "史蒂芬·波特",
-        "avatar": "shidifenbote\/shidifenbote.png",
+        "avatar": "shidifenbote.png",
         "type": 1,
         "rarity": 4,
         "nationality": 1,
@@ -1794,7 +1794,7 @@
     {
         "code": "molisen",
         "name": "莫里森",
-        "avatar": "molisen\/molisen.png",
+        "avatar": "molisen.png",
         "type": 1,
         "rarity": 4,
         "nationality": 1,
@@ -1838,7 +1838,7 @@
     {
         "code": "yinggelahan",
         "name": "英格拉罕",
-        "avatar": "yinggelahan\/yinggelahan.png",
+        "avatar": "yinggelahan.png",
         "type": 1,
         "rarity": 5,
         "nationality": 1,
@@ -1886,7 +1886,7 @@
     {
         "code": "bulisituoer",
         "name": "布里斯托尔",
-        "avatar": "bulisituoer\/bulisituoer.png",
+        "avatar": "bulisituoer.png",
         "type": 1,
         "rarity": 5,
         "nationality": 1,
@@ -1934,7 +1934,7 @@
     {
         "code": "hamanii",
         "name": "哈曼II",
-        "avatar": "hamanii\/hamanii.png",
+        "avatar": "hamanii.png",
         "type": 1,
         "rarity": 4,
         "nationality": 1,
@@ -1978,7 +1978,7 @@
     {
         "code": "aomaha",
         "name": "奥马哈",
-        "avatar": "aomaha\/aomaha.png",
+        "avatar": "aomaha.png",
         "type": 2,
         "rarity": 2,
         "nationality": 1,
@@ -1998,7 +1998,7 @@
     {
         "code": "luoli",
         "name": "罗利",
-        "avatar": "luoli\/luoli.png",
+        "avatar": "luoli.png",
         "type": 2,
         "rarity": 2,
         "nationality": 1,
@@ -2018,7 +2018,7 @@
     {
         "code": "bulukelin",
         "name": "布鲁克林",
-        "avatar": "bulukelin\/bulukelin.png",
+        "avatar": "bulukelin.png",
         "type": 2,
         "rarity": 3,
         "nationality": 1,
@@ -2038,7 +2038,7 @@
     {
         "code": "feinikesi",
         "name": "菲尼克斯",
-        "avatar": "feinikesi\/feinikesi.png",
+        "avatar": "feinikesi.png",
         "type": 2,
         "rarity": 3,
         "nationality": 1,
@@ -2058,7 +2058,7 @@
     {
         "code": "hailunna",
         "name": "海伦娜",
-        "avatar": "hailunna\/hailunna.png",
+        "avatar": "hailunna.png",
         "type": 2,
         "rarity": 4,
         "nationality": 1,
@@ -2153,7 +2153,7 @@
     {
         "code": "yatelanda",
         "name": "亚特兰大",
-        "avatar": "yatelanda\/yatelanda.png",
+        "avatar": "yatelanda.png",
         "type": 2,
         "rarity": 3,
         "nationality": 1,
@@ -2173,7 +2173,7 @@
     {
         "code": "zhunuo",
         "name": "朱诺",
-        "avatar": "zhunuo\/zhunuo.png",
+        "avatar": "zhunuo.png",
         "type": 2,
         "rarity": 3,
         "nationality": 1,
@@ -2233,7 +2233,7 @@
     {
         "code": "shengdiyage",
         "name": "圣地亚哥",
-        "avatar": "shengdiyage\/shengdiyage.png",
+        "avatar": "shengdiyage.png",
         "type": 2,
         "rarity": 5,
         "nationality": 1,
@@ -2292,7 +2292,7 @@
     {
         "code": "kelifulan",
         "name": "克利夫兰",
-        "avatar": "kelifulan\/kelifulan.png",
+        "avatar": "kelifulan.png",
         "type": 2,
         "rarity": 4,
         "nationality": 1,
@@ -2405,7 +2405,7 @@
     {
         "code": "gelunbiya",
         "name": "哥伦比亚",
-        "avatar": "gelunbiya\/gelunbiya.png",
+        "avatar": "gelunbiya.png",
         "type": 2,
         "rarity": 4,
         "nationality": 1,
@@ -2468,7 +2468,7 @@
     {
         "code": "lishiman",
         "name": "里士满",
-        "avatar": "lishiman\/lishiman.png",
+        "avatar": "lishiman.png",
         "type": 2,
         "rarity": 2,
         "nationality": 1,
@@ -2488,7 +2488,7 @@
     {
         "code": "huonululu",
         "name": "火奴鲁鲁",
-        "avatar": "huonululu\/huonululu.png",
+        "avatar": "huonululu.png",
         "type": 2,
         "rarity": 3,
         "nationality": 1,
@@ -2565,7 +2565,7 @@
     {
         "code": "shengluyisi",
         "name": "圣路易斯",
-        "avatar": "shengluyisi\/shengluyisi.png",
+        "avatar": "shengluyisi.png",
         "type": 2,
         "rarity": 4,
         "nationality": 1,
@@ -2630,7 +2630,7 @@
     {
         "code": "mengbiliai",
         "name": "蒙彼利埃",
-        "avatar": "mengbiliai\/mengbiliai.png",
+        "avatar": "mengbiliai.png",
         "type": 2,
         "rarity": 5,
         "nationality": 1,
@@ -2682,7 +2682,7 @@
     {
         "code": "danfo",
         "name": "丹佛",
-        "avatar": "danfo\/danfo.png",
+        "avatar": "danfo.png",
         "type": 2,
         "rarity": 4,
         "nationality": 1,
@@ -2702,7 +2702,7 @@
     {
         "code": "mengfeisi",
         "name": "孟菲斯",
-        "avatar": "mengfeisi\/mengfeisi.png",
+        "avatar": "mengfeisi.png",
         "type": 2,
         "rarity": 3,
         "nationality": 1,
@@ -2781,7 +2781,7 @@
     {
         "code": "kangkede",
         "name": "康克德",
-        "avatar": "kangkede\/kangkede.png",
+        "avatar": "kangkede.png",
         "type": 2,
         "rarity": 3,
         "nationality": 1,
@@ -2848,7 +2848,7 @@
     {
         "code": "hailunna_younv",
         "name": "小海伦娜",
-        "avatar": "hailunna_younv\/hailunna_younv.png",
+        "avatar": "hailunna_younv.png",
         "type": 2,
         "rarity": 4,
         "nationality": 1,
@@ -2875,7 +2875,7 @@
     {
         "code": "kelifulan_younv",
         "name": "小克利夫兰",
-        "avatar": "kelifulan_younv\/kelifulan_younv.png",
+        "avatar": "kelifulan_younv.png",
         "type": 2,
         "rarity": 4,
         "nationality": 1,
@@ -2901,7 +2901,7 @@
     {
         "code": "shengdiyage_younv",
         "name": "小圣地亚哥",
-        "avatar": "shengdiyage_younv\/shengdiyage_younv.png",
+        "avatar": "shengdiyage_younv.png",
         "type": 2,
         "rarity": 4,
         "nationality": 1,
@@ -2928,7 +2928,7 @@
     {
         "code": "shenghuan",
         "name": "圣胡安",
-        "avatar": "shenghuan\/shenghuan.png",
+        "avatar": "shenghuan.png",
         "type": 2,
         "rarity": 3,
         "nationality": 1,
@@ -2973,7 +2973,7 @@
     {
         "code": "bominghan",
         "name": "伯明翰",
-        "avatar": "bominghan\/bominghan.png",
+        "avatar": "bominghan.png",
         "type": 2,
         "rarity": 4,
         "nationality": 1,
@@ -3050,7 +3050,7 @@
     {
         "code": "kelifulan_idol",
         "name": "克利夫兰(μ兵装)",
-        "avatar": "kelifulan_idol\/kelifulan_idol.png",
+        "avatar": "kelifulan_idol.png",
         "type": 2,
         "rarity": 4,
         "nationality": 1,
@@ -3077,7 +3077,7 @@
     {
         "code": "biluokexi",
         "name": "比洛克西",
-        "avatar": "biluokexi\/biluokexi.png",
+        "avatar": "biluokexi.png",
         "type": 2,
         "rarity": 4,
         "nationality": 1,
@@ -3171,7 +3171,7 @@
     {
         "code": "linuo",
         "name": "里诺",
-        "avatar": "linuo\/linuo.png",
+        "avatar": "linuo.png",
         "type": 2,
         "rarity": 5,
         "nationality": 1,
@@ -3264,7 +3264,7 @@
     {
         "code": "mabuerheide",
         "name": "马布尔黑德",
-        "avatar": "mabuerheide\/mabuerheide.png",
+        "avatar": "mabuerheide.png",
         "type": 2,
         "rarity": 3,
         "nationality": 1,
@@ -3349,7 +3349,7 @@
     {
         "code": "boyixi",
         "name": "博伊西",
-        "avatar": "boyixi\/boyixi.png",
+        "avatar": "boyixi.png",
         "type": 2,
         "rarity": 4,
         "nationality": 1,
@@ -3435,7 +3435,7 @@
     {
         "code": "pengsakela",
         "name": "彭萨科拉",
-        "avatar": "pengsakela\/pengsakela.png",
+        "avatar": "pengsakela.png",
         "type": 3,
         "rarity": 2,
         "nationality": 1,
@@ -3455,7 +3455,7 @@
     {
         "code": "yanhucheng",
         "name": "盐湖城",
-        "avatar": "yanhucheng\/yanhucheng.png",
+        "avatar": "yanhucheng.png",
         "type": 3,
         "rarity": 2,
         "nationality": 1,
@@ -3475,7 +3475,7 @@
     {
         "code": "beianpudun",
         "name": "北安普敦",
-        "avatar": "beianpudun\/beianpudun.png",
+        "avatar": "beianpudun.png",
         "type": 3,
         "rarity": 3,
         "nationality": 1,
@@ -3495,7 +3495,7 @@
     {
         "code": "zhijiage",
         "name": "芝加哥",
-        "avatar": "zhijiage\/zhijiage.png",
+        "avatar": "zhijiage.png",
         "type": 3,
         "rarity": 3,
         "nationality": 1,
@@ -3515,7 +3515,7 @@
     {
         "code": "xiusidun",
         "name": "休斯敦",
-        "avatar": "xiusidun\/xiusidun.png",
+        "avatar": "xiusidun.png",
         "type": 3,
         "rarity": 4,
         "nationality": 1,
@@ -3535,7 +3535,7 @@
     {
         "code": "botelan",
         "name": "波特兰",
-        "avatar": "botelan\/botelan.png",
+        "avatar": "botelan.png",
         "type": 3,
         "rarity": 3,
         "nationality": 1,
@@ -3582,7 +3582,7 @@
     {
         "code": "bolisi",
         "name": "印第安纳波利斯",
-        "avatar": "bolisi\/bolisi.png",
+        "avatar": "bolisi.png",
         "type": 3,
         "rarity": 4,
         "nationality": 1,
@@ -3634,7 +3634,7 @@
     {
         "code": "asituoliya",
         "name": "阿斯托利亚",
-        "avatar": "asituoliya\/asituoliya.png",
+        "avatar": "asituoliya.png",
         "type": 3,
         "rarity": 4,
         "nationality": 1,
@@ -3676,7 +3676,7 @@
     {
         "code": "kunxi",
         "name": "昆西",
-        "avatar": "kunxi\/kunxi.png",
+        "avatar": "kunxi.png",
         "type": 3,
         "rarity": 4,
         "nationality": 1,
@@ -3706,7 +3706,7 @@
     {
         "code": "wensensi",
         "name": "文森斯",
-        "avatar": "wensensi\/wensensi.png",
+        "avatar": "wensensi.png",
         "type": 3,
         "rarity": 4,
         "nationality": 1,
@@ -3752,7 +3752,7 @@
     {
         "code": "weiqita",
         "name": "威奇塔",
-        "avatar": "weiqita\/weiqita.png",
+        "avatar": "weiqita.png",
         "type": 3,
         "rarity": 4,
         "nationality": 1,
@@ -3810,7 +3810,7 @@
     {
         "code": "xinaoerliang",
         "name": "新奥尔良",
-        "avatar": "xinaoerliang\/xinaoerliang.png",
+        "avatar": "xinaoerliang.png",
         "type": 3,
         "rarity": 5,
         "nationality": 1,
@@ -3856,7 +3856,7 @@
     {
         "code": "mingniabolisi",
         "name": "明尼阿波利斯",
-        "avatar": "mingniabolisi\/mingniabolisi.png",
+        "avatar": "mingniabolisi.png",
         "type": 3,
         "rarity": 5,
         "nationality": 1,
@@ -3950,7 +3950,7 @@
     {
         "code": "jiujinshan",
         "name": "旧金山",
-        "avatar": "jiujinshan\/jiujinshan.png",
+        "avatar": "jiujinshan.png",
         "type": 3,
         "rarity": 5,
         "nationality": 1,
@@ -4014,7 +4014,7 @@
     {
         "code": "baerdimo",
         "name": "巴尔的摩",
-        "avatar": "baerdimo\/baerdimo.png",
+        "avatar": "baerdimo.png",
         "type": 3,
         "rarity": 5,
         "nationality": 1,
@@ -4127,7 +4127,7 @@
     {
         "code": "bulaimodun",
         "name": "布莱默顿",
-        "avatar": "bulaimodun\/bulaimodun.png",
+        "avatar": "bulaimodun.png",
         "type": 3,
         "rarity": 5,
         "nationality": 1,
@@ -4234,7 +4234,7 @@
     {
         "code": "baerdimo_idol",
         "name": "巴尔的摩(μ兵装)",
-        "avatar": "baerdimo_idol\/baerdimo_idol.png",
+        "avatar": "baerdimo_idol.png",
         "type": 3,
         "rarity": 4,
         "nationality": 1,
@@ -4262,7 +4262,7 @@
     {
         "code": "beianpudunii",
         "name": "北安普敦II",
-        "avatar": "beianpudunii\/beianpudunii.png",
+        "avatar": "beianpudunii.png",
         "type": 3,
         "rarity": 5,
         "nationality": 1,
@@ -4311,7 +4311,7 @@
     {
         "code": "neihuada",
         "name": "内华达",
-        "avatar": "neihuada\/neihuada.png",
+        "avatar": "neihuada.png",
         "type": 5,
         "rarity": 2,
         "nationality": 1,
@@ -4358,7 +4358,7 @@
     {
         "code": "ekelahema",
         "name": "俄克拉荷马",
-        "avatar": "ekelahema\/ekelahema.png",
+        "avatar": "ekelahema.png",
         "type": 5,
         "rarity": 2,
         "nationality": 1,
@@ -4405,7 +4405,7 @@
     {
         "code": "binxifaniya",
         "name": "宾夕法尼亚",
-        "avatar": "binxifaniya\/binxifaniya.png",
+        "avatar": "binxifaniya.png",
         "type": 5,
         "rarity": 3,
         "nationality": 1,
@@ -4443,7 +4443,7 @@
     {
         "code": "yalisangna",
         "name": "亚利桑那",
-        "avatar": "yalisangna\/yalisangna.png",
+        "avatar": "yalisangna.png",
         "type": 5,
         "rarity": 4,
         "nationality": 1,
@@ -4481,7 +4481,7 @@
     {
         "code": "tiannaxi",
         "name": "田纳西",
-        "avatar": "tiannaxi\/tiannaxi.png",
+        "avatar": "tiannaxi.png",
         "type": 5,
         "rarity": 3,
         "nationality": 1,
@@ -4501,7 +4501,7 @@
     {
         "code": "jialifuniya",
         "name": "加利福尼亚",
-        "avatar": "jialifuniya\/jialifuniya.png",
+        "avatar": "jialifuniya.png",
         "type": 5,
         "rarity": 3,
         "nationality": 1,
@@ -4521,7 +4521,7 @@
     {
         "code": "keluoladuo",
         "name": "科罗拉多",
-        "avatar": "keluoladuo\/keluoladuo.png",
+        "avatar": "keluoladuo.png",
         "type": 5,
         "rarity": 4,
         "nationality": 1,
@@ -4573,7 +4573,7 @@
     {
         "code": "malilan",
         "name": "马里兰",
-        "avatar": "malilan\/malilan.png",
+        "avatar": "malilan.png",
         "type": 5,
         "rarity": 4,
         "nationality": 1,
@@ -4609,7 +4609,7 @@
     {
         "code": "xifujiniya",
         "name": "西弗吉尼亚",
-        "avatar": "xifujiniya\/xifujiniya.png",
+        "avatar": "xifujiniya.png",
         "type": 5,
         "rarity": 4,
         "nationality": 1,
@@ -4645,7 +4645,7 @@
     {
         "code": "beikaluolaina",
         "name": "北卡罗来纳",
-        "avatar": "beikaluolaina\/beikaluolaina.png",
+        "avatar": "beikaluolaina.png",
         "type": 5,
         "rarity": 5,
         "nationality": 1,
@@ -4683,7 +4683,7 @@
     {
         "code": "huashengdun",
         "name": "华盛顿",
-        "avatar": "huashengdun\/huashengdun.png",
+        "avatar": "huashengdun.png",
         "type": 5,
         "rarity": 5,
         "nationality": 1,
@@ -4721,7 +4721,7 @@
     {
         "code": "nandaketa",
         "name": "南达科他",
-        "avatar": "nandaketa\/nandaketa.png",
+        "avatar": "nandaketa.png",
         "type": 5,
         "rarity": 5,
         "nationality": 1,
@@ -4758,7 +4758,7 @@
     {
         "code": "xinzexi",
         "name": "新泽西",
-        "avatar": "xinzexi\/xinzexi.png",
+        "avatar": "xinzexi.png",
         "type": 5,
         "rarity": 6,
         "nationality": 1,
@@ -4828,7 +4828,7 @@
     {
         "code": "masazhusai",
         "name": "马萨诸塞",
-        "avatar": "masazhusai\/masazhusai.png",
+        "avatar": "masazhusai.png",
         "type": 5,
         "rarity": 5,
         "nationality": 1,
@@ -4870,7 +4870,7 @@
     {
         "code": "alabama",
         "name": "阿拉巴马",
-        "avatar": "alabama\/alabama.png",
+        "avatar": "alabama.png",
         "type": 5,
         "rarity": 5,
         "nationality": 1,
@@ -4914,7 +4914,7 @@
     {
         "code": "changdao",
         "name": "长岛",
-        "avatar": "changdao\/changdao.png",
+        "avatar": "changdao.png",
         "type": 6,
         "rarity": 3,
         "nationality": 1,
@@ -4971,7 +4971,7 @@
     {
         "code": "boge",
         "name": "博格",
-        "avatar": "boge\/boge.png",
+        "avatar": "boge.png",
         "type": 6,
         "rarity": 2,
         "nationality": 1,
@@ -5001,7 +5001,7 @@
     {
         "code": "kasabulanka",
         "name": "卡萨布兰卡",
-        "avatar": "kasabulanka\/kasabulanka.png",
+        "avatar": "kasabulanka.png",
         "type": 6,
         "rarity": 3,
         "nationality": 1,
@@ -5044,7 +5044,7 @@
     {
         "code": "lanli",
         "name": "兰利",
-        "avatar": "lanli\/lanli.png",
+        "avatar": "lanli.png",
         "type": 6,
         "rarity": 2,
         "nationality": 1,
@@ -5074,7 +5074,7 @@
     {
         "code": "liekexingdun",
         "name": "列克星敦",
-        "avatar": "liekexingdun\/liekexingdun.png",
+        "avatar": "liekexingdun.png",
         "type": 7,
         "rarity": 4,
         "nationality": 1,
@@ -5113,7 +5113,7 @@
     {
         "code": "salatuojia",
         "name": "萨拉托加",
-        "avatar": "salatuojia\/salatuojia.png",
+        "avatar": "salatuojia.png",
         "type": 7,
         "rarity": 4,
         "nationality": 1,
@@ -5305,7 +5305,7 @@
     {
         "code": "tujizhe",
         "name": "突击者",
-        "avatar": "tujizhe\/tujizhe.png",
+        "avatar": "tujizhe.png",
         "type": 6,
         "rarity": 2,
         "nationality": 1,
@@ -5335,7 +5335,7 @@
     {
         "code": "yuekecheng",
         "name": "约克城",
-        "avatar": "yuekecheng\/yuekecheng.png",
+        "avatar": "yuekecheng.png",
         "type": 7,
         "rarity": 4,
         "nationality": 1,
@@ -5397,7 +5397,7 @@
     {
         "code": "qiye",
         "name": "企业",
-        "avatar": "qiye\/qiye.png",
+        "avatar": "qiye.png",
         "type": 7,
         "rarity": 5,
         "nationality": 1,
@@ -5536,7 +5536,7 @@
     {
         "code": "dahuangfeng",
         "name": "大黄蜂",
-        "avatar": "dahuangfeng\/dahuangfeng.png",
+        "avatar": "dahuangfeng.png",
         "type": 7,
         "rarity": 4,
         "nationality": 1,
@@ -5608,7 +5608,7 @@
     {
         "code": "hufeng",
         "name": "胡蜂",
-        "avatar": "hufeng\/hufeng.png",
+        "avatar": "hufeng.png",
         "type": 7,
         "rarity": 3,
         "nationality": 1,
@@ -5628,7 +5628,7 @@
     {
         "code": "aisaikesi",
         "name": "埃塞克斯",
-        "avatar": "aisaikesi\/aisaikesi.png",
+        "avatar": "aisaikesi.png",
         "type": 7,
         "rarity": 5,
         "nationality": 1,
@@ -5726,7 +5726,7 @@
     {
         "code": "yuekechengii",
         "name": "约克城II",
-        "avatar": "yuekechengii\/yuekechengii.png",
+        "avatar": "yuekechengii.png",
         "type": 7,
         "rarity": 6,
         "nationality": 1,
@@ -5773,7 +5773,7 @@
     {
         "code": "wuwei",
         "name": "无畏",
-        "avatar": "wuwei\/wuwei.png",
+        "avatar": "wuwei.png",
         "type": 7,
         "rarity": 5,
         "nationality": 1,
@@ -5818,7 +5818,7 @@
     {
         "code": "dahuangfengii",
         "name": "大黄蜂II",
-        "avatar": "dahuangfengii\/dahuangfengii.png",
+        "avatar": "dahuangfengii.png",
         "type": 7,
         "rarity": 5,
         "nationality": 1,
@@ -5864,7 +5864,7 @@
     {
         "code": "tikangdeluojia",
         "name": "提康德罗加",
-        "avatar": "tikangdeluojia\/tikangdeluojia.png",
+        "avatar": "tikangdeluojia.png",
         "type": 7,
         "rarity": 5,
         "nationality": 1,
@@ -5907,7 +5907,7 @@
     {
         "code": "bangkeshan",
         "name": "邦克山",
-        "avatar": "bangkeshan\/bangkeshan.png",
+        "avatar": "bangkeshan.png",
         "type": 7,
         "rarity": 5,
         "nationality": 1,
@@ -5947,7 +5947,7 @@
     {
         "code": "duli",
         "name": "独立",
-        "avatar": "duli\/duli.png",
+        "avatar": "duli.png",
         "type": 6,
         "rarity": 4,
         "nationality": 1,
@@ -6058,7 +6058,7 @@
     {
         "code": "pulinsidun",
         "name": "普林斯顿",
-        "avatar": "pulinsidun\/pulinsidun.png",
+        "avatar": "pulinsidun.png",
         "type": 6,
         "rarity": 4,
         "nationality": 1,
@@ -6135,7 +6135,7 @@
     {
         "code": "lanliii",
         "name": "兰利II",
-        "avatar": "lanliii\/lanliii.png",
+        "avatar": "lanliii.png",
         "type": 6,
         "rarity": 4,
         "nationality": 1,
@@ -6181,7 +6181,7 @@
     {
         "code": "badan",
         "name": "巴丹",
-        "avatar": "badan\/badan.png",
+        "avatar": "badan.png",
         "type": 6,
         "rarity": 4,
         "nationality": 1,
@@ -6226,7 +6226,7 @@
     {
         "code": "xianggelila",
         "name": "香格里拉",
-        "avatar": "xianggelila\/xianggelila.png",
+        "avatar": "xianggelila.png",
         "type": 7,
         "rarity": 5,
         "nationality": 1,
@@ -6287,7 +6287,7 @@
     {
         "code": "qiye_younv",
         "name": "小企业",
-        "avatar": "qiye_younv\/qiye_younv.png",
+        "avatar": "qiye_younv.png",
         "type": 7,
         "rarity": 4,
         "nationality": 1,
@@ -6318,7 +6318,7 @@
     {
         "code": "tiaoyu",
         "name": "鲦鱼",
-        "avatar": "tiaoyu\/tiaoyu.png",
+        "avatar": "tiaoyu.png",
         "type": 8,
         "rarity": 4,
         "nationality": 1,
@@ -6338,7 +6338,7 @@
     {
         "code": "daqinghuayu",
         "name": "大青花鱼",
-        "avatar": "daqinghuayu\/daqinghuayu.png",
+        "avatar": "daqinghuayu.png",
         "type": 8,
         "rarity": 5,
         "nationality": 1,
@@ -6396,7 +6396,7 @@
     {
         "code": "jiqi",
         "name": "棘鳍",
-        "avatar": "jiqi\/jiqi.png",
+        "avatar": "jiqi.png",
         "type": 8,
         "rarity": 5,
         "nationality": 1,
@@ -6458,7 +6458,7 @@
     {
         "code": "lansaiyu",
         "name": "蓝鳃鱼",
-        "avatar": "lansaiyu\/lansaiyu.png",
+        "avatar": "lansaiyu.png",
         "type": 8,
         "rarity": 4,
         "nationality": 1,
@@ -6503,7 +6503,7 @@
     {
         "code": "daqinghuayu_idol",
         "name": "大青花鱼(μ兵装)",
-        "avatar": "daqinghuayu_idol\/daqinghuayu_idol.png",
+        "avatar": "daqinghuayu_idol.png",
         "type": 8,
         "rarity": 4,
         "nationality": 1,
@@ -6531,7 +6531,7 @@
     {
         "code": "sheshuiyu",
         "name": "射水鱼",
-        "avatar": "sheshuiyu\/sheshuiyu.png",
+        "avatar": "sheshuiyu.png",
         "type": 8,
         "rarity": 5,
         "nationality": 1,
@@ -6589,7 +6589,7 @@
     {
         "code": "yingwuluo",
         "name": "鹦鹉螺",
-        "avatar": "yingwuluo\/yingwuluo.png",
+        "avatar": "yingwuluo.png",
         "type": 8,
         "rarity": 4,
         "nationality": 1,
@@ -6635,7 +6635,7 @@
     {
         "code": "zaoshen",
         "name": "女灶神",
-        "avatar": "zaoshen\/zaoshen.png",
+        "avatar": "zaoshen.png",
         "type": 12,
         "rarity": 4,
         "nationality": 1,
@@ -6678,7 +6678,7 @@
     {
         "code": "xiyatu",
         "name": "西雅图",
-        "avatar": "xiyatu\/xiyatu.png",
+        "avatar": "xiyatu.png",
         "type": 2,
         "rarity": 7,
         "nationality": 1,
@@ -6759,7 +6759,7 @@
     {
         "code": "zuozhiya",
         "name": "佐治亚",
-        "avatar": "zuozhiya\/zuozhiya.png",
+        "avatar": "zuozhiya.png",
         "type": 5,
         "rarity": 7,
         "nationality": 1,
@@ -6838,7 +6838,7 @@
     {
         "code": "ankeleiqi",
         "name": "安克雷奇",
-        "avatar": "ankeleiqi\/ankeleiqi.png",
+        "avatar": "ankeleiqi.png",
         "type": 3,
         "rarity": 7,
         "nationality": 1,
@@ -6870,7 +6870,7 @@
     {
         "code": "nvjiang",
         "name": "女将",
-        "avatar": "nvjiang\/nvjiang.png",
+        "avatar": "nvjiang.png",
         "type": 1,
         "rarity": 3,
         "nationality": 2,
@@ -6926,7 +6926,7 @@
     {
         "code": "akasita",
         "name": "阿卡司塔",
-        "avatar": "akasita\/akasita.png",
+        "avatar": "akasita.png",
         "type": 1,
         "rarity": 3,
         "nationality": 2,
@@ -6998,7 +6998,7 @@
     {
         "code": "rexin",
         "name": "热心",
-        "avatar": "rexin\/rexin.png",
+        "avatar": "rexin.png",
         "type": 1,
         "rarity": 3,
         "nationality": 2,
@@ -7064,7 +7064,7 @@
     {
         "code": "xiaolietuquan",
         "name": "小猎兔犬",
-        "avatar": "xiaolietuquan\/xiaolietuquan.png",
+        "avatar": "xiaolietuquan.png",
         "type": 1,
         "rarity": 2,
         "nationality": 2,
@@ -7084,7 +7084,7 @@
     {
         "code": "dadouquan",
         "name": "大斗犬",
-        "avatar": "dadouquan\/dadouquan.png",
+        "avatar": "dadouquan.png",
         "type": 1,
         "rarity": 2,
         "nationality": 2,
@@ -7104,7 +7104,7 @@
     {
         "code": "huixing",
         "name": "彗星",
-        "avatar": "huixing\/huixing.png",
+        "avatar": "huixing.png",
         "type": 1,
         "rarity": 2,
         "nationality": 2,
@@ -7134,7 +7134,7 @@
     {
         "code": "xinyue",
         "name": "新月",
-        "avatar": "xinyue\/xinyue.png",
+        "avatar": "xinyue.png",
         "type": 1,
         "rarity": 2,
         "nationality": 2,
@@ -7164,7 +7164,7 @@
     {
         "code": "xiaotiane",
         "name": "小天鹅",
-        "avatar": "xiaotiane\/xiaotiane.png",
+        "avatar": "xiaotiane.png",
         "type": 1,
         "rarity": 2,
         "nationality": 2,
@@ -7263,7 +7263,7 @@
     {
         "code": "huti",
         "name": "狐提",
-        "avatar": "huti\/huti.png",
+        "avatar": "huti.png",
         "type": 1,
         "rarity": 2,
         "nationality": 2,
@@ -7293,7 +7293,7 @@
     {
         "code": "mingyunnvshen",
         "name": "命运女神",
-        "avatar": "mingyunnvshen\/mingyunnvshen.png",
+        "avatar": "mingyunnvshen.png",
         "type": 1,
         "rarity": 3,
         "nationality": 2,
@@ -7340,7 +7340,7 @@
     {
         "code": "gelunweier",
         "name": "格伦维尔",
-        "avatar": "gelunweier\/gelunweier.png",
+        "avatar": "gelunweier.png",
         "type": 1,
         "rarity": 4,
         "nationality": 2,
@@ -7370,7 +7370,7 @@
     {
         "code": "yinghuochong",
         "name": "萤火虫",
-        "avatar": "yinghuochong\/yinghuochong.png",
+        "avatar": "yinghuochong.png",
         "type": 1,
         "rarity": 4,
         "nationality": 2,
@@ -7410,7 +7410,7 @@
     {
         "code": "yonggan",
         "name": "勇敢",
-        "avatar": "yonggan\/yonggan.png",
+        "avatar": "yonggan.png",
         "type": 1,
         "rarity": 4,
         "nationality": 2,
@@ -7436,7 +7436,7 @@
     {
         "code": "lieren",
         "name": "猎人",
-        "avatar": "lieren\/lieren.png",
+        "avatar": "lieren.png",
         "type": 1,
         "rarity": 3,
         "nationality": 2,
@@ -7462,7 +7462,7 @@
     {
         "code": "biaoqiang",
         "name": "标枪",
-        "avatar": "biaoqiang\/biaoqiang.png",
+        "avatar": "biaoqiang.png",
         "type": 1,
         "rarity": 4,
         "nationality": 2,
@@ -7618,7 +7618,7 @@
     {
         "code": "tianhou",
         "name": "天后",
-        "avatar": "tianhou\/tianhou.png",
+        "avatar": "tianhou.png",
         "type": 1,
         "rarity": 3,
         "nationality": 2,
@@ -7656,7 +7656,7 @@
     {
         "code": "xixuegui",
         "name": "吸血鬼",
-        "avatar": "xixuegui\/xixuegui.png",
+        "avatar": "xixuegui.png",
         "type": 1,
         "rarity": 4,
         "nationality": 2,
@@ -7753,7 +7753,7 @@
     {
         "code": "qiubite",
         "name": "丘比特",
-        "avatar": "qiubite\/qiubite.png",
+        "avatar": "qiubite.png",
         "type": 1,
         "rarity": 3,
         "nationality": 2,
@@ -7791,7 +7791,7 @@
     {
         "code": "zexi",
         "name": "泽西",
-        "avatar": "zexi\/zexi.png",
+        "avatar": "zexi.png",
         "type": 1,
         "rarity": 3,
         "nationality": 2,
@@ -7811,7 +7811,7 @@
     {
         "code": "wudi",
         "name": "无敌",
-        "avatar": "wudi\/wudi.png",
+        "avatar": "wudi.png",
         "type": 1,
         "rarity": 4,
         "nationality": 2,
@@ -7847,7 +7847,7 @@
     {
         "code": "huoqiangshou",
         "name": "火枪手",
-        "avatar": "huoqiangshou\/huoqiangshou.png",
+        "avatar": "huoqiangshou.png",
         "type": 1,
         "rarity": 4,
         "nationality": 2,
@@ -7867,7 +7867,7 @@
     {
         "code": "huisheng",
         "name": "回声",
-        "avatar": "huisheng\/huisheng.png",
+        "avatar": "huisheng.png",
         "type": 1,
         "rarity": 3,
         "nationality": 2,
@@ -7893,7 +7893,7 @@
     {
         "code": "aisijimo",
         "name": "爱斯基摩人",
-        "avatar": "aisijimo\/aisijimo.png",
+        "avatar": "aisijimo.png",
         "type": 1,
         "rarity": 4,
         "nationality": 2,
@@ -7939,7 +7939,7 @@
     {
         "code": "yikaluosi",
         "name": "伊卡洛斯",
-        "avatar": "yikaluosi\/yikaluosi.png",
+        "avatar": "yikaluosi.png",
         "type": 1,
         "rarity": 4,
         "nationality": 2,
@@ -8022,7 +8022,7 @@
     {
         "code": "jiaweisi",
         "name": "贾维斯",
-        "avatar": "jiaweisi\/jiaweisi.png",
+        "avatar": "jiaweisi.png",
         "type": 1,
         "rarity": 5,
         "nationality": 2,
@@ -8072,7 +8072,7 @@
     {
         "code": "yanusi",
         "name": "雅努斯",
-        "avatar": "yanusi\/yanusi.png",
+        "avatar": "yanusi.png",
         "type": 1,
         "rarity": 5,
         "nationality": 2,
@@ -8117,7 +8117,7 @@
     {
         "code": "liande",
         "name": "利安得",
-        "avatar": "liande\/liande.png",
+        "avatar": "liande.png",
         "type": 2,
         "rarity": 2,
         "nationality": 2,
@@ -8147,7 +8147,7 @@
     {
         "code": "ajilisi",
         "name": "阿基里斯",
-        "avatar": "ajilisi\/ajilisi.png",
+        "avatar": "ajilisi.png",
         "type": 2,
         "rarity": 3,
         "nationality": 2,
@@ -8177,7 +8177,7 @@
     {
         "code": "ajiakesi",
         "name": "阿贾克斯",
-        "avatar": "ajiakesi\/ajiakesi.png",
+        "avatar": "ajiakesi.png",
         "type": 2,
         "rarity": 3,
         "nationality": 2,
@@ -8243,7 +8243,7 @@
     {
         "code": "daiduo",
         "name": "黛朵",
-        "avatar": "daiduo\/daiduo.png",
+        "avatar": "daiduo.png",
         "type": 2,
         "rarity": 5,
         "nationality": 2,
@@ -8288,7 +8288,7 @@
     {
         "code": "nananpudun",
         "name": "南安普顿",
-        "avatar": "nananpudun\/nananpudun.png",
+        "avatar": "nananpudun.png",
         "type": 2,
         "rarity": 3,
         "nationality": 2,
@@ -8385,7 +8385,7 @@
     {
         "code": "xiefeierde",
         "name": "谢菲尔德",
-        "avatar": "xiefeierde\/xiefeierde.png",
+        "avatar": "xiefeierde.png",
         "type": 2,
         "rarity": 4,
         "nationality": 2,
@@ -8471,7 +8471,7 @@
     {
         "code": "manchesite",
         "name": "曼彻斯特",
-        "avatar": "manchesite\/manchesite.png",
+        "avatar": "manchesite.png",
         "type": 2,
         "rarity": 4,
         "nationality": 2,
@@ -8519,7 +8519,7 @@
     {
         "code": "geluosite",
         "name": "格罗斯特",
-        "avatar": "geluosite\/geluosite.png",
+        "avatar": "geluosite.png",
         "type": 2,
         "rarity": 4,
         "nationality": 2,
@@ -8564,7 +8564,7 @@
     {
         "code": "aidingbao",
         "name": "爱丁堡",
-        "avatar": "aidingbao\/aidingbao.png",
+        "avatar": "aidingbao.png",
         "type": 2,
         "rarity": 4,
         "nationality": 2,
@@ -8612,7 +8612,7 @@
     {
         "code": "beierfasite",
         "name": "贝尔法斯特",
-        "avatar": "beierfasite\/beierfasite.png",
+        "avatar": "beierfasite.png",
         "type": 2,
         "rarity": 5,
         "nationality": 2,
@@ -8747,7 +8747,7 @@
     {
         "code": "aruituosha",
         "name": "阿瑞托莎",
-        "avatar": "aruituosha\/aruituosha.png",
+        "avatar": "aruituosha.png",
         "type": 2,
         "rarity": 3,
         "nationality": 2,
@@ -8767,7 +8767,7 @@
     {
         "code": "jialadiya",
         "name": "加拉蒂亚",
-        "avatar": "jialadiya\/jialadiya.png",
+        "avatar": "jialadiya.png",
         "type": 2,
         "rarity": 3,
         "nationality": 2,
@@ -8787,7 +8787,7 @@
     {
         "code": "ouruola",
         "name": "欧若拉",
-        "avatar": "ouruola\/ouruola.png",
+        "avatar": "ouruola.png",
         "type": 2,
         "rarity": 4,
         "nationality": 2,
@@ -8875,7 +8875,7 @@
     {
         "code": "feiji",
         "name": "斐济",
-        "avatar": "feiji\/feiji.png",
+        "avatar": "feiji.png",
         "type": 2,
         "rarity": 3,
         "nationality": 2,
@@ -8911,7 +8911,7 @@
     {
         "code": "yamaijia",
         "name": "牙买加",
-        "avatar": "yamaijia\/yamaijia.png",
+        "avatar": "yamaijia.png",
         "type": 2,
         "rarity": 3,
         "nationality": 2,
@@ -8967,7 +8967,7 @@
     {
         "code": "beierfasite_younv",
         "name": "小贝法",
-        "avatar": "beierfasite_younv\/beierfasite_younv.png",
+        "avatar": "beierfasite_younv.png",
         "type": 2,
         "rarity": 4,
         "nationality": 2,
@@ -8987,7 +8987,7 @@
     {
         "code": "niukasier",
         "name": "纽卡斯尔",
-        "avatar": "niukasier\/niukasier.png",
+        "avatar": "niukasier.png",
         "type": 2,
         "rarity": 3,
         "nationality": 2,
@@ -9027,7 +9027,7 @@
     {
         "code": "tianlangxing",
         "name": "天狼星",
-        "avatar": "tianlangxing\/tianlangxing.png",
+        "avatar": "tianlangxing.png",
         "type": 2,
         "rarity": 5,
         "nationality": 2,
@@ -9104,7 +9104,7 @@
     {
         "code": "kulasuo",
         "name": "库拉索",
-        "avatar": "kulasuo\/kulasuo.png",
+        "avatar": "kulasuo.png",
         "type": 2,
         "rarity": 3,
         "nationality": 2,
@@ -9164,7 +9164,7 @@
     {
         "code": "biaoyu",
         "name": "杓鹬",
-        "avatar": "biaoyu\/biaoyu.png",
+        "avatar": "biaoyu.png",
         "type": 2,
         "rarity": 3,
         "nationality": 2,
@@ -9224,7 +9224,7 @@
     {
         "code": "quejie",
         "name": "确捷",
-        "avatar": "quejie\/quejie.png",
+        "avatar": "quejie.png",
         "type": 2,
         "rarity": 5,
         "nationality": 2,
@@ -9303,7 +9303,7 @@
     {
         "code": "heitaizi",
         "name": "黑太子",
-        "avatar": "heitaizi\/heitaizi.png",
+        "avatar": "heitaizi.png",
         "type": 2,
         "rarity": 4,
         "nationality": 2,
@@ -9402,7 +9402,7 @@
     {
         "code": "xiefeierde_idol",
         "name": "谢菲尔德(μ兵装)",
-        "avatar": "xiefeierde_idol\/xiefeierde_idol.png",
+        "avatar": "xiefeierde_idol.png",
         "type": 2,
         "rarity": 4,
         "nationality": 2,
@@ -9430,7 +9430,7 @@
     {
         "code": "gelasige",
         "name": "格拉斯哥",
-        "avatar": "gelasige\/gelasige.png",
+        "avatar": "gelasige.png",
         "type": 2,
         "rarity": 3,
         "nationality": 2,
@@ -9473,7 +9473,7 @@
     {
         "code": "hemin",
         "name": "赫敏",
-        "avatar": "hemin\/hemin.png",
+        "avatar": "hemin.png",
         "type": 2,
         "rarity": 5,
         "nationality": 2,
@@ -9564,7 +9564,7 @@
     {
         "code": "daiduo_idol",
         "name": "黛朵(μ兵装)",
-        "avatar": "daiduo_idol\/daiduo_idol.png",
+        "avatar": "daiduo_idol.png",
         "type": 2,
         "rarity": 5,
         "nationality": 2,
@@ -9591,7 +9591,7 @@
     {
         "code": "peineiluopo",
         "name": "佩内洛珀",
-        "avatar": "peineiluopo\/peineiluopo.png",
+        "avatar": "peineiluopo.png",
         "type": 2,
         "rarity": 4,
         "nationality": 2,
@@ -9655,7 +9655,7 @@
     {
         "code": "kalvbudisi",
         "name": "卡律布狄斯",
-        "avatar": "kalvbudisi\/kalvbudisi.png",
+        "avatar": "kalvbudisi.png",
         "type": 2,
         "rarity": 5,
         "nationality": 2,
@@ -9730,7 +9730,7 @@
     {
         "code": "sizhannvshen",
         "name": "司战女神",
-        "avatar": "sizhannvshen\/sizhannvshen.png",
+        "avatar": "sizhannvshen.png",
         "type": 2,
         "rarity": 4,
         "nationality": 2,
@@ -9782,7 +9782,7 @@
     {
         "code": "jinqu",
         "name": "进取",
-        "avatar": "jinqu\/jinqu.png",
+        "avatar": "jinqu.png",
         "type": 2,
         "rarity": 4,
         "nationality": 2,
@@ -9808,7 +9808,7 @@
     {
         "code": "lundun",
         "name": "伦敦",
-        "avatar": "lundun\/lundun.png",
+        "avatar": "lundun.png",
         "type": 3,
         "rarity": 4,
         "nationality": 2,
@@ -9854,7 +9854,7 @@
     {
         "code": "shiluopujun",
         "name": "什罗普郡",
-        "avatar": "shiluopujun\/shiluopujun.png",
+        "avatar": "shiluopujun.png",
         "type": 3,
         "rarity": 3,
         "nationality": 2,
@@ -9890,7 +9890,7 @@
     {
         "code": "kente",
         "name": "肯特",
-        "avatar": "kente\/kente.png",
+        "avatar": "kente.png",
         "type": 3,
         "rarity": 3,
         "nationality": 2,
@@ -9910,7 +9910,7 @@
     {
         "code": "safuke",
         "name": "萨福克",
-        "avatar": "safuke\/safuke.png",
+        "avatar": "safuke.png",
         "type": 3,
         "rarity": 3,
         "nationality": 2,
@@ -9940,7 +9940,7 @@
     {
         "code": "nuofuke",
         "name": "诺福克",
-        "avatar": "nuofuke\/nuofuke.png",
+        "avatar": "nuofuke.png",
         "type": 3,
         "rarity": 3,
         "nationality": 2,
@@ -9960,7 +9960,7 @@
     {
         "code": "duosaitejun",
         "name": "多塞特郡",
-        "avatar": "duosaitejun\/duosaitejun.png",
+        "avatar": "duosaitejun.png",
         "type": 3,
         "rarity": 4,
         "nationality": 2,
@@ -9980,7 +9980,7 @@
     {
         "code": "yueke",
         "name": "约克",
-        "avatar": "yueke\/yueke.png",
+        "avatar": "yueke.png",
         "type": 3,
         "rarity": 4,
         "nationality": 2,
@@ -10065,7 +10065,7 @@
     {
         "code": "aikesaite",
         "name": "埃克塞特",
-        "avatar": "aikesaite\/aikesaite.png",
+        "avatar": "aikesaite.png",
         "type": 3,
         "rarity": 4,
         "nationality": 2,
@@ -10113,7 +10113,7 @@
     {
         "code": "susaikesi",
         "name": "苏塞克斯",
-        "avatar": "susaikesi\/susaikesi.png",
+        "avatar": "susaikesi.png",
         "type": 3,
         "rarity": 3,
         "nationality": 2,
@@ -10168,7 +10168,7 @@
     {
         "code": "chaijun_younv",
         "name": "小柴郡",
-        "avatar": "chaijun_younv\/chaijun_younv.png",
+        "avatar": "chaijun_younv.png",
         "type": 3,
         "rarity": 4,
         "nationality": 2,
@@ -10204,7 +10204,7 @@
     {
         "code": "shengwang",
         "name": "声望",
-        "avatar": "shengwang\/shengwang.png",
+        "avatar": "shengwang.png",
         "type": 4,
         "rarity": 4,
         "nationality": 2,
@@ -10224,7 +10224,7 @@
     {
         "code": "fanji",
         "name": "反击",
-        "avatar": "fanji\/fanji.png",
+        "avatar": "fanji.png",
         "type": 4,
         "rarity": 3,
         "nationality": 2,
@@ -10244,7 +10244,7 @@
     {
         "code": "hude",
         "name": "胡德",
-        "avatar": "hude\/hude.png",
+        "avatar": "hude.png",
         "type": 4,
         "rarity": 5,
         "nationality": 2,
@@ -10317,7 +10317,7 @@
     {
         "code": "shengwang_younv",
         "name": "小声望",
-        "avatar": "shengwang_younv\/shengwang_younv.png",
+        "avatar": "shengwang_younv.png",
         "type": 4,
         "rarity": 4,
         "nationality": 2,
@@ -10344,7 +10344,7 @@
     {
         "code": "yilishabai",
         "name": "伊丽莎白女王",
-        "avatar": "yilishabai\/yilishabai.png",
+        "avatar": "yilishabai.png",
         "type": 5,
         "rarity": 4,
         "nationality": 2,
@@ -10452,7 +10452,7 @@
     {
         "code": "yanzhan",
         "name": "厌战",
-        "avatar": "yanzhan\/yanzhan.png",
+        "avatar": "yanzhan.png",
         "type": 5,
         "rarity": 5,
         "nationality": 2,
@@ -10529,7 +10529,7 @@
     {
         "code": "naerxun",
         "name": "纳尔逊",
-        "avatar": "naerxun\/naerxun.png",
+        "avatar": "naerxun.png",
         "type": 5,
         "rarity": 4,
         "nationality": 2,
@@ -10584,7 +10584,7 @@
     {
         "code": "luodeni",
         "name": "罗德尼",
-        "avatar": "luodeni\/luodeni.png",
+        "avatar": "luodeni.png",
         "type": 5,
         "rarity": 4,
         "nationality": 2,
@@ -10674,7 +10674,7 @@
     {
         "code": "qiaozhiwushi",
         "name": "英王乔治五世",
-        "avatar": "qiaozhiwushi\/qiaozhiwushi.png",
+        "avatar": "qiaozhiwushi.png",
         "type": 5,
         "rarity": 5,
         "nationality": 2,
@@ -10717,7 +10717,7 @@
     {
         "code": "weiershiqinwang",
         "name": "威尔士亲王",
-        "avatar": "weiershiqinwang\/weiershiqinwang.png",
+        "avatar": "weiershiqinwang.png",
         "type": 5,
         "rarity": 5,
         "nationality": 2,
@@ -10780,7 +10780,7 @@
     {
         "code": "yuekegongjue",
         "name": "约克公爵",
-        "avatar": "yuekegongjue\/yuekegongjue.png",
+        "avatar": "yuekegongjue.png",
         "type": 5,
         "rarity": 5,
         "nationality": 2,
@@ -10832,7 +10832,7 @@
     {
         "code": "hao",
         "name": "豪",
-        "avatar": "hao\/hao.png",
+        "avatar": "hao.png",
         "type": 5,
         "rarity": 5,
         "nationality": 2,
@@ -10923,7 +10923,7 @@
     {
         "code": "yingyong",
         "name": "英勇",
-        "avatar": "yingyong\/yingyong.png",
+        "avatar": "yingyong.png",
         "type": 5,
         "rarity": 4,
         "nationality": 2,
@@ -10981,7 +10981,7 @@
     {
         "code": "fuchou",
         "name": "复仇",
-        "avatar": "fuchou\/fuchou.png",
+        "avatar": "fuchou.png",
         "type": 5,
         "rarity": 4,
         "nationality": 2,
@@ -11026,7 +11026,7 @@
     {
         "code": "qianwei",
         "name": "前卫",
-        "avatar": "qianwei\/qianwei.png",
+        "avatar": "qianwei.png",
         "type": 5,
         "rarity": 6,
         "nationality": 2,
@@ -11074,7 +11074,7 @@
     {
         "code": "jingjishen",
         "name": "竞技神",
-        "avatar": "jingjishen\/jingjishen.png",
+        "avatar": "jingjishen.png",
         "type": 6,
         "rarity": 2,
         "nationality": 2,
@@ -11110,7 +11110,7 @@
     {
         "code": "dujiaoshou",
         "name": "独角兽",
-        "avatar": "dujiaoshou\/dujiaoshou.png",
+        "avatar": "dujiaoshou.png",
         "type": 6,
         "rarity": 4,
         "nationality": 2,
@@ -11278,7 +11278,7 @@
     {
         "code": "banrenma",
         "name": "半人马",
-        "avatar": "banrenma\/banrenma.png",
+        "avatar": "banrenma.png",
         "type": 6,
         "rarity": 5,
         "nationality": 2,
@@ -11334,7 +11334,7 @@
     {
         "code": "zhuiganzhe",
         "name": "追赶者",
-        "avatar": "zhuiganzhe\/zhuiganzhe.png",
+        "avatar": "zhuiganzhe.png",
         "type": 6,
         "rarity": 4,
         "nationality": 2,
@@ -11395,7 +11395,7 @@
     {
         "code": "yingxianzuo",
         "name": "英仙座",
-        "avatar": "yingxianzuo\/yingxianzuo.png",
+        "avatar": "yingxianzuo.png",
         "type": 6,
         "rarity": 5,
         "nationality": 2,
@@ -11439,7 +11439,7 @@
     {
         "code": "aerbien",
         "name": "阿尔比恩",
-        "avatar": "aerbien\/aerbien.png",
+        "avatar": "aerbien.png",
         "type": 6,
         "rarity": 5,
         "nationality": 2,
@@ -11494,7 +11494,7 @@
     {
         "code": "texiusi",
         "name": "忒修斯",
-        "avatar": "texiusi\/texiusi.png",
+        "avatar": "texiusi.png",
         "type": 6,
         "rarity": 5,
         "nationality": 2,
@@ -11546,7 +11546,7 @@
     {
         "code": "ying",
         "name": "鹰",
-        "avatar": "ying\/ying.png",
+        "avatar": "ying.png",
         "type": 7,
         "rarity": 4,
         "nationality": 2,
@@ -11592,7 +11592,7 @@
     {
         "code": "huangjiafangzhou",
         "name": "皇家方舟",
-        "avatar": "huangjiafangzhou\/huangjiafangzhou.png",
+        "avatar": "huangjiafangzhou.png",
         "type": 7,
         "rarity": 4,
         "nationality": 2,
@@ -11721,7 +11721,7 @@
     {
         "code": "guanghui",
         "name": "光辉",
-        "avatar": "guanghui\/guanghui.png",
+        "avatar": "guanghui.png",
         "type": 7,
         "rarity": 5,
         "nationality": 2,
@@ -11820,7 +11820,7 @@
     {
         "code": "shengli",
         "name": "胜利",
-        "avatar": "shengli\/shengli.png",
+        "avatar": "shengli.png",
         "type": 7,
         "rarity": 5,
         "nationality": 2,
@@ -11874,7 +11874,7 @@
     {
         "code": "kewei",
         "name": "可畏",
-        "avatar": "kewei\/kewei.png",
+        "avatar": "kewei.png",
         "type": 7,
         "rarity": 5,
         "nationality": 2,
@@ -11939,7 +11939,7 @@
     {
         "code": "guangrong",
         "name": "光荣",
-        "avatar": "guangrong\/guangrong.png",
+        "avatar": "guangrong.png",
         "type": 7,
         "rarity": 4,
         "nationality": 2,
@@ -11987,7 +11987,7 @@
     {
         "code": "guanghui_younv",
         "name": "小光辉",
-        "avatar": "guanghui_younv\/guanghui_younv.png",
+        "avatar": "guanghui_younv.png",
         "type": 7,
         "rarity": 4,
         "nationality": 2,
@@ -12014,7 +12014,7 @@
     {
         "code": "guanghui_idol",
         "name": "光辉(μ兵装)",
-        "avatar": "guanghui_idol\/guanghui_idol.png",
+        "avatar": "guanghui_idol.png",
         "type": 7,
         "rarity": 5,
         "nationality": 2,
@@ -12041,7 +12041,7 @@
     {
         "code": "bunao",
         "name": "不挠",
-        "avatar": "bunao\/bunao.png",
+        "avatar": "bunao.png",
         "type": 7,
         "rarity": 5,
         "nationality": 2,
@@ -12091,7 +12091,7 @@
     {
         "code": "heianjie",
         "name": "黑暗界",
-        "avatar": "heianjie\/heianjie.png",
+        "avatar": "heianjie.png",
         "type": 13,
         "rarity": 4,
         "nationality": 2,
@@ -12138,7 +12138,7 @@
     {
         "code": "kongbu",
         "name": "恐怖",
-        "avatar": "kongbu\/kongbu.png",
+        "avatar": "kongbu.png",
         "type": 13,
         "rarity": 4,
         "nationality": 2,
@@ -12174,7 +12174,7 @@
     {
         "code": "abeikelongbi",
         "name": "阿贝克隆比",
-        "avatar": "abeikelongbi\/abeikelongbi.png",
+        "avatar": "abeikelongbi.png",
         "type": 13,
         "rarity": 4,
         "nationality": 2,
@@ -12231,7 +12231,7 @@
     {
         "code": "haiwangxing",
         "name": "海王星",
-        "avatar": "haiwangxing\/haiwangxing.png",
+        "avatar": "haiwangxing.png",
         "type": 2,
         "rarity": 7,
         "nationality": 2,
@@ -12290,7 +12290,7 @@
     {
         "code": "junzhu",
         "name": "君主",
-        "avatar": "junzhu\/junzhu.png",
+        "avatar": "junzhu.png",
         "type": 5,
         "rarity": 7,
         "nationality": 2,
@@ -12345,7 +12345,7 @@
     {
         "code": "chaijun",
         "name": "柴郡",
-        "avatar": "chaijun\/chaijun.png",
+        "avatar": "chaijun.png",
         "type": 3,
         "rarity": 7,
         "nationality": 2,
@@ -12429,7 +12429,7 @@
     {
         "code": "deleike",
         "name": "德雷克",
-        "avatar": "deleike\/deleike.png",
+        "avatar": "deleike.png",
         "type": 3,
         "rarity": 8,
         "nationality": 2,
@@ -12476,7 +12476,7 @@
     {
         "code": "pulimaosi",
         "name": "普利茅斯",
-        "avatar": "pulimaosi\/pulimaosi.png",
+        "avatar": "pulimaosi.png",
         "type": 2,
         "rarity": 8,
         "nationality": 2,
@@ -12531,7 +12531,7 @@
     {
         "code": "chuixue",
         "name": "吹雪",
-        "avatar": "chuixue\/chuixue.png",
+        "avatar": "chuixue.png",
         "type": 1,
         "rarity": 4,
         "nationality": 3,
@@ -12631,7 +12631,7 @@
     {
         "code": "baixue",
         "name": "白雪",
-        "avatar": "baixue\/baixue.png",
+        "avatar": "baixue.png",
         "type": 1,
         "rarity": 4,
         "nationality": 3,
@@ -12675,7 +12675,7 @@
     {
         "code": "shenxue",
         "name": "深雪",
-        "avatar": "shenxue\/shenxue.png",
+        "avatar": "shenxue.png",
         "type": 1,
         "rarity": 4,
         "nationality": 3,
@@ -12725,7 +12725,7 @@
     {
         "code": "lingbo",
         "name": "绫波",
-        "avatar": "lingbo\/lingbo.png",
+        "avatar": "lingbo.png",
         "type": 1,
         "rarity": 4,
         "nationality": 3,
@@ -12948,7 +12948,7 @@
     {
         "code": "xiao",
         "name": "晓",
-        "avatar": "xiao\/xiao.png",
+        "avatar": "xiao.png",
         "type": 1,
         "rarity": 3,
         "nationality": 3,
@@ -13040,7 +13040,7 @@
     {
         "code": "xiang",
         "name": "响",
-        "avatar": "xiang\/xiang.png",
+        "avatar": "xiang.png",
         "type": 1,
         "rarity": 4,
         "nationality": 3,
@@ -13089,7 +13089,7 @@
     {
         "code": "lei",
         "name": "雷",
-        "avatar": "lei\/lei.png",
+        "avatar": "lei.png",
         "type": 1,
         "rarity": 3,
         "nationality": 3,
@@ -13160,7 +13160,7 @@
     {
         "code": "dian",
         "name": "电",
-        "avatar": "dian\/dian.png",
+        "avatar": "dian.png",
         "type": 1,
         "rarity": 3,
         "nationality": 3,
@@ -13224,7 +13224,7 @@
     {
         "code": "bailu",
         "name": "白露",
-        "avatar": "bailu\/bailu.png",
+        "avatar": "bailu.png",
         "type": 1,
         "rarity": 3,
         "nationality": 3,
@@ -13254,7 +13254,7 @@
     {
         "code": "xili",
         "name": "夕立",
-        "avatar": "xili\/xili.png",
+        "avatar": "xili.png",
         "type": 1,
         "rarity": 5,
         "nationality": 3,
@@ -13369,7 +13369,7 @@
     {
         "code": "shiyu",
         "name": "时雨",
-        "avatar": "shiyu\/shiyu.png",
+        "avatar": "shiyu.png",
         "type": 1,
         "rarity": 4,
         "nationality": 3,
@@ -13454,7 +13454,7 @@
     {
         "code": "xuefeng",
         "name": "雪风",
-        "avatar": "xuefeng\/xuefeng.png",
+        "avatar": "xuefeng.png",
         "type": 1,
         "rarity": 5,
         "nationality": 3,
@@ -13522,7 +13522,7 @@
     {
         "code": "yangyan",
         "name": "阳炎",
-        "avatar": "yangyan\/yangyan.png",
+        "avatar": "yangyan.png",
         "type": 1,
         "rarity": 3,
         "nationality": 3,
@@ -13562,7 +13562,7 @@
     {
         "code": "buzhihuo",
         "name": "不知火",
-        "avatar": "buzhihuo\/buzhihuo.png",
+        "avatar": "buzhihuo.png",
         "type": 1,
         "rarity": 2,
         "nationality": 3,
@@ -13609,7 +13609,7 @@
     {
         "code": "yefen",
         "name": "野分",
-        "avatar": "yefen\/yefen.png",
+        "avatar": "yefen.png",
         "type": 1,
         "rarity": 4,
         "nationality": 3,
@@ -13629,7 +13629,7 @@
     {
         "code": "chuchun",
         "name": "初春",
-        "avatar": "chuchun\/chuchun.png",
+        "avatar": "chuchun.png",
         "type": 1,
         "rarity": 3,
         "nationality": 3,
@@ -13698,7 +13698,7 @@
     {
         "code": "ruoye",
         "name": "若叶",
-        "avatar": "ruoye\/ruoye.png",
+        "avatar": "ruoye.png",
         "type": 1,
         "rarity": 3,
         "nationality": 3,
@@ -13750,7 +13750,7 @@
     {
         "code": "chushuang",
         "name": "初霜",
-        "avatar": "chushuang\/chushuang.png",
+        "avatar": "chushuang.png",
         "type": 1,
         "rarity": 3,
         "nationality": 3,
@@ -13805,7 +13805,7 @@
     {
         "code": "youming",
         "name": "有明",
-        "avatar": "youming\/youming.png",
+        "avatar": "youming.png",
         "type": 1,
         "rarity": 3,
         "nationality": 3,
@@ -13860,7 +13860,7 @@
     {
         "code": "ximu",
         "name": "夕暮",
-        "avatar": "ximu\/ximu.png",
+        "avatar": "ximu.png",
         "type": 1,
         "rarity": 3,
         "nationality": 3,
@@ -13975,7 +13975,7 @@
     {
         "code": "heichao",
         "name": "黑潮",
-        "avatar": "heichao\/heichao.png",
+        "avatar": "heichao.png",
         "type": 1,
         "rarity": 3,
         "nationality": 3,
@@ -13995,7 +13995,7 @@
     {
         "code": "qinchao",
         "name": "亲潮",
-        "avatar": "qinchao\/qinchao.png",
+        "avatar": "qinchao.png",
         "type": 1,
         "rarity": 3,
         "nationality": 3,
@@ -14015,7 +14015,7 @@
     {
         "code": "daofeng",
         "name": "岛风",
-        "avatar": "daofeng\/daofeng.png",
+        "avatar": "daofeng.png",
         "type": 1,
         "rarity": 6,
         "nationality": 3,
@@ -14097,7 +14097,7 @@
     {
         "code": "shenfeng",
         "name": "神风",
-        "avatar": "shenfeng\/shenfeng.png",
+        "avatar": "shenfeng.png",
         "type": 1,
         "rarity": 3,
         "nationality": 3,
@@ -14127,7 +14127,7 @@
     {
         "code": "songfeng",
         "name": "松风",
-        "avatar": "songfeng\/songfeng.png",
+        "avatar": "songfeng.png",
         "type": 1,
         "rarity": 3,
         "nationality": 3,
@@ -14157,7 +14157,7 @@
     {
         "code": "muyue",
         "name": "睦月",
-        "avatar": "muyue\/muyue.png",
+        "avatar": "muyue.png",
         "type": 1,
         "rarity": 2,
         "nationality": 3,
@@ -14234,7 +14234,7 @@
     {
         "code": "ruyue",
         "name": "如月",
-        "avatar": "ruyue\/ruyue.png",
+        "avatar": "ruyue.png",
         "type": 1,
         "rarity": 2,
         "nationality": 3,
@@ -14283,7 +14283,7 @@
     {
         "code": "maoyue",
         "name": "卯月",
-        "avatar": "maoyue\/maoyue.png",
+        "avatar": "maoyue.png",
         "type": 1,
         "rarity": 2,
         "nationality": 3,
@@ -14313,7 +14313,7 @@
     {
         "code": "shuiwuyue",
         "name": "水无月",
-        "avatar": "shuiwuyue\/shuiwuyue.png",
+        "avatar": "shuiwuyue.png",
         "type": 1,
         "rarity": 2,
         "nationality": 3,
@@ -14333,7 +14333,7 @@
     {
         "code": "wenyue",
         "name": "文月",
-        "avatar": "wenyue\/wenyue.png",
+        "avatar": "wenyue.png",
         "type": 1,
         "rarity": 3,
         "nationality": 3,
@@ -14363,7 +14363,7 @@
     {
         "code": "changyue",
         "name": "长月",
-        "avatar": "changyue\/changyue.png",
+        "avatar": "changyue.png",
         "type": 1,
         "rarity": 3,
         "nationality": 3,
@@ -14411,7 +14411,7 @@
     {
         "code": "sanriyue",
         "name": "三日月",
-        "avatar": "sanriyue\/sanriyue.png",
+        "avatar": "sanriyue.png",
         "type": 1,
         "rarity": 2,
         "nationality": 3,
@@ -14450,7 +14450,7 @@
     {
         "code": "haifeng",
         "name": "海风",
-        "avatar": "haifeng\/haifeng.png",
+        "avatar": "haifeng.png",
         "type": 1,
         "rarity": 4,
         "nationality": 3,
@@ -14495,7 +14495,7 @@
     {
         "code": "shanfeng",
         "name": "山风",
-        "avatar": "shanfeng\/shanfeng.png",
+        "avatar": "shanfeng.png",
         "type": 1,
         "rarity": 4,
         "nationality": 3,
@@ -14547,7 +14547,7 @@
     {
         "code": "jiangfeng",
         "name": "江风",
-        "avatar": "jiangfeng\/jiangfeng.png",
+        "avatar": "jiangfeng.png",
         "type": 1,
         "rarity": 5,
         "nationality": 3,
@@ -14594,7 +14594,7 @@
     {
         "code": "qingbo",
         "name": "清波",
-        "avatar": "qingbo\/qingbo.png",
+        "avatar": "qingbo.png",
         "type": 1,
         "rarity": 3,
         "nationality": 3,
@@ -14637,7 +14637,7 @@
     {
         "code": "xinyue_jp",
         "name": "新月",
-        "avatar": "xinyue_jp\/xinyue_jp.png",
+        "avatar": "xinyue_jp.png",
         "type": 1,
         "rarity": 4,
         "nationality": 3,
@@ -14657,7 +14657,7 @@
     {
         "code": "chunyue",
         "name": "春月",
-        "avatar": "chunyue\/chunyue.png",
+        "avatar": "chunyue.png",
         "type": 1,
         "rarity": 4,
         "nationality": 3,
@@ -14693,7 +14693,7 @@
     {
         "code": "xiaoyue",
         "name": "宵月",
-        "avatar": "xiaoyue\/xiaoyue.png",
+        "avatar": "xiaoyue.png",
         "type": 1,
         "rarity": 4,
         "nationality": 3,
@@ -14749,7 +14749,7 @@
     {
         "code": "pufeng",
         "name": "浦风",
-        "avatar": "pufeng\/pufeng.png",
+        "avatar": "pufeng.png",
         "type": 1,
         "rarity": 3,
         "nationality": 3,
@@ -14804,7 +14804,7 @@
     {
         "code": "jifeng",
         "name": "矶风",
-        "avatar": "jifeng\/jifeng.png",
+        "avatar": "jifeng.png",
         "type": 1,
         "rarity": 3,
         "nationality": 3,
@@ -14859,7 +14859,7 @@
     {
         "code": "bangfeng",
         "name": "滨风",
-        "avatar": "bangfeng\/bangfeng.png",
+        "avatar": "bangfeng.png",
         "type": 1,
         "rarity": 3,
         "nationality": 3,
@@ -14922,7 +14922,7 @@
     {
         "code": "gufeng",
         "name": "谷风",
-        "avatar": "gufeng\/gufeng.png",
+        "avatar": "gufeng.png",
         "type": 1,
         "rarity": 3,
         "nationality": 3,
@@ -14979,7 +14979,7 @@
     {
         "code": "zhaochao",
         "name": "朝潮",
-        "avatar": "zhaochao\/zhaochao.png",
+        "avatar": "zhaochao.png",
         "type": 1,
         "rarity": 3,
         "nationality": 3,
@@ -15044,7 +15044,7 @@
     {
         "code": "dachao",
         "name": "大潮",
-        "avatar": "dachao\/dachao.png",
+        "avatar": "dachao.png",
         "type": 1,
         "rarity": 3,
         "nationality": 3,
@@ -15124,7 +15124,7 @@
     {
         "code": "manchao",
         "name": "满潮",
-        "avatar": "manchao\/manchao.png",
+        "avatar": "manchao.png",
         "type": 1,
         "rarity": 3,
         "nationality": 3,
@@ -15161,7 +15161,7 @@
     {
         "code": "huangchao",
         "name": "荒潮",
-        "avatar": "huangchao\/huangchao.png",
+        "avatar": "huangchao.png",
         "type": 1,
         "rarity": 3,
         "nationality": 3,
@@ -15204,7 +15204,7 @@
     {
         "code": "pubo",
         "name": "浦波",
-        "avatar": "pubo\/pubo.png",
+        "avatar": "pubo.png",
         "type": 1,
         "rarity": 4,
         "nationality": 3,
@@ -15248,7 +15248,7 @@
     {
         "code": "qifeng",
         "name": "旗风",
-        "avatar": "qifeng\/qifeng.png",
+        "avatar": "qifeng.png",
         "type": 1,
         "rarity": 3,
         "nationality": 3,
@@ -15275,7 +15275,7 @@
     {
         "code": "juanbo",
         "name": "卷波",
-        "avatar": "juanbo\/juanbo.png",
+        "avatar": "juanbo.png",
         "type": 1,
         "rarity": 4,
         "nationality": 3,
@@ -15318,7 +15318,7 @@
     {
         "code": "xia",
         "name": "霞",
-        "avatar": "xia\/xia.png",
+        "avatar": "xia.png",
         "type": 1,
         "rarity": 4,
         "nationality": 3,
@@ -15402,7 +15402,7 @@
     {
         "code": "huayue",
         "name": "花月",
-        "avatar": "huayue\/huayue.png",
+        "avatar": "huayue.png",
         "type": 1,
         "rarity": 4,
         "nationality": 3,
@@ -15475,7 +15475,7 @@
     {
         "code": "changbo",
         "name": "长波",
-        "avatar": "changbo\/changbo.png",
+        "avatar": "changbo.png",
         "type": 1,
         "rarity": 4,
         "nationality": 3,
@@ -15575,7 +15575,7 @@
     {
         "code": "liangyue",
         "name": "凉月",
-        "avatar": "liangyue\/liangyue.png",
+        "avatar": "liangyue.png",
         "type": 1,
         "rarity": 5,
         "nationality": 3,
@@ -15639,7 +15639,7 @@
     {
         "code": "zhuifeng",
         "name": "追风",
-        "avatar": "zhuifeng\/zhuifeng.png",
+        "avatar": "zhuifeng.png",
         "type": 1,
         "rarity": 3,
         "nationality": 3,
@@ -15720,7 +15720,7 @@
     {
         "code": "fengyun",
         "name": "风云",
-        "avatar": "fengyun\/fengyun.png",
+        "avatar": "fengyun.png",
         "type": 1,
         "rarity": 5,
         "nationality": 3,
@@ -15784,7 +15784,7 @@
     {
         "code": "ruoyue",
         "name": "若月",
-        "avatar": "ruoyue\/ruoyue.png",
+        "avatar": "ruoyue.png",
         "type": 1,
         "rarity": 5,
         "nationality": 3,
@@ -15831,7 +15831,7 @@
     {
         "code": "xizhang",
         "name": "夕张",
-        "avatar": "xizhang\/xizhang.png",
+        "avatar": "xizhang.png",
         "type": 2,
         "rarity": 4,
         "nationality": 3,
@@ -15867,7 +15867,7 @@
     {
         "code": "changliang",
         "name": "长良",
-        "avatar": "changliang\/changliang.png",
+        "avatar": "changliang.png",
         "type": 2,
         "rarity": 2,
         "nationality": 3,
@@ -15904,7 +15904,7 @@
     {
         "code": "wushiling",
         "name": "五十铃",
-        "avatar": "wushiling\/wushiling.png",
+        "avatar": "wushiling.png",
         "type": 2,
         "rarity": 3,
         "nationality": 3,
@@ -16014,7 +16014,7 @@
     {
         "code": "youliang",
         "name": "由良",
-        "avatar": "youliang\/youliang.png",
+        "avatar": "youliang.png",
         "type": 2,
         "rarity": 4,
         "nationality": 3,
@@ -16058,7 +16058,7 @@
     {
         "code": "guinu",
         "name": "鬼怒",
-        "avatar": "guinu\/guinu.png",
+        "avatar": "guinu.png",
         "type": 2,
         "rarity": 4,
         "nationality": 3,
@@ -16142,7 +16142,7 @@
     {
         "code": "awuwei",
         "name": "阿武隈",
-        "avatar": "awuwei\/awuwei.png",
+        "avatar": "awuwei.png",
         "type": 2,
         "rarity": 2,
         "nationality": 3,
@@ -16172,7 +16172,7 @@
     {
         "code": "zuishang",
         "name": "最上",
-        "avatar": "zuishang\/zuishang.png",
+        "avatar": "zuishang.png",
         "type": 2,
         "rarity": 4,
         "nationality": 3,
@@ -16202,7 +16202,7 @@
     {
         "code": "sanwei",
         "name": "三隈",
-        "avatar": "sanwei\/sanwei.png",
+        "avatar": "sanwei.png",
         "type": 2,
         "rarity": 4,
         "nationality": 3,
@@ -16242,7 +16242,7 @@
     {
         "code": "chuannei",
         "name": "川内",
-        "avatar": "chuannei\/chuannei.png",
+        "avatar": "chuannei.png",
         "type": 2,
         "rarity": 3,
         "nationality": 3,
@@ -16272,7 +16272,7 @@
     {
         "code": "shentong",
         "name": "神通",
-        "avatar": "shentong\/shentong.png",
+        "avatar": "shentong.png",
         "type": 2,
         "rarity": 4,
         "nationality": 3,
@@ -16337,7 +16337,7 @@
     {
         "code": "nake",
         "name": "那珂",
-        "avatar": "nake\/nake.png",
+        "avatar": "nake.png",
         "type": 2,
         "rarity": 3,
         "nationality": 3,
@@ -16381,7 +16381,7 @@
     {
         "code": "aheye",
         "name": "阿贺野",
-        "avatar": "aheye\/aheye.png",
+        "avatar": "aheye.png",
         "type": 2,
         "rarity": 4,
         "nationality": 3,
@@ -16455,7 +16455,7 @@
     {
         "code": "nengdai",
         "name": "能代",
-        "avatar": "nengdai\/nengdai.png",
+        "avatar": "nengdai.png",
         "type": 2,
         "rarity": 5,
         "nationality": 3,
@@ -16599,7 +16599,7 @@
     {
         "code": "jiuyun",
         "name": "酒匂",
-        "avatar": "jiuyun\/jiuyun.png",
+        "avatar": "jiuyun.png",
         "type": 2,
         "rarity": 5,
         "nationality": 3,
@@ -16646,7 +16646,7 @@
     {
         "code": "guying",
         "name": "古鹰",
-        "avatar": "guying\/guying.png",
+        "avatar": "guying.png",
         "type": 3,
         "rarity": 2,
         "nationality": 3,
@@ -16676,7 +16676,7 @@
     {
         "code": "jiagu",
         "name": "加古",
-        "avatar": "jiagu\/jiagu.png",
+        "avatar": "jiagu.png",
         "type": 3,
         "rarity": 2,
         "nationality": 3,
@@ -16706,7 +16706,7 @@
     {
         "code": "qingye",
         "name": "青叶",
-        "avatar": "qingye\/qingye.png",
+        "avatar": "qingye.png",
         "type": 3,
         "rarity": 2,
         "nationality": 3,
@@ -16726,7 +16726,7 @@
     {
         "code": "yili",
         "name": "衣笠",
-        "avatar": "yili\/yili.png",
+        "avatar": "yili.png",
         "type": 3,
         "rarity": 2,
         "nationality": 3,
@@ -16746,7 +16746,7 @@
     {
         "code": "zhumo",
         "name": "筑摩",
-        "avatar": "zhumo\/zhumo.png",
+        "avatar": "zhumo.png",
         "type": 3,
         "rarity": 5,
         "nationality": 3,
@@ -16774,7 +16774,7 @@
     {
         "code": "miaogao",
         "name": "妙高",
-        "avatar": "miaogao\/miaogao.png",
+        "avatar": "miaogao.png",
         "type": 3,
         "rarity": 3,
         "nationality": 3,
@@ -16794,7 +16794,7 @@
     {
         "code": "nazhi",
         "name": "那智",
-        "avatar": "nazhi\/nazhi.png",
+        "avatar": "nazhi.png",
         "type": 3,
         "rarity": 3,
         "nationality": 3,
@@ -16814,7 +16814,7 @@
     {
         "code": "zubing",
         "name": "足柄",
-        "avatar": "zubing\/zubing.png",
+        "avatar": "zubing.png",
         "type": 3,
         "rarity": 4,
         "nationality": 3,
@@ -16877,7 +16877,7 @@
     {
         "code": "yuhei",
         "name": "羽黑",
-        "avatar": "yuhei\/yuhei.png",
+        "avatar": "yuhei.png",
         "type": 3,
         "rarity": 4,
         "nationality": 3,
@@ -16934,7 +16934,7 @@
     {
         "code": "gaoxiong",
         "name": "高雄",
-        "avatar": "gaoxiong\/gaoxiong.png",
+        "avatar": "gaoxiong.png",
         "type": 3,
         "rarity": 5,
         "nationality": 3,
@@ -17023,7 +17023,7 @@
     {
         "code": "aidang",
         "name": "爱宕",
-        "avatar": "aidang\/aidang.png",
+        "avatar": "aidang.png",
         "type": 3,
         "rarity": 5,
         "nationality": 3,
@@ -17107,7 +17107,7 @@
     {
         "code": "moye",
         "name": "摩耶",
-        "avatar": "moye\/moye.png",
+        "avatar": "moye.png",
         "type": 3,
         "rarity": 5,
         "nationality": 3,
@@ -17127,7 +17127,7 @@
     {
         "code": "niaohai",
         "name": "鸟海",
-        "avatar": "niaohai\/niaohai.png",
+        "avatar": "niaohai.png",
         "type": 3,
         "rarity": 5,
         "nationality": 3,
@@ -17164,7 +17164,7 @@
     {
         "code": "linggu",
         "name": "铃谷",
-        "avatar": "linggu\/linggu.png",
+        "avatar": "linggu.png",
         "type": 3,
         "rarity": 4,
         "nationality": 3,
@@ -17192,7 +17192,7 @@
     {
         "code": "xiongye",
         "name": "熊野",
-        "avatar": "xiongye\/xiongye.png",
+        "avatar": "xiongye.png",
         "type": 3,
         "rarity": 4,
         "nationality": 3,
@@ -17272,7 +17272,7 @@
     {
         "code": "jingang",
         "name": "金刚",
-        "avatar": "jingang\/jingang.png",
+        "avatar": "jingang.png",
         "type": 4,
         "rarity": 4,
         "nationality": 3,
@@ -17349,7 +17349,7 @@
     {
         "code": "birui",
         "name": "比叡",
-        "avatar": "birui\/birui.png",
+        "avatar": "birui.png",
         "type": 4,
         "rarity": 4,
         "nationality": 3,
@@ -17412,7 +17412,7 @@
     {
         "code": "zhenming",
         "name": "榛名",
-        "avatar": "zhenming\/zhenming.png",
+        "avatar": "zhenming.png",
         "type": 4,
         "rarity": 4,
         "nationality": 3,
@@ -17482,7 +17482,7 @@
     {
         "code": "wudao",
         "name": "雾岛",
-        "avatar": "wudao\/wudao.png",
+        "avatar": "wudao.png",
         "type": 4,
         "rarity": 4,
         "nationality": 3,
@@ -17556,7 +17556,7 @@
     {
         "code": "tiancheng",
         "name": "天城",
-        "avatar": "tiancheng\/tiancheng.png",
+        "avatar": "tiancheng.png",
         "type": 4,
         "rarity": 5,
         "nationality": 3,
@@ -17598,7 +17598,7 @@
     {
         "code": "birui_younv",
         "name": "小比叡",
-        "avatar": "birui_younv\/birui_younv.png",
+        "avatar": "birui_younv.png",
         "type": 4,
         "rarity": 4,
         "nationality": 3,
@@ -17624,7 +17624,7 @@
     {
         "code": "tiancheng_younv",
         "name": "小天城",
-        "avatar": "tiancheng_younv\/tiancheng_younv.png",
+        "avatar": "tiancheng_younv.png",
         "type": 4,
         "rarity": 4,
         "nationality": 3,
@@ -17654,7 +17654,7 @@
     {
         "code": "fusang",
         "name": "扶桑",
-        "avatar": "fusang\/fusang.png",
+        "avatar": "fusang.png",
         "type": 5,
         "rarity": 3,
         "nationality": 3,
@@ -17712,7 +17712,7 @@
     {
         "code": "shancheng",
         "name": "山城",
-        "avatar": "shancheng\/shancheng.png",
+        "avatar": "shancheng.png",
         "type": 5,
         "rarity": 3,
         "nationality": 3,
@@ -17850,7 +17850,7 @@
     {
         "code": "yishi",
         "name": "伊势",
-        "avatar": "yishi\/yishi.png",
+        "avatar": "yishi.png",
         "type": 5,
         "rarity": 3,
         "nationality": 3,
@@ -17880,7 +17880,7 @@
     {
         "code": "rixiang",
         "name": "日向",
-        "avatar": "rixiang\/rixiang.png",
+        "avatar": "rixiang.png",
         "type": 5,
         "rarity": 3,
         "nationality": 3,
@@ -17910,7 +17910,7 @@
     {
         "code": "changmen",
         "name": "长门",
-        "avatar": "changmen\/changmen.png",
+        "avatar": "changmen.png",
         "type": 5,
         "rarity": 5,
         "nationality": 3,
@@ -18011,7 +18011,7 @@
     {
         "code": "luao",
         "name": "陆奥",
-        "avatar": "luao\/luao.png",
+        "avatar": "luao.png",
         "type": 5,
         "rarity": 4,
         "nationality": 3,
@@ -18065,7 +18065,7 @@
     {
         "code": "jiahezhanlie",
         "name": "加贺",
-        "avatar": "jiahezhanlie\/jiahezhanlie.png",
+        "avatar": "jiahezhanlie.png",
         "type": 5,
         "rarity": 5,
         "nationality": 3,
@@ -18091,7 +18091,7 @@
     {
         "code": "tuzuo",
         "name": "土佐",
-        "avatar": "tuzuo\/tuzuo.png",
+        "avatar": "tuzuo.png",
         "type": 5,
         "rarity": 5,
         "nationality": 3,
@@ -18139,7 +18139,7 @@
     {
         "code": "wuzang",
         "name": "武藏",
-        "avatar": "wuzang\/wuzang.png",
+        "avatar": "wuzang.png",
         "type": 5,
         "rarity": 6,
         "nationality": 3,
@@ -18190,7 +18190,7 @@
     {
         "code": "sanli",
         "name": "三笠",
-        "avatar": "sanli\/sanli.png",
+        "avatar": "sanli.png",
         "type": 5,
         "rarity": 5,
         "nationality": 3,
@@ -18300,7 +18300,7 @@
     {
         "code": "jiyi",
         "name": "纪伊",
-        "avatar": "jiyi\/jiyi.png",
+        "avatar": "jiyi.png",
         "type": 5,
         "rarity": 5,
         "nationality": 3,
@@ -18347,7 +18347,7 @@
     {
         "code": "junhe",
         "name": "骏河",
-        "avatar": "junhe\/junhe.png",
+        "avatar": "junhe.png",
         "type": 5,
         "rarity": 5,
         "nationality": 3,
@@ -18425,7 +18425,7 @@
     {
         "code": "feiying",
         "name": "飞鹰",
-        "avatar": "feiying\/feiying.png",
+        "avatar": "feiying.png",
         "type": 6,
         "rarity": 3,
         "nationality": 3,
@@ -18445,7 +18445,7 @@
     {
         "code": "sunying",
         "name": "隼鹰",
-        "avatar": "sunying\/sunying.png",
+        "avatar": "sunying.png",
         "type": 6,
         "rarity": 3,
         "nationality": 3,
@@ -18465,7 +18465,7 @@
     {
         "code": "fengxiang",
         "name": "凤翔",
-        "avatar": "fengxiang\/fengxiang.png",
+        "avatar": "fengxiang.png",
         "type": 6,
         "rarity": 4,
         "nationality": 3,
@@ -18495,7 +18495,7 @@
     {
         "code": "xiangfeng",
         "name": "祥凤",
-        "avatar": "xiangfeng\/xiangfeng.png",
+        "avatar": "xiangfeng.png",
         "type": 6,
         "rarity": 3,
         "nationality": 3,
@@ -18535,7 +18535,7 @@
     {
         "code": "longxiang",
         "name": "龙骧",
-        "avatar": "longxiang\/longxiang.png",
+        "avatar": "longxiang.png",
         "type": 6,
         "rarity": 4,
         "nationality": 3,
@@ -18597,7 +18597,7 @@
     {
         "code": "longfeng",
         "name": "龙凤",
-        "avatar": "longfeng\/longfeng.png",
+        "avatar": "longfeng.png",
         "type": 6,
         "rarity": 5,
         "nationality": 3,
@@ -18646,7 +18646,7 @@
     {
         "code": "qiansui",
         "name": "千岁",
-        "avatar": "qiansui\/qiansui.png",
+        "avatar": "qiansui.png",
         "type": 6,
         "rarity": 4,
         "nationality": 3,
@@ -18709,7 +18709,7 @@
     {
         "code": "qiandaitian",
         "name": "千代田",
-        "avatar": "qiandaitian\/qiandaitian.png",
+        "avatar": "qiandaitian.png",
         "type": 6,
         "rarity": 4,
         "nationality": 3,
@@ -18753,7 +18753,7 @@
     {
         "code": "chicheng",
         "name": "赤城",
-        "avatar": "chicheng\/chicheng.png",
+        "avatar": "chicheng.png",
         "type": 7,
         "rarity": 5,
         "nationality": 3,
@@ -18847,7 +18847,7 @@
     {
         "code": "jiahe",
         "name": "加贺",
-        "avatar": "jiahe\/jiahe.png",
+        "avatar": "jiahe.png",
         "type": 7,
         "rarity": 5,
         "nationality": 3,
@@ -18964,7 +18964,7 @@
     {
         "code": "canglong",
         "name": "苍龙",
-        "avatar": "canglong\/canglong.png",
+        "avatar": "canglong.png",
         "type": 7,
         "rarity": 4,
         "nationality": 3,
@@ -19020,7 +19020,7 @@
     {
         "code": "feilong",
         "name": "飞龙",
-        "avatar": "feilong\/feilong.png",
+        "avatar": "feilong.png",
         "type": 7,
         "rarity": 4,
         "nationality": 3,
@@ -19066,7 +19066,7 @@
     {
         "code": "xianghe",
         "name": "翔鹤",
-        "avatar": "xianghe\/xianghe.png",
+        "avatar": "xianghe.png",
         "type": 7,
         "rarity": 5,
         "nationality": 3,
@@ -19119,7 +19119,7 @@
     {
         "code": "ruihe",
         "name": "瑞鹤",
-        "avatar": "ruihe\/ruihe.png",
+        "avatar": "ruihe.png",
         "type": 7,
         "rarity": 5,
         "nationality": 3,
@@ -19173,7 +19173,7 @@
     {
         "code": "dafeng",
         "name": "大凤",
-        "avatar": "dafeng\/dafeng.png",
+        "avatar": "dafeng.png",
         "type": 7,
         "rarity": 5,
         "nationality": 3,
@@ -19302,7 +19302,7 @@
     {
         "code": "xinnong",
         "name": "信浓",
-        "avatar": "xinnong\/xinnong.png",
+        "avatar": "xinnong.png",
         "type": 7,
         "rarity": 6,
         "nationality": 3,
@@ -19375,7 +19375,7 @@
     {
         "code": "chicheng_younv",
         "name": "小赤城",
-        "avatar": "chicheng_younv\/chicheng_younv.png",
+        "avatar": "chicheng_younv.png",
         "type": 7,
         "rarity": 4,
         "nationality": 3,
@@ -19402,7 +19402,7 @@
     {
         "code": "chicheng_idol",
         "name": "赤城(μ兵装)",
-        "avatar": "chicheng_idol\/chicheng_idol.png",
+        "avatar": "chicheng_idol.png",
         "type": 7,
         "rarity": 5,
         "nationality": 3,
@@ -19429,7 +19429,7 @@
     {
         "code": "dafeng_idol",
         "name": "大凤(μ兵装)",
-        "avatar": "dafeng_idol\/dafeng_idol.png",
+        "avatar": "dafeng_idol.png",
         "type": 7,
         "rarity": 5,
         "nationality": 3,
@@ -19456,7 +19456,7 @@
     {
         "code": "gecheng",
         "name": "葛城",
-        "avatar": "gecheng\/gecheng.png",
+        "avatar": "gecheng.png",
         "type": 7,
         "rarity": 5,
         "nationality": 3,
@@ -19505,7 +19505,7 @@
     {
         "code": "i19",
         "name": "伊19",
-        "avatar": "i19\/i19.png",
+        "avatar": "i19.png",
         "type": 8,
         "rarity": 5,
         "nationality": 3,
@@ -19562,7 +19562,7 @@
     {
         "code": "i26",
         "name": "伊26",
-        "avatar": "i26\/i26.png",
+        "avatar": "i26.png",
         "type": 8,
         "rarity": 4,
         "nationality": 3,
@@ -19609,7 +19609,7 @@
     {
         "code": "i58",
         "name": "伊58",
-        "avatar": "i58\/i58.png",
+        "avatar": "i58.png",
         "type": 8,
         "rarity": 4,
         "nationality": 3,
@@ -19629,7 +19629,7 @@
     {
         "code": "i25",
         "name": "伊25",
-        "avatar": "i25\/i25.png",
+        "avatar": "i25.png",
         "type": 8,
         "rarity": 4,
         "nationality": 3,
@@ -19690,7 +19690,7 @@
     {
         "code": "i56",
         "name": "伊56",
-        "avatar": "i56\/i56.png",
+        "avatar": "i56.png",
         "type": 8,
         "rarity": 4,
         "nationality": 3,
@@ -19734,7 +19734,7 @@
     {
         "code": "i168",
         "name": "伊168",
-        "avatar": "i168\/i168.png",
+        "avatar": "i168.png",
         "type": 8,
         "rarity": 5,
         "nationality": 3,
@@ -19782,7 +19782,7 @@
     {
         "code": "mingshi",
         "name": "明石",
-        "avatar": "mingshi\/mingshi.png",
+        "avatar": "mingshi.png",
         "type": 12,
         "rarity": 5,
         "nationality": 3,
@@ -19880,7 +19880,7 @@
     {
         "code": "i13",
         "name": "伊13",
-        "avatar": "i13\/i13.png",
+        "avatar": "i13.png",
         "type": 17,
         "rarity": 5,
         "nationality": 3,
@@ -19907,7 +19907,7 @@
     {
         "code": "jianye",
         "name": "樫野",
-        "avatar": "jianye\/jianye.png",
+        "avatar": "jianye.png",
         "type": 19,
         "rarity": 4,
         "nationality": 3,
@@ -19982,7 +19982,7 @@
     {
         "code": "yichui",
         "name": "伊吹",
-        "avatar": "yichui\/yichui.png",
+        "avatar": "yichui.png",
         "type": 3,
         "rarity": 7,
         "nationality": 3,
@@ -20073,7 +20073,7 @@
     {
         "code": "chuyun",
         "name": "出云",
-        "avatar": "chuyun\/chuyun.png",
+        "avatar": "chuyun.png",
         "type": 5,
         "rarity": 7,
         "nationality": 3,
@@ -20109,7 +20109,7 @@
     {
         "code": "beifeng",
         "name": "北风",
-        "avatar": "beifeng\/beifeng.png",
+        "avatar": "beifeng.png",
         "type": 1,
         "rarity": 7,
         "nationality": 3,
@@ -20176,7 +20176,7 @@
     {
         "code": "wuqi",
         "name": "吾妻",
-        "avatar": "wuqi\/wuqi.png",
+        "avatar": "wuqi.png",
         "type": 18,
         "rarity": 8,
         "nationality": 3,
@@ -20241,7 +20241,7 @@
     {
         "code": "bailong",
         "name": "白龙",
-        "avatar": "bailong\/bailong.png",
+        "avatar": "bailong.png",
         "type": 7,
         "rarity": 8,
         "nationality": 3,
@@ -20289,7 +20289,7 @@
     {
         "code": "z1",
         "name": "Z1",
-        "avatar": "z1\/z1.png",
+        "avatar": "z1.png",
         "type": 1,
         "rarity": 4,
         "nationality": 4,
@@ -20337,7 +20337,7 @@
     {
         "code": "z2",
         "name": "Z2",
-        "avatar": "z2\/z2.png",
+        "avatar": "z2.png",
         "type": 1,
         "rarity": 4,
         "nationality": 4,
@@ -20397,7 +20397,7 @@
     {
         "code": "z16",
         "name": "Z16",
-        "avatar": "z16\/z16.png",
+        "avatar": "z16.png",
         "type": 1,
         "rarity": 4,
         "nationality": 4,
@@ -20448,7 +20448,7 @@
     {
         "code": "z18",
         "name": "Z18",
-        "avatar": "z18\/z18.png",
+        "avatar": "z18.png",
         "type": 1,
         "rarity": 3,
         "nationality": 4,
@@ -20468,7 +20468,7 @@
     {
         "code": "z19",
         "name": "Z19",
-        "avatar": "z19\/z19.png",
+        "avatar": "z19.png",
         "type": 1,
         "rarity": 3,
         "nationality": 4,
@@ -20488,7 +20488,7 @@
     {
         "code": "z20",
         "name": "Z20",
-        "avatar": "z20\/z20.png",
+        "avatar": "z20.png",
         "type": 1,
         "rarity": 2,
         "nationality": 4,
@@ -20508,7 +20508,7 @@
     {
         "code": "z21",
         "name": "Z21",
-        "avatar": "z21\/z21.png",
+        "avatar": "z21.png",
         "type": 1,
         "rarity": 2,
         "nationality": 4,
@@ -20528,7 +20528,7 @@
     {
         "code": "z23",
         "name": "Z23",
-        "avatar": "z23\/z23.png",
+        "avatar": "z23.png",
         "type": 1,
         "rarity": 4,
         "nationality": 4,
@@ -20744,7 +20744,7 @@
     {
         "code": "z24",
         "name": "Z24",
-        "avatar": "z24\/z24.png",
+        "avatar": "z24.png",
         "type": 1,
         "rarity": 4,
         "nationality": 4,
@@ -20823,7 +20823,7 @@
     {
         "code": "z25",
         "name": "Z25",
-        "avatar": "z25\/z25.png",
+        "avatar": "z25.png",
         "type": 1,
         "rarity": 4,
         "nationality": 4,
@@ -20853,7 +20853,7 @@
     {
         "code": "z26",
         "name": "Z26",
-        "avatar": "z26\/z26.png",
+        "avatar": "z26.png",
         "type": 1,
         "rarity": 4,
         "nationality": 4,
@@ -20890,7 +20890,7 @@
     {
         "code": "z28",
         "name": "Z28",
-        "avatar": "z28\/z28.png",
+        "avatar": "z28.png",
         "type": 1,
         "rarity": 4,
         "nationality": 4,
@@ -20950,7 +20950,7 @@
     {
         "code": "z35",
         "name": "Z35",
-        "avatar": "z35\/z35.png",
+        "avatar": "z35.png",
         "type": 1,
         "rarity": 4,
         "nationality": 4,
@@ -20988,7 +20988,7 @@
     {
         "code": "z36",
         "name": "Z36",
-        "avatar": "z36\/z36.png",
+        "avatar": "z36.png",
         "type": 1,
         "rarity": 4,
         "nationality": 4,
@@ -21016,7 +21016,7 @@
     {
         "code": "z46",
         "name": "Z46",
-        "avatar": "z46\/z46.png",
+        "avatar": "z46.png",
         "type": 1,
         "rarity": 5,
         "nationality": 4,
@@ -21122,7 +21122,7 @@
     {
         "code": "kenisibao",
         "name": "柯尼斯堡",
-        "avatar": "kenisibao\/kenisibao.png",
+        "avatar": "kenisibao.png",
         "type": 2,
         "rarity": 2,
         "nationality": 4,
@@ -21142,7 +21142,7 @@
     {
         "code": "kaersilue",
         "name": "卡尔斯鲁厄",
-        "avatar": "kaersilue\/kaersilue.png",
+        "avatar": "kaersilue.png",
         "type": 2,
         "rarity": 2,
         "nationality": 4,
@@ -21172,7 +21172,7 @@
     {
         "code": "kelong",
         "name": "科隆",
-        "avatar": "kelong\/kelong.png",
+        "avatar": "kelong.png",
         "type": 2,
         "rarity": 2,
         "nationality": 4,
@@ -21209,7 +21209,7 @@
     {
         "code": "laibixi",
         "name": "莱比锡",
-        "avatar": "laibixi\/laibixi.png",
+        "avatar": "laibixi.png",
         "type": 2,
         "rarity": 3,
         "nationality": 4,
@@ -21265,7 +21265,7 @@
     {
         "code": "niulunbao",
         "name": "纽伦堡",
-        "avatar": "niulunbao\/niulunbao.png",
+        "avatar": "niulunbao.png",
         "type": 2,
         "rarity": 4,
         "nationality": 4,
@@ -21312,7 +21312,7 @@
     {
         "code": "magedebao",
         "name": "马格德堡",
-        "avatar": "magedebao\/magedebao.png",
+        "avatar": "magedebao.png",
         "type": 2,
         "rarity": 5,
         "nationality": 4,
@@ -21374,7 +21374,7 @@
     {
         "code": "aimudeng",
         "name": "埃姆登",
-        "avatar": "aimudeng\/aimudeng.png",
+        "avatar": "aimudeng.png",
         "type": 2,
         "rarity": 5,
         "nationality": 4,
@@ -21437,7 +21437,7 @@
     {
         "code": "aierbin",
         "name": "埃尔宾",
-        "avatar": "aierbin\/aierbin.png",
+        "avatar": "aierbin.png",
         "type": 2,
         "rarity": 4,
         "nationality": 4,
@@ -21499,7 +21499,7 @@
     {
         "code": "xipeierhaijunshangjiang",
         "name": "希佩尔海军上将",
-        "avatar": "xipeierhaijunshangjiang\/xipeierhaijunshangjiang.png",
+        "avatar": "xipeierhaijunshangjiang.png",
         "type": 3,
         "rarity": 4,
         "nationality": 4,
@@ -21543,7 +21543,7 @@
     {
         "code": "bulvxieer",
         "name": "布吕歇尔",
-        "avatar": "bulvxieer\/bulvxieer.png",
+        "avatar": "bulvxieer.png",
         "type": 3,
         "rarity": 5,
         "nationality": 4,
@@ -21589,7 +21589,7 @@
     {
         "code": "ougen",
         "name": "欧根亲王",
-        "avatar": "ougen\/ougen.png",
+        "avatar": "ougen.png",
         "type": 3,
         "rarity": 5,
         "nationality": 4,
@@ -21689,7 +21689,7 @@
     {
         "code": "deyizhi",
         "name": "德意志",
-        "avatar": "deyizhi\/deyizhi.png",
+        "avatar": "deyizhi.png",
         "type": 3,
         "rarity": 4,
         "nationality": 4,
@@ -21765,7 +21765,7 @@
     {
         "code": "sipeibojue",
         "name": "斯佩伯爵海军上将",
-        "avatar": "sipeibojue\/sipeibojue.png",
+        "avatar": "sipeibojue.png",
         "type": 3,
         "rarity": 4,
         "nationality": 4,
@@ -21852,7 +21852,7 @@
     {
         "code": "xipeier_idol",
         "name": "希佩尔海军上将(μ兵装)",
-        "avatar": "xipeier_idol\/xipeier_idol.png",
+        "avatar": "xipeier_idol.png",
         "type": 3,
         "rarity": 4,
         "nationality": 4,
@@ -21879,7 +21879,7 @@
     {
         "code": "luoen_idol",
         "name": "罗恩(μ兵装)",
-        "avatar": "luoen_idol\/luoen_idol.png",
+        "avatar": "luoen_idol.png",
         "type": 3,
         "rarity": 5,
         "nationality": 4,
@@ -21907,7 +21907,7 @@
     {
         "code": "haiyinlixi",
         "name": "海因里希亲王",
-        "avatar": "haiyinlixi\/haiyinlixi.png",
+        "avatar": "haiyinlixi.png",
         "type": 3,
         "rarity": 5,
         "nationality": 4,
@@ -21967,7 +21967,7 @@
     {
         "code": "adaerbote",
         "name": "阿达尔伯特亲王",
-        "avatar": "adaerbote\/adaerbote.png",
+        "avatar": "adaerbote.png",
         "type": 3,
         "rarity": 5,
         "nationality": 4,
@@ -22013,7 +22013,7 @@
     {
         "code": "yueke_ger",
         "name": "约克",
-        "avatar": "yueke_ger\/yueke_ger.png",
+        "avatar": "yueke_ger.png",
         "type": 3,
         "rarity": 4,
         "nationality": 4,
@@ -22060,7 +22060,7 @@
     {
         "code": "ougen_younv",
         "name": "小欧根",
-        "avatar": "ougen_younv\/ougen_younv.png",
+        "avatar": "ougen_younv.png",
         "type": 3,
         "rarity": 4,
         "nationality": 4,
@@ -22088,7 +22088,7 @@
     {
         "code": "sipeibojue_younv",
         "name": "小斯佩",
-        "avatar": "sipeibojue_younv\/sipeibojue_younv.png",
+        "avatar": "sipeibojue_younv.png",
         "type": 3,
         "rarity": 4,
         "nationality": 4,
@@ -22118,7 +22118,7 @@
     {
         "code": "shaenhuosite",
         "name": "沙恩霍斯特",
-        "avatar": "shaenhuosite\/shaenhuosite.png",
+        "avatar": "shaenhuosite.png",
         "type": 4,
         "rarity": 4,
         "nationality": 4,
@@ -22154,7 +22154,7 @@
     {
         "code": "genaisennao",
         "name": "格奈森瑙",
-        "avatar": "genaisennao\/genaisennao.png",
+        "avatar": "genaisennao.png",
         "type": 4,
         "rarity": 4,
         "nationality": 4,
@@ -22195,7 +22195,7 @@
     {
         "code": "saidelici",
         "name": "塞德利茨",
-        "avatar": "saidelici\/saidelici.png",
+        "avatar": "saidelici.png",
         "type": 4,
         "rarity": 5,
         "nationality": 4,
@@ -22256,7 +22256,7 @@
     {
         "code": "lvzuofu",
         "name": "吕佐夫",
-        "avatar": "lvzuofu\/lvzuofu.png",
+        "avatar": "lvzuofu.png",
         "type": 4,
         "rarity": 5,
         "nationality": 4,
@@ -22329,7 +22329,7 @@
     {
         "code": "bulunxierde",
         "name": "布伦希尔德",
-        "avatar": "bulunxierde\/bulunxierde.png",
+        "avatar": "bulunxierde.png",
         "type": 4,
         "rarity": 5,
         "nationality": 4,
@@ -22373,7 +22373,7 @@
     {
         "code": "bisimai",
         "name": "俾斯麦",
-        "avatar": "bisimai\/bisimai.png",
+        "avatar": "bisimai.png",
         "type": 5,
         "rarity": 5,
         "nationality": 4,
@@ -22429,7 +22429,7 @@
     {
         "code": "tierbici",
         "name": "提尔比茨",
-        "avatar": "tierbici\/tierbici.png",
+        "avatar": "tierbici.png",
         "type": 5,
         "rarity": 5,
         "nationality": 4,
@@ -22512,7 +22512,7 @@
     {
         "code": "wuerlixi",
         "name": "乌尔里希·冯·胡滕",
-        "avatar": "wuerlixi\/wuerlixi.png",
+        "avatar": "wuerlixi.png",
         "type": 5,
         "rarity": 6,
         "nationality": 4,
@@ -22565,7 +22565,7 @@
     {
         "code": "tulingen",
         "name": "图林根",
-        "avatar": "tulingen\/tulingen.png",
+        "avatar": "tulingen.png",
         "type": 5,
         "rarity": 4,
         "nationality": 4,
@@ -22612,7 +22612,7 @@
     {
         "code": "weixi",
         "name": "威悉",
-        "avatar": "weixi\/weixi.png",
+        "avatar": "weixi.png",
         "type": 6,
         "rarity": 4,
         "nationality": 4,
@@ -22685,7 +22685,7 @@
     {
         "code": "yibei",
         "name": "易北",
-        "avatar": "yibei\/yibei.png",
+        "avatar": "yibei.png",
         "type": 6,
         "rarity": 4,
         "nationality": 4,
@@ -22747,7 +22747,7 @@
     {
         "code": "qibolin",
         "name": "齐柏林伯爵",
-        "avatar": "qibolin\/qibolin.png",
+        "avatar": "qibolin.png",
         "type": 7,
         "rarity": 5,
         "nationality": 4,
@@ -22778,7 +22778,7 @@
     {
         "code": "qibolin_younv",
         "name": "小齐柏林",
-        "avatar": "qibolin_younv\/qibolin_younv.png",
+        "avatar": "qibolin_younv.png",
         "type": 7,
         "rarity": 4,
         "nationality": 4,
@@ -22806,7 +22806,7 @@
     {
         "code": "shitelasai",
         "name": "彼得·史特拉塞",
-        "avatar": "shitelasai\/shitelasai.png",
+        "avatar": "shitelasai.png",
         "type": 7,
         "rarity": 5,
         "nationality": 4,
@@ -22862,7 +22862,7 @@
     {
         "code": "u81",
         "name": "U-81",
-        "avatar": "u81\/u81.png",
+        "avatar": "u81.png",
         "type": 8,
         "rarity": 5,
         "nationality": 4,
@@ -22923,7 +22923,7 @@
     {
         "code": "u47",
         "name": "U-47",
-        "avatar": "u47\/u47.png",
+        "avatar": "u47.png",
         "type": 8,
         "rarity": 5,
         "nationality": 4,
@@ -23014,7 +23014,7 @@
     {
         "code": "u557",
         "name": "U-557",
-        "avatar": "u557\/u557.png",
+        "avatar": "u557.png",
         "type": 8,
         "rarity": 4,
         "nationality": 4,
@@ -23034,7 +23034,7 @@
     {
         "code": "u556",
         "name": "U-556",
-        "avatar": "u556\/u556.png",
+        "avatar": "u556.png",
         "type": 8,
         "rarity": 4,
         "nationality": 4,
@@ -23077,7 +23077,7 @@
     {
         "code": "u73",
         "name": "U-73",
-        "avatar": "u73\/u73.png",
+        "avatar": "u73.png",
         "type": 8,
         "rarity": 4,
         "nationality": 4,
@@ -23141,7 +23141,7 @@
     {
         "code": "u101",
         "name": "U-101",
-        "avatar": "u101\/u101.png",
+        "avatar": "u101.png",
         "type": 8,
         "rarity": 5,
         "nationality": 4,
@@ -23190,7 +23190,7 @@
     {
         "code": "u522",
         "name": "U-522",
-        "avatar": "u522\/u522.png",
+        "avatar": "u522.png",
         "type": 8,
         "rarity": 4,
         "nationality": 4,
@@ -23217,7 +23217,7 @@
     {
         "code": "u110",
         "name": "U-110",
-        "avatar": "u110\/u110.png",
+        "avatar": "u110.png",
         "type": 8,
         "rarity": 4,
         "nationality": 4,
@@ -23316,7 +23316,7 @@
     {
         "code": "u96",
         "name": "U-96",
-        "avatar": "u96\/u96.png",
+        "avatar": "u96.png",
         "type": 8,
         "rarity": 5,
         "nationality": 4,
@@ -23381,7 +23381,7 @@
     {
         "code": "u37",
         "name": "U-37",
-        "avatar": "u37\/u37.png",
+        "avatar": "u37.png",
         "type": 8,
         "rarity": 5,
         "nationality": 4,
@@ -23425,7 +23425,7 @@
     {
         "code": "u410",
         "name": "U-410",
-        "avatar": "u410\/u410.png",
+        "avatar": "u410.png",
         "type": 8,
         "rarity": 4,
         "nationality": 4,
@@ -23469,7 +23469,7 @@
     {
         "code": "u1206",
         "name": "U-1206",
-        "avatar": "u1206\/u1206.png",
+        "avatar": "u1206.png",
         "type": 8,
         "rarity": 4,
         "nationality": 4,
@@ -23515,7 +23515,7 @@
     {
         "code": "luoen",
         "name": "罗恩",
-        "avatar": "luoen\/luoen.png",
+        "avatar": "luoen.png",
         "type": 3,
         "rarity": 7,
         "nationality": 4,
@@ -23571,7 +23571,7 @@
     {
         "code": "feiteliedadi",
         "name": "腓特烈大帝",
-        "avatar": "feiteliedadi\/feiteliedadi.png",
+        "avatar": "feiteliedadi.png",
         "type": 5,
         "rarity": 8,
         "nationality": 4,
@@ -23632,7 +23632,7 @@
     {
         "code": "meiyinci",
         "name": "美因茨",
-        "avatar": "meiyinci\/meiyinci.png",
+        "avatar": "meiyinci.png",
         "type": 2,
         "rarity": 7,
         "nationality": 4,
@@ -23662,7 +23662,7 @@
     {
         "code": "aoding",
         "name": "奥丁",
-        "avatar": "aoding\/aoding.png",
+        "avatar": "aoding.png",
         "type": 4,
         "rarity": 7,
         "nationality": 4,
@@ -23706,7 +23706,7 @@
     {
         "code": "aijier",
         "name": "埃吉尔",
-        "avatar": "aijier\/aijier.png",
+        "avatar": "aijier.png",
         "type": 18,
         "rarity": 8,
         "nationality": 4,
@@ -23776,7 +23776,7 @@
     {
         "code": "aogusite",
         "name": "奥古斯特·冯·帕塞瓦尔",
-        "avatar": "aogusite\/aogusite.png",
+        "avatar": "aogusite.png",
         "type": 7,
         "rarity": 7,
         "nationality": 4,
@@ -23828,7 +23828,7 @@
     {
         "code": "lupuleixite",
         "name": "鲁普雷希特亲王",
-        "avatar": "lupuleixite\/lupuleixite.png",
+        "avatar": "lupuleixite.png",
         "type": 4,
         "rarity": 7,
         "nationality": 4,
@@ -23881,7 +23881,7 @@
     {
         "code": "anshan",
         "name": "鞍山",
-        "avatar": "anshan\/anshan.png",
+        "avatar": "anshan.png",
         "type": 1,
         "rarity": 4,
         "nationality": 5,
@@ -23952,7 +23952,7 @@
     {
         "code": "fushun",
         "name": "抚顺",
-        "avatar": "fushun\/fushun.png",
+        "avatar": "fushun.png",
         "type": 1,
         "rarity": 4,
         "nationality": 5,
@@ -23998,7 +23998,7 @@
     {
         "code": "changchun",
         "name": "长春",
-        "avatar": "changchun\/changchun.png",
+        "avatar": "changchun.png",
         "type": 1,
         "rarity": 4,
         "nationality": 5,
@@ -24066,7 +24066,7 @@
     {
         "code": "taiyuan",
         "name": "太原",
-        "avatar": "taiyuan\/taiyuan.png",
+        "avatar": "taiyuan.png",
         "type": 1,
         "rarity": 4,
         "nationality": 5,
@@ -24104,7 +24104,7 @@
     {
         "code": "yixian",
         "name": "逸仙",
-        "avatar": "yixian\/yixian.png",
+        "avatar": "yixian.png",
         "type": 2,
         "rarity": 4,
         "nationality": 5,
@@ -24176,7 +24176,7 @@
     {
         "code": "ninghai",
         "name": "宁海",
-        "avatar": "ninghai\/ninghai.png",
+        "avatar": "ninghai.png",
         "type": 2,
         "rarity": 4,
         "nationality": 5,
@@ -24289,7 +24289,7 @@
     {
         "code": "pinghai",
         "name": "平海",
-        "avatar": "pinghai\/pinghai.png",
+        "avatar": "pinghai.png",
         "type": 2,
         "rarity": 4,
         "nationality": 5,
@@ -24411,7 +24411,7 @@
     {
         "code": "yingrui",
         "name": "应瑞",
-        "avatar": "yingrui\/yingrui.png",
+        "avatar": "yingrui.png",
         "type": 2,
         "rarity": 4,
         "nationality": 5,
@@ -24470,7 +24470,7 @@
     {
         "code": "zhaohe",
         "name": "肇和",
-        "avatar": "zhaohe\/zhaohe.png",
+        "avatar": "zhaohe.png",
         "type": 2,
         "rarity": 4,
         "nationality": 5,
@@ -24543,7 +24543,7 @@
     {
         "code": "haitian",
         "name": "海天",
-        "avatar": "haitian\/haitian.png",
+        "avatar": "haitian.png",
         "type": 2,
         "rarity": 4,
         "nationality": 5,
@@ -24599,7 +24599,7 @@
     {
         "code": "haiqi",
         "name": "海圻",
-        "avatar": "haiqi\/haiqi.png",
+        "avatar": "haiqi.png",
         "type": 2,
         "rarity": 4,
         "nationality": 5,
@@ -24647,7 +24647,7 @@
     {
         "code": "zhenhai",
         "name": "镇海",
-        "avatar": "zhenhai\/zhenhai.png",
+        "avatar": "zhenhai.png",
         "type": 6,
         "rarity": 4,
         "nationality": 5,
@@ -24715,7 +24715,7 @@
     {
         "code": "huajia",
         "name": "华甲",
-        "avatar": "huajia\/huajia.png",
+        "avatar": "huajia.png",
         "type": 6,
         "rarity": 4,
         "nationality": 5,
@@ -24763,7 +24763,7 @@
     {
         "code": "dingan",
         "name": "定安",
-        "avatar": "dingan\/dingan.png",
+        "avatar": "dingan.png",
         "type": 19,
         "rarity": 4,
         "nationality": 5,
@@ -24812,7 +24812,7 @@
     {
         "code": "haerbin",
         "name": "哈尔滨",
-        "avatar": "haerbin\/haerbin.png",
+        "avatar": "haerbin.png",
         "type": 2,
         "rarity": 7,
         "nationality": 5,
@@ -24860,7 +24860,7 @@
     {
         "code": "longqibing",
         "name": "龙骑兵",
-        "avatar": "longqibing\/longqibing.png",
+        "avatar": "longqibing.png",
         "type": 1,
         "rarity": 4,
         "nationality": 6,
@@ -24904,7 +24904,7 @@
     {
         "code": "wenqinzuojiaobeidi",
         "name": "文琴佐·焦贝蒂",
-        "avatar": "wenqinzuojiaobeidi\/wenqinzuojiaobeidi.png",
+        "avatar": "wenqinzuojiaobeidi.png",
         "type": 1,
         "rarity": 4,
         "nationality": 6,
@@ -24950,7 +24950,7 @@
     {
         "code": "xibeifeng",
         "name": "西北风",
-        "avatar": "xibeifeng\/xibeifeng.png",
+        "avatar": "xibeifeng.png",
         "type": 1,
         "rarity": 4,
         "nationality": 6,
@@ -24997,7 +24997,7 @@
     {
         "code": "xinanfeng",
         "name": "西南风",
-        "avatar": "xinanfeng\/xinanfeng.png",
+        "avatar": "xinanfeng.png",
         "type": 1,
         "rarity": 4,
         "nationality": 6,
@@ -25044,7 +25044,7 @@
     {
         "code": "daleike",
         "name": "尼科洛索·达雷科 ",
-        "avatar": "daleike\/daleike.png",
+        "avatar": "daleike.png",
         "type": 1,
         "rarity": 4,
         "nationality": 6,
@@ -25088,7 +25088,7 @@
     {
         "code": "pangpeimagenuo",
         "name": "庞培·马格诺",
-        "avatar": "pangpeimagenuo\/pangpeimagenuo.png",
+        "avatar": "pangpeimagenuo.png",
         "type": 1,
         "rarity": 5,
         "nationality": 6,
@@ -25134,7 +25134,7 @@
     {
         "code": "aerfuleiduo",
         "name": "阿尔弗雷多·奥里亚尼",
-        "avatar": "aerfuleiduo\/aerfuleiduo.png",
+        "avatar": "aerfuleiduo.png",
         "type": 1,
         "rarity": 4,
         "nationality": 6,
@@ -25182,7 +25182,7 @@
     {
         "code": "aimannuaier",
         "name": "埃曼努埃尔·佩萨格诺",
-        "avatar": "aimannuaier\/aimannuaier.png",
+        "avatar": "aimannuaier.png",
         "type": 1,
         "rarity": 4,
         "nationality": 6,
@@ -25230,7 +25230,7 @@
     {
         "code": "abuluqi",
         "name": "阿布鲁齐公爵",
-        "avatar": "abuluqi\/abuluqi.png",
+        "avatar": "abuluqi.png",
         "type": 2,
         "rarity": 5,
         "nationality": 6,
@@ -25279,7 +25279,7 @@
     {
         "code": "zhusaipei",
         "name": "朱塞佩·加里波第",
-        "avatar": "zhusaipei\/zhusaipei.png",
+        "avatar": "zhusaipei.png",
         "type": 2,
         "rarity": 5,
         "nationality": 6,
@@ -25330,7 +25330,7 @@
     {
         "code": "teluntuo",
         "name": "特伦托",
-        "avatar": "teluntuo\/teluntuo.png",
+        "avatar": "teluntuo.png",
         "type": 3,
         "rarity": 3,
         "nationality": 6,
@@ -25375,7 +25375,7 @@
     {
         "code": "zhala",
         "name": "扎拉",
-        "avatar": "zhala\/zhala.png",
+        "avatar": "zhala.png",
         "type": 3,
         "rarity": 5,
         "nationality": 6,
@@ -25421,7 +25421,7 @@
     {
         "code": "bola",
         "name": "波拉",
-        "avatar": "bola\/bola.png",
+        "avatar": "bola.png",
         "type": 3,
         "rarity": 5,
         "nationality": 6,
@@ -25466,7 +25466,7 @@
     {
         "code": "diliyasite",
         "name": "的里雅斯特",
-        "avatar": "diliyasite\/diliyasite.png",
+        "avatar": "diliyasite.png",
         "type": 3,
         "rarity": 4,
         "nationality": 6,
@@ -25512,7 +25512,7 @@
     {
         "code": "boerzhanuo",
         "name": "博尔扎诺",
-        "avatar": "boerzhanuo\/boerzhanuo.png",
+        "avatar": "boerzhanuo.png",
         "type": 3,
         "rarity": 4,
         "nationality": 6,
@@ -25578,7 +25578,7 @@
     {
         "code": "weineituo",
         "name": "维托里奥·维内托",
-        "avatar": "weineituo\/weineituo.png",
+        "avatar": "weineituo.png",
         "type": 5,
         "rarity": 5,
         "nationality": 6,
@@ -25626,7 +25626,7 @@
     {
         "code": "lituoliao",
         "name": "利托里奥",
-        "avatar": "lituoliao\/lituoliao.png",
+        "avatar": "lituoliao.png",
         "type": 5,
         "rarity": 5,
         "nationality": 6,
@@ -25710,7 +25710,7 @@
     {
         "code": "luoma",
         "name": "罗马",
-        "avatar": "luoma\/luoma.png",
+        "avatar": "luoma.png",
         "type": 5,
         "rarity": 5,
         "nationality": 6,
@@ -25758,7 +25758,7 @@
     {
         "code": "jiafuerbojue",
         "name": "加富尔伯爵",
-        "avatar": "jiafuerbojue\/jiafuerbojue.png",
+        "avatar": "jiafuerbojue.png",
         "type": 5,
         "rarity": 3,
         "nationality": 6,
@@ -25800,7 +25800,7 @@
     {
         "code": "kaisa",
         "name": "朱利奥·凯撒",
-        "avatar": "kaisa\/kaisa.png",
+        "avatar": "kaisa.png",
         "type": 5,
         "rarity": 4,
         "nationality": 6,
@@ -25871,7 +25871,7 @@
     {
         "code": "tianying",
         "name": "天鹰",
-        "avatar": "tianying\/tianying.png",
+        "avatar": "tianying.png",
         "type": 7,
         "rarity": 5,
         "nationality": 6,
@@ -25930,7 +25930,7 @@
     {
         "code": "diguo",
         "name": "帝国",
-        "avatar": "diguo\/diguo.png",
+        "avatar": "diguo.png",
         "type": 7,
         "rarity": 5,
         "nationality": 6,
@@ -25981,7 +25981,7 @@
     {
         "code": "tuolichaili",
         "name": "托里拆利 ",
-        "avatar": "tuolichaili\/tuolichaili.png",
+        "avatar": "tuolichaili.png",
         "type": 8,
         "rarity": 4,
         "nationality": 6,
@@ -26031,7 +26031,7 @@
     {
         "code": "dafenqi",
         "name": "莱昂纳多·达·芬奇",
-        "avatar": "dafenqi\/dafenqi.png",
+        "avatar": "dafenqi.png",
         "type": 8,
         "rarity": 5,
         "nationality": 6,
@@ -26083,7 +26083,7 @@
     {
         "code": "makeboluo",
         "name": "马可波罗",
-        "avatar": "makeboluo\/makeboluo.png",
+        "avatar": "makeboluo.png",
         "type": 5,
         "rarity": 7,
         "nationality": 6,
@@ -26132,7 +26132,7 @@
     {
         "code": "weiyan",
         "name": "威严",
-        "avatar": "weiyan\/weiyan.png",
+        "avatar": "weiyan.png",
         "type": 1,
         "rarity": 4,
         "nationality": 7,
@@ -26230,7 +26230,7 @@
     {
         "code": "mingsike",
         "name": "明斯克",
-        "avatar": "mingsike\/mingsike.png",
+        "avatar": "mingsike.png",
         "type": 1,
         "rarity": 4,
         "nationality": 7,
@@ -26278,7 +26278,7 @@
     {
         "code": "tashigan",
         "name": "塔什干",
-        "avatar": "tashigan\/tashigan.png",
+        "avatar": "tashigan.png",
         "type": 1,
         "rarity": 5,
         "nationality": 7,
@@ -26342,7 +26342,7 @@
     {
         "code": "tashigan_idol",
         "name": "塔什干(μ兵装)",
-        "avatar": "tashigan_idol\/tashigan_idol.png",
+        "avatar": "tashigan_idol.png",
         "type": 1,
         "rarity": 5,
         "nationality": 7,
@@ -26369,7 +26369,7 @@
     {
         "code": "shensu",
         "name": "神速",
-        "avatar": "shensu\/shensu.png",
+        "avatar": "shensu.png",
         "type": 1,
         "rarity": 4,
         "nationality": 7,
@@ -26413,7 +26413,7 @@
     {
         "code": "leiming",
         "name": "雷鸣",
-        "avatar": "leiming\/leiming.png",
+        "avatar": "leiming.png",
         "type": 1,
         "rarity": 4,
         "nationality": 7,
@@ -26463,7 +26463,7 @@
     {
         "code": "hongliang",
         "name": "洪亮",
-        "avatar": "hongliang\/hongliang.png",
+        "avatar": "hongliang.png",
         "type": 1,
         "rarity": 4,
         "nationality": 7,
@@ -26507,7 +26507,7 @@
     {
         "code": "lingmin",
         "name": "灵敏",
-        "avatar": "lingmin\/lingmin.png",
+        "avatar": "lingmin.png",
         "type": 1,
         "rarity": 4,
         "nationality": 7,
@@ -26560,7 +26560,7 @@
     {
         "code": "jifu",
         "name": "基辅",
-        "avatar": "jifu\/jifu.png",
+        "avatar": "jifu.png",
         "type": 1,
         "rarity": 5,
         "nationality": 7,
@@ -26608,7 +26608,7 @@
     {
         "code": "afuleer",
         "name": "阿芙乐尔",
-        "avatar": "afuleer\/afuleer.png",
+        "avatar": "afuleer.png",
         "type": 2,
         "rarity": 5,
         "nationality": 7,
@@ -26663,7 +26663,7 @@
     {
         "code": "shuixingjinian",
         "name": "水星纪念",
-        "avatar": "shuixingjinian\/shuixingjinian.png",
+        "avatar": "shuixingjinian.png",
         "type": 2,
         "rarity": 4,
         "nationality": 7,
@@ -26792,7 +26792,7 @@
     {
         "code": "qiabayefu",
         "name": "恰巴耶夫",
-        "avatar": "qiabayefu\/qiabayefu.png",
+        "avatar": "qiabayefu.png",
         "type": 2,
         "rarity": 5,
         "nationality": 7,
@@ -26874,7 +26874,7 @@
     {
         "code": "jiluofu",
         "name": "基洛夫",
-        "avatar": "jiluofu\/jiluofu.png",
+        "avatar": "jiluofu.png",
         "type": 2,
         "rarity": 5,
         "nationality": 7,
@@ -26959,7 +26959,7 @@
     {
         "code": "gubixuefu",
         "name": "古比雪夫",
-        "avatar": "gubixuefu\/gubixuefu.png",
+        "avatar": "gubixuefu.png",
         "type": 2,
         "rarity": 5,
         "nationality": 7,
@@ -27004,7 +27004,7 @@
     {
         "code": "moermansike",
         "name": "摩尔曼斯克",
-        "avatar": "moermansike\/moermansike.png",
+        "avatar": "moermansike.png",
         "type": 2,
         "rarity": 4,
         "nationality": 7,
@@ -27055,7 +27055,7 @@
     {
         "code": "talin",
         "name": "塔林",
-        "avatar": "talin\/talin.png",
+        "avatar": "talin.png",
         "type": 3,
         "rarity": 5,
         "nationality": 7,
@@ -27118,7 +27118,7 @@
     {
         "code": "gangute",
         "name": "甘古特",
-        "avatar": "gangute\/gangute.png",
+        "avatar": "gangute.png",
         "type": 5,
         "rarity": 4,
         "nationality": 7,
@@ -27184,7 +27184,7 @@
     {
         "code": "suweiaibeilaluosi",
         "name": "苏维埃贝拉罗斯",
-        "avatar": "suweiaibeilaluosi\/suweiaibeilaluosi.png",
+        "avatar": "suweiaibeilaluosi.png",
         "type": 5,
         "rarity": 5,
         "nationality": 7,
@@ -27228,7 +27228,7 @@
     {
         "code": "suweiailuoxiya",
         "name": "苏维埃罗西亚",
-        "avatar": "suweiailuoxiya\/suweiailuoxiya.png",
+        "avatar": "suweiailuoxiya.png",
         "type": 5,
         "rarity": 5,
         "nationality": 7,
@@ -27273,7 +27273,7 @@
     {
         "code": "aerhangeersike",
         "name": "阿尔汉格尔斯克",
-        "avatar": "aerhangeersike\/aerhangeersike.png",
+        "avatar": "aerhangeersike.png",
         "type": 5,
         "rarity": 4,
         "nationality": 7,
@@ -27319,7 +27319,7 @@
     {
         "code": "fuerjia",
         "name": "伏尔加",
-        "avatar": "fuerjia\/fuerjia.png",
+        "avatar": "fuerjia.png",
         "type": 7,
         "rarity": 5,
         "nationality": 7,
@@ -27364,7 +27364,7 @@
     {
         "code": "kalangshitade",
         "name": "喀琅施塔得",
-        "avatar": "kalangshitade\/kalangshitade.png",
+        "avatar": "kalangshitade.png",
         "type": 18,
         "rarity": 6,
         "nationality": 7,
@@ -27412,7 +27412,7 @@
     {
         "code": "qikaluofu",
         "name": "契卡洛夫",
-        "avatar": "qikaluofu\/qikaluofu.png",
+        "avatar": "qikaluofu.png",
         "type": 7,
         "rarity": 7,
         "nationality": 7,
@@ -27462,7 +27462,7 @@
     {
         "code": "kaixuan",
         "name": "凯旋",
-        "avatar": "kaixuan\/kaixuan.png",
+        "avatar": "kaixuan.png",
         "type": 1,
         "rarity": 5,
         "nationality": 8,
@@ -27482,7 +27482,7 @@
     {
         "code": "fuerban",
         "name": "福尔班",
-        "avatar": "fuerban\/fuerban.png",
+        "avatar": "fuerban.png",
         "type": 1,
         "rarity": 3,
         "nationality": 8,
@@ -27580,7 +27580,7 @@
     {
         "code": "lumang",
         "name": "鲁莽",
-        "avatar": "lumang\/lumang.png",
+        "avatar": "lumang.png",
         "type": 1,
         "rarity": 4,
         "nationality": 8,
@@ -27660,7 +27660,7 @@
     {
         "code": "juejiang",
         "name": "倔强",
-        "avatar": "juejiang\/juejiang.png",
+        "avatar": "juejiang.png",
         "type": 1,
         "rarity": 4,
         "nationality": 8,
@@ -27713,7 +27713,7 @@
     {
         "code": "kebu",
         "name": "可怖",
-        "avatar": "kebu\/kebu.png",
+        "avatar": "kebu.png",
         "type": 1,
         "rarity": 5,
         "nationality": 8,
@@ -27774,7 +27774,7 @@
     {
         "code": "mayebuleize",
         "name": "马耶·布雷泽",
-        "avatar": "mayebuleize\/mayebuleize.png",
+        "avatar": "mayebuleize.png",
         "type": 1,
         "rarity": 4,
         "nationality": 8,
@@ -27840,7 +27840,7 @@
     {
         "code": "aimierbeierding",
         "name": "埃米尔·贝尔汀",
-        "avatar": "aimierbeierding\/aimierbeierding.png",
+        "avatar": "aimierbeierding.png",
         "type": 2,
         "rarity": 4,
         "nationality": 8,
@@ -27926,7 +27926,7 @@
     {
         "code": "shengnvzhende",
         "name": "圣女贞德",
-        "avatar": "shengnvzhende\/shengnvzhende.png",
+        "avatar": "shengnvzhende.png",
         "type": 2,
         "rarity": 5,
         "nationality": 8,
@@ -27971,7 +27971,7 @@
     {
         "code": "lisailiu",
         "name": "黎塞留",
-        "avatar": "lisailiu\/lisailiu.png",
+        "avatar": "lisailiu.png",
         "type": 5,
         "rarity": 5,
         "nationality": 8,
@@ -28035,7 +28035,7 @@
     {
         "code": "beiyaen",
         "name": "贝亚恩",
-        "avatar": "beiyaen\/beiyaen.png",
+        "avatar": "beiyaen.png",
         "type": 7,
         "rarity": 4,
         "nationality": 8,
@@ -28083,7 +28083,7 @@
     {
         "code": "xukufu",
         "name": "絮库夫",
-        "avatar": "xukufu\/xukufu.png",
+        "avatar": "xukufu.png",
         "type": 8,
         "rarity": 4,
         "nationality": 8,
@@ -28141,7 +28141,7 @@
     {
         "code": "luyijiushi",
         "name": "路易九世",
-        "avatar": "luyijiushi\/luyijiushi.png",
+        "avatar": "luyijiushi.png",
         "type": 3,
         "rarity": 7,
         "nationality": 8,
@@ -28197,7 +28197,7 @@
     {
         "code": "xiangbin",
         "name": "香槟",
-        "avatar": "xiangbin\/xiangbin.png",
+        "avatar": "xiangbin.png",
         "type": 5,
         "rarity": 7,
         "nationality": 8,
@@ -28244,7 +28244,7 @@
     {
         "code": "buleisite",
         "name": "布雷斯特",
-        "avatar": "buleisite\/buleisite.png",
+        "avatar": "buleisite.png",
         "type": 18,
         "rarity": 8,
         "nationality": 8,
@@ -28292,7 +28292,7 @@
     {
         "code": "lemaer",
         "name": "勒马尔",
-        "avatar": "lemaer\/lemaer.png",
+        "avatar": "lemaer.png",
         "type": 1,
         "rarity": 3,
         "nationality": 9,
@@ -28369,7 +28369,7 @@
     {
         "code": "taertu",
         "name": "塔尔图",
-        "avatar": "taertu\/taertu.png",
+        "avatar": "taertu.png",
         "type": 1,
         "rarity": 4,
         "nationality": 9,
@@ -28414,7 +28414,7 @@
     {
         "code": "wokelan",
         "name": "沃克兰",
-        "avatar": "wokelan\/wokelan.png",
+        "avatar": "wokelan.png",
         "type": 1,
         "rarity": 4,
         "nationality": 9,
@@ -28496,7 +28496,7 @@
     {
         "code": "edu",
         "name": "恶毒",
-        "avatar": "edu\/edu.png",
+        "avatar": "edu.png",
         "type": 1,
         "rarity": 5,
         "nationality": 9,
@@ -28579,7 +28579,7 @@
     {
         "code": "edu_idol",
         "name": "恶毒(μ兵装)",
-        "avatar": "edu_idol\/edu_idol.png",
+        "avatar": "edu_idol.png",
         "type": 1,
         "rarity": 5,
         "nationality": 9,
@@ -28608,7 +28608,7 @@
     {
         "code": "buqu",
         "name": "不屈",
-        "avatar": "buqu\/buqu.png",
+        "avatar": "buqu.png",
         "type": 1,
         "rarity": 5,
         "nationality": 9,
@@ -28672,7 +28672,7 @@
     {
         "code": "jialisuoniye",
         "name": "拉·加利索尼埃",
-        "avatar": "jialisuoniye\/jialisuoniye.png",
+        "avatar": "jialisuoniye.png",
         "type": 2,
         "rarity": 4,
         "nationality": 9,
@@ -28753,7 +28753,7 @@
     {
         "code": "fuxu",
         "name": "福煦",
-        "avatar": "fuxu\/fuxu.png",
+        "avatar": "fuxu.png",
         "type": 3,
         "rarity": 4,
         "nationality": 9,
@@ -28804,7 +28804,7 @@
     {
         "code": "aerjiliya",
         "name": "阿尔及利亚",
-        "avatar": "aerjiliya\/aerjiliya.png",
+        "avatar": "aerjiliya.png",
         "type": 3,
         "rarity": 5,
         "nationality": 9,
@@ -28871,7 +28871,7 @@
     {
         "code": "dunkeerke",
         "name": "敦刻尔克",
-        "avatar": "dunkeerke\/dunkeerke.png",
+        "avatar": "dunkeerke.png",
         "type": 4,
         "rarity": 4,
         "nationality": 9,
@@ -28931,7 +28931,7 @@
     {
         "code": "rangbaer",
         "name": "让·巴尔",
-        "avatar": "rangbaer\/rangbaer.png",
+        "avatar": "rangbaer.png",
         "type": 5,
         "rarity": 5,
         "nationality": 9,
@@ -28997,7 +28997,7 @@
     {
         "code": "jiasikenie_idol",
         "name": "加斯科涅(μ兵装)",
-        "avatar": "jiasikenie_idol\/jiasikenie_idol.png",
+        "avatar": "jiasikenie_idol.png",
         "type": 5,
         "rarity": 5,
         "nationality": 9,
@@ -29025,7 +29025,7 @@
     {
         "code": "xiafei",
         "name": "霞飞",
-        "avatar": "xiafei\/xiafei.png",
+        "avatar": "xiafei.png",
         "type": 7,
         "rarity": 5,
         "nationality": 9,
@@ -29074,7 +29074,7 @@
     {
         "code": "jiasikenie",
         "name": "加斯科涅",
-        "avatar": "jiasikenie\/jiasikenie.png",
+        "avatar": "jiasikenie.png",
         "type": 5,
         "rarity": 7,
         "nationality": 9,
@@ -29125,7 +29125,7 @@
     {
         "code": "huangjiacaifu",
         "name": "皇家财富号",
-        "avatar": "huangjiacaifu\/huangjiacaifu.png",
+        "avatar": "huangjiacaifu.png",
         "type": 22,
         "rarity": 5,
         "nationality": 96,
@@ -29173,7 +29173,7 @@
     {
         "code": "lieren_alter",
         "name": "猎人·META",
-        "avatar": "lieren_alter\/lieren_alter.png",
+        "avatar": "lieren_alter.png",
         "type": 1,
         "rarity": 4,
         "nationality": 97,
@@ -29199,7 +29199,7 @@
     {
         "code": "mingyunnvshen_alter",
         "name": "命运女神·META",
-        "avatar": "mingyunnvshen_alter\/mingyunnvshen_alter.png",
+        "avatar": "mingyunnvshen_alter.png",
         "type": 1,
         "rarity": 4,
         "nationality": 97,
@@ -29225,7 +29225,7 @@
     {
         "code": "hailunna_alter",
         "name": "海伦娜·META",
-        "avatar": "hailunna_alter\/hailunna_alter.png",
+        "avatar": "hailunna_alter.png",
         "type": 2,
         "rarity": 5,
         "nationality": 97,
@@ -29254,7 +29254,7 @@
     {
         "code": "mengfeisi_alter",
         "name": "孟菲斯·META",
-        "avatar": "mengfeisi_alter\/mengfeisi_alter.png",
+        "avatar": "mengfeisi_alter.png",
         "type": 2,
         "rarity": 4,
         "nationality": 97,
@@ -29285,7 +29285,7 @@
     {
         "code": "xiefeierde_alter",
         "name": "谢菲尔德·META",
-        "avatar": "xiefeierde_alter\/xiefeierde_alter.png",
+        "avatar": "xiefeierde_alter.png",
         "type": 2,
         "rarity": 4,
         "nationality": 97,
@@ -29313,7 +29313,7 @@
     {
         "code": "teluntuo_alter",
         "name": "特伦托·META",
-        "avatar": "teluntuo_alter\/teluntuo_alter.png",
+        "avatar": "teluntuo_alter.png",
         "type": 3,
         "rarity": 4,
         "nationality": 97,
@@ -29341,7 +29341,7 @@
     {
         "code": "genaisennao_alter",
         "name": "格奈森瑙·META",
-        "avatar": "genaisennao_alter\/genaisennao_alter.png",
+        "avatar": "genaisennao_alter.png",
         "type": 4,
         "rarity": 5,
         "nationality": 97,
@@ -29368,7 +29368,7 @@
     {
         "code": "shaenhuosite_alter",
         "name": "沙恩霍斯特·META",
-        "avatar": "shaenhuosite_alter\/shaenhuosite_alter.png",
+        "avatar": "shaenhuosite_alter.png",
         "type": 4,
         "rarity": 5,
         "nationality": 97,
@@ -29394,7 +29394,7 @@
     {
         "code": "fanji_alter",
         "name": "反击·META",
-        "avatar": "fanji_alter\/fanji_alter.png",
+        "avatar": "fanji_alter.png",
         "type": 4,
         "rarity": 5,
         "nationality": 97,
@@ -29420,7 +29420,7 @@
     {
         "code": "shengwang_alter",
         "name": "声望·META",
-        "avatar": "shengwang_alter\/shengwang_alter.png",
+        "avatar": "shengwang_alter.png",
         "type": 4,
         "rarity": 5,
         "nationality": 97,
@@ -29449,7 +29449,7 @@
     {
         "code": "fusang_alter",
         "name": "扶桑·META",
-        "avatar": "fusang_alter\/fusang_alter.png",
+        "avatar": "fusang_alter.png",
         "type": 5,
         "rarity": 4,
         "nationality": 97,
@@ -29476,7 +29476,7 @@
     {
         "code": "shancheng_alter",
         "name": "山城·META",
-        "avatar": "shancheng_alter\/shancheng_alter.png",
+        "avatar": "shancheng_alter.png",
         "type": 5,
         "rarity": 4,
         "nationality": 97,
@@ -29502,7 +29502,7 @@
     {
         "code": "yalisangna_alter",
         "name": "亚利桑那·META",
-        "avatar": "yalisangna_alter\/yalisangna_alter.png",
+        "avatar": "yalisangna_alter.png",
         "type": 5,
         "rarity": 5,
         "nationality": 97,
@@ -29531,7 +29531,7 @@
     {
         "code": "feiying_alter",
         "name": "飞鹰·META",
-        "avatar": "feiying_alter\/feiying_alter.png",
+        "avatar": "feiying_alter.png",
         "type": 6,
         "rarity": 4,
         "nationality": 97,
@@ -29557,7 +29557,7 @@
     {
         "code": "sunying_alter",
         "name": "隼鹰·META",
-        "avatar": "sunying_alter\/sunying_alter.png",
+        "avatar": "sunying_alter.png",
         "type": 6,
         "rarity": 4,
         "nationality": 97,
@@ -29583,7 +29583,7 @@
     {
         "code": "feilong_alter",
         "name": "飞龙·META",
-        "avatar": "feilong_alter\/feilong_alter.png",
+        "avatar": "feilong_alter.png",
         "type": 7,
         "rarity": 5,
         "nationality": 97,
@@ -29612,7 +29612,7 @@
     {
         "code": "huangjiafangzhou_alter",
         "name": "皇家方舟·META",
-        "avatar": "huangjiafangzhou_alter\/huangjiafangzhou_alter.png",
+        "avatar": "huangjiafangzhou_alter.png",
         "type": 7,
         "rarity": 5,
         "nationality": 97,
@@ -29640,7 +29640,7 @@
     {
         "code": "canglong_alter",
         "name": "苍龙·META",
-        "avatar": "canglong_alter\/canglong_alter.png",
+        "avatar": "canglong_alter.png",
         "type": 7,
         "rarity": 5,
         "nationality": 97,
@@ -29670,7 +29670,7 @@
     {
         "code": "hdn101",
         "name": "涅普顿",
-        "avatar": "hdn101\/hdn101.png",
+        "avatar": "hdn101.png",
         "type": 2,
         "rarity": 4,
         "nationality": 101,
@@ -29690,7 +29690,7 @@
     {
         "code": "hdn201",
         "name": "诺瓦露",
-        "avatar": "hdn201\/hdn201.png",
+        "avatar": "hdn201.png",
         "type": 3,
         "rarity": 4,
         "nationality": 101,
@@ -29710,7 +29710,7 @@
     {
         "code": "hdn301",
         "name": "布兰",
-        "avatar": "hdn301\/hdn301.png",
+        "avatar": "hdn301.png",
         "type": 1,
         "rarity": 4,
         "nationality": 101,
@@ -29730,7 +29730,7 @@
     {
         "code": "hdn401",
         "name": "贝露",
-        "avatar": "hdn401\/hdn401.png",
+        "avatar": "hdn401.png",
         "type": 7,
         "rarity": 4,
         "nationality": 101,
@@ -29750,7 +29750,7 @@
     {
         "code": "hdn102_1",
         "name": "绀紫之心",
-        "avatar": "hdn102_1\/hdn102_1.png",
+        "avatar": "hdn102_1.png",
         "type": 2,
         "rarity": 5,
         "nationality": 101,
@@ -29780,7 +29780,7 @@
     {
         "code": "hdn202_1",
         "name": "圣黑之心",
-        "avatar": "hdn202_1\/hdn202_1.png",
+        "avatar": "hdn202_1.png",
         "type": 3,
         "rarity": 5,
         "nationality": 101,
@@ -29810,7 +29810,7 @@
     {
         "code": "hdn302_1",
         "name": "群白之心",
-        "avatar": "hdn302_1\/hdn302_1.png",
+        "avatar": "hdn302_1.png",
         "type": 1,
         "rarity": 5,
         "nationality": 101,
@@ -29840,7 +29840,7 @@
     {
         "code": "hdn402_1",
         "name": "翡绿之心",
-        "avatar": "hdn402_1\/hdn402_1.png",
+        "avatar": "hdn402_1.png",
         "type": 7,
         "rarity": 5,
         "nationality": 101,
@@ -29870,7 +29870,7 @@
     {
         "code": "22",
         "name": "22",
-        "avatar": "22\/22.png",
+        "avatar": "22.png",
         "type": 1,
         "rarity": 4,
         "nationality": 102,
@@ -29890,7 +29890,7 @@
     {
         "code": "33",
         "name": "33",
-        "avatar": "33\/33.png",
+        "avatar": "33.png",
         "type": 1,
         "rarity": 4,
         "nationality": 102,
@@ -29910,7 +29910,7 @@
     {
         "code": "jiuyuan",
         "name": "久远",
-        "avatar": "jiuyuan\/jiuyuan.png",
+        "avatar": "jiuyuan.png",
         "type": 3,
         "rarity": 5,
         "nationality": 103,
@@ -29946,7 +29946,7 @@
     {
         "code": "maoyin",
         "name": "猫音",
-        "avatar": "maoyin\/maoyin.png",
+        "avatar": "maoyin.png",
         "type": 1,
         "rarity": 5,
         "nationality": 103,
@@ -29982,7 +29982,7 @@
     {
         "code": "lulutiye",
         "name": "露露缇耶",
-        "avatar": "lulutiye\/lulutiye.png",
+        "avatar": "lulutiye.png",
         "type": 2,
         "rarity": 5,
         "nationality": 103,
@@ -30018,7 +30018,7 @@
     {
         "code": "wululu",
         "name": "乌璐露",
-        "avatar": "wululu\/wululu.png",
+        "avatar": "wululu.png",
         "type": 6,
         "rarity": 4,
         "nationality": 103,
@@ -30054,7 +30054,7 @@
     {
         "code": "salana",
         "name": "萨拉娜",
-        "avatar": "salana\/salana.png",
+        "avatar": "salana.png",
         "type": 6,
         "rarity": 4,
         "nationality": 103,
@@ -30090,7 +30090,7 @@
     {
         "code": "fumilulu",
         "name": "芙米露露",
-        "avatar": "fumilulu\/fumilulu.png",
+        "avatar": "fumilulu.png",
         "type": 7,
         "rarity": 4,
         "nationality": 103,
@@ -30126,7 +30126,7 @@
     {
         "code": "aijiangdd",
         "name": "绊爱",
-        "avatar": "aijiangdd\/aijiangdd.png",
+        "avatar": "aijiangdd.png",
         "type": 1,
         "rarity": 4,
         "nationality": 104,
@@ -30173,7 +30173,7 @@
     {
         "code": "aijiangcl",
         "name": "绊爱·Elegant",
-        "avatar": "aijiangcl\/aijiangcl.png",
+        "avatar": "aijiangcl.png",
         "type": 3,
         "rarity": 5,
         "nationality": 104,
@@ -30202,7 +30202,7 @@
     {
         "code": "aijiangcv",
         "name": "绊爱·Anniversary",
-        "avatar": "aijiangcv\/aijiangcv.png",
+        "avatar": "aijiangcv.png",
         "type": 7,
         "rarity": 5,
         "nationality": 104,
@@ -30222,7 +30222,7 @@
     {
         "code": "aijiangbb",
         "name": "绊爱·SuperGamer",
-        "avatar": "aijiangbb\/aijiangbb.png",
+        "avatar": "aijiangbb.png",
         "type": 5,
         "rarity": 5,
         "nationality": 104,
@@ -30251,7 +30251,7 @@
     {
         "code": "vtuber_fubuki",
         "name": "白上吹雪",
-        "avatar": "vtuber_fubuki\/vtuber_fubuki.png",
+        "avatar": "vtuber_fubuki.png",
         "type": 1,
         "rarity": 5,
         "nationality": 105,
@@ -30294,7 +30294,7 @@
     {
         "code": "vtuber_sora",
         "name": "时乃空",
-        "avatar": "vtuber_sora\/vtuber_sora.png",
+        "avatar": "vtuber_sora.png",
         "type": 7,
         "rarity": 5,
         "nationality": 105,
@@ -30340,7 +30340,7 @@
     {
         "code": "vtuber_aqua",
         "name": "湊阿库娅",
-        "avatar": "vtuber_aqua\/vtuber_aqua.png",
+        "avatar": "vtuber_aqua.png",
         "type": 8,
         "rarity": 5,
         "nationality": 105,
@@ -30385,7 +30385,7 @@
     {
         "code": "vtuber_matsuri",
         "name": "夏色祭",
-        "avatar": "vtuber_matsuri\/vtuber_matsuri.png",
+        "avatar": "vtuber_matsuri.png",
         "type": 1,
         "rarity": 4,
         "nationality": 105,
@@ -30429,7 +30429,7 @@
     {
         "code": "vtuber_ayame",
         "name": "百鬼绫目",
-        "avatar": "vtuber_ayame\/vtuber_ayame.png",
+        "avatar": "vtuber_ayame.png",
         "type": 3,
         "rarity": 4,
         "nationality": 105,
@@ -30475,7 +30475,7 @@
     {
         "code": "vtuber_shion",
         "name": "紫咲诗音",
-        "avatar": "vtuber_shion\/vtuber_shion.png",
+        "avatar": "vtuber_shion.png",
         "type": 6,
         "rarity": 4,
         "nationality": 105,
@@ -30521,7 +30521,7 @@
     {
         "code": "vtuber_mio",
         "name": "大神澪",
-        "avatar": "vtuber_mio\/vtuber_mio.png",
+        "avatar": "vtuber_mio.png",
         "type": 7,
         "rarity": 4,
         "nationality": 105,
@@ -30568,7 +30568,7 @@
     {
         "code": "maliluosi_doa",
         "name": "玛莉萝丝",
-        "avatar": "maliluosi_doa\/maliluosi_doa.png",
+        "avatar": "maliluosi_doa.png",
         "type": 1,
         "rarity": 5,
         "nationality": 106,
@@ -30614,7 +30614,7 @@
     {
         "code": "suixiang_doa",
         "name": "穗香",
-        "avatar": "suixiang_doa\/suixiang_doa.png",
+        "avatar": "suixiang_doa.png",
         "type": 5,
         "rarity": 5,
         "nationality": 106,
@@ -30658,7 +30658,7 @@
     {
         "code": "xia_doa",
         "name": "霞",
-        "avatar": "xia_doa\/xia_doa.png",
+        "avatar": "xia_doa.png",
         "type": 3,
         "rarity": 5,
         "nationality": 106,
@@ -30703,7 +30703,7 @@
     {
         "code": "haixiao_doa",
         "name": "海咲",
-        "avatar": "haixiao_doa\/haixiao_doa.png",
+        "avatar": "haixiao_doa.png",
         "type": 2,
         "rarity": 5,
         "nationality": 106,
@@ -30748,7 +30748,7 @@
     {
         "code": "zhixiao_doa",
         "name": "凪咲",
-        "avatar": "zhixiao_doa\/zhixiao_doa.png",
+        "avatar": "zhixiao_doa.png",
         "type": 5,
         "rarity": 4,
         "nationality": 106,
@@ -30792,7 +30792,7 @@
     {
         "code": "nvtiangou_doa",
         "name": "女天狗",
-        "avatar": "nvtiangou_doa\/nvtiangou_doa.png",
+        "avatar": "nvtiangou_doa.png",
         "type": 7,
         "rarity": 4,
         "nationality": 106,
@@ -30835,7 +30835,7 @@
     {
         "code": "monika_doa",
         "name": "莫妮卡",
-        "avatar": "monika_doa\/monika_doa.png",
+        "avatar": "monika_doa.png",
         "type": 2,
         "rarity": 4,
         "nationality": 106,
@@ -30882,7 +30882,7 @@
     {
         "code": "chunxiang",
         "name": "天海春香",
-        "avatar": "chunxiang\/chunxiang.png",
+        "avatar": "chunxiang.png",
         "type": 2,
         "rarity": 5,
         "nationality": 107,
@@ -30926,7 +30926,7 @@
     {
         "code": "qianzao",
         "name": "如月千早",
-        "avatar": "qianzao\/qianzao.png",
+        "avatar": "qianzao.png",
         "type": 7,
         "rarity": 5,
         "nationality": 107,
@@ -30970,7 +30970,7 @@
     {
         "code": "yizhi",
         "name": "水濑伊织",
-        "avatar": "yizhi\/yizhi.png",
+        "avatar": "yizhi.png",
         "type": 5,
         "rarity": 5,
         "nationality": 107,
@@ -31014,7 +31014,7 @@
     {
         "code": "zi",
         "name": "三浦 梓",
-        "avatar": "zi\/zi.png",
+        "avatar": "zi.png",
         "type": 3,
         "rarity": 5,
         "nationality": 107,
@@ -31058,7 +31058,7 @@
     {
         "code": "lvzi",
         "name": "秋月律子",
-        "avatar": "lvzi\/lvzi.png",
+        "avatar": "lvzi.png",
         "type": 19,
         "rarity": 4,
         "nationality": 107,
@@ -31102,7 +31102,7 @@
     {
         "code": "yamei",
         "name": "双海亚美",
-        "avatar": "yamei\/yamei.png",
+        "avatar": "yamei.png",
         "type": 8,
         "rarity": 4,
         "nationality": 107,
@@ -31146,7 +31146,7 @@
     {
         "code": "zhenmei",
         "name": "双海真美",
-        "avatar": "zhenmei\/zhenmei.png",
+        "avatar": "zhenmei.png",
         "type": 8,
         "rarity": 4,
         "nationality": 107,
@@ -31190,7 +31190,7 @@
     {
         "code": "baoduoliuhua",
         "name": "宝多六花 ",
-        "avatar": "baoduoliuhua\/baoduoliuhua.png",
+        "avatar": "baoduoliuhua.png",
         "type": 2,
         "rarity": 5,
         "nationality": 108,
@@ -31236,7 +31236,7 @@
     {
         "code": "qian",
         "name": "新条茜 ",
-        "avatar": "qian\/qian.png",
+        "avatar": "qian.png",
         "type": 5,
         "rarity": 5,
         "nationality": 108,
@@ -31281,7 +31281,7 @@
     {
         "code": "lian",
         "name": "莲",
-        "avatar": "lian\/lian.png",
+        "avatar": "lian.png",
         "type": 2,
         "rarity": 4,
         "nationality": 108,
@@ -31329,7 +31329,7 @@
     {
         "code": "naimeizi",
         "name": "奈美子",
-        "avatar": "naimeizi\/naimeizi.png",
+        "avatar": "naimeizi.png",
         "type": 3,
         "rarity": 4,
         "nationality": 108,
@@ -31375,7 +31375,7 @@
     {
         "code": "mengya",
         "name": "南梦芽",
-        "avatar": "mengya\/mengya.png",
+        "avatar": "mengya.png",
         "type": 3,
         "rarity": 5,
         "nationality": 108,
@@ -31420,7 +31420,7 @@
     {
         "code": "qianlai",
         "name": "飞鸟川千濑",
-        "avatar": "qianlai\/qianlai.png",
+        "avatar": "qianlai.png",
         "type": 7,
         "rarity": 5,
         "nationality": 108,
@@ -31465,7 +31465,7 @@
     {
         "code": "he",
         "name": "貉",
-        "avatar": "he\/he.png",
+        "avatar": "he.png",
         "type": 5,
         "rarity": 4,
         "nationality": 108,
@@ -31514,7 +31514,7 @@
     {
         "code": "laisha",
         "name": "莱莎琳·斯托特",
-        "avatar": "laisha\/laisha.png",
+        "avatar": "laisha.png",
         "type": 2,
         "rarity": 5,
         "nationality": 109,
@@ -31559,7 +31559,7 @@
     {
         "code": "keluodiya",
         "name": "科洛蒂娅·巴兰茨",
-        "avatar": "keluodiya\/keluodiya.png",
+        "avatar": "keluodiya.png",
         "type": 6,
         "rarity": 5,
         "nationality": 109,
@@ -31612,7 +31612,7 @@
     {
         "code": "patelixia",
         "name": "帕特莉夏·阿贝尔海姆",
-        "avatar": "patelixia\/patelixia.png",
+        "avatar": "patelixia.png",
         "type": 5,
         "rarity": 5,
         "nationality": 109,
@@ -31657,7 +31657,7 @@
     {
         "code": "lila",
         "name": "莉拉·德西亚斯",
-        "avatar": "lila\/lila.png",
+        "avatar": "lila.png",
         "type": 3,
         "rarity": 4,
         "nationality": 109,
@@ -31704,7 +31704,7 @@
     {
         "code": "saili",
         "name": "赛莉·古劳斯",
-        "avatar": "saili\/saili.png",
+        "avatar": "saili.png",
         "type": 7,
         "rarity": 4,
         "nationality": 109,
@@ -31754,7 +31754,7 @@
     {
         "code": "kala",
         "name": "卡菈·伊迪亚斯",
-        "avatar": "kala\/kala.png",
+        "avatar": "kala.png",
         "type": 18,
         "rarity": 5,
         "nationality": 109,
