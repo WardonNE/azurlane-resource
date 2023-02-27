@@ -1,0 +1,19 @@
+{
+    "layers": [
+        {
+            "type": "spine",
+            "skel": "huajia_2B.skel",
+            "atlas": "huajia_2B.atlas"
+        },
+        {
+            "type": "spine",
+            "skel": "huajia_2M.skel",
+            "atlas": "huajia_2M.atlas"
+        },
+        {
+            "type": "spine",
+            "skel": "huajia_2T.skel",
+            "atlas": "huajia_2T.atlas"
+        },
+    ]
+}

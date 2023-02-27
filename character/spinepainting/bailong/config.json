@@ -1,0 +1,19 @@
+{
+    "layers": [
+        {
+            "type": "spine",
+            "skel": "bailongB.skel",
+            "atlas": "bailongB.atlas"
+        },
+        {
+            "type": "spine",
+            "skel": "bailongM.skel",
+            "atlas": "bailongM.atlas"
+        },
+        {
+            "type": "spine",
+            "skel": "bailongT.skel",
+            "atlas": "bailongT.atlas"
+        }
+    ]
+}

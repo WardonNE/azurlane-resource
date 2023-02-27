@@ -1,0 +1,19 @@
+{
+    "layers": [
+        {
+            "type": "spine",
+            "skel": "aijierB.skel",
+            "atlas": "aijierB.atlas"
+        },
+        {
+            "type": "spine",
+            "skel": "aijierM.skel",
+            "atlas": "aijierM.atlas"
+        },
+        {
+            "type": "spine",
+            "skel": "aijierT.skel",
+            "atlas": "aijierT.atlas"
+        }
+    ]
+}

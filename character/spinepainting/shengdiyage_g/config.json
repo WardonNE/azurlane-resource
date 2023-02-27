@@ -1,0 +1,9 @@
+{
+    "layers": [
+        {
+            "type": "spine",
+            "skel": "shengdiyage_g.skel",
+            "atlas": "shengdiyage_g.atlas"
+        }
+    ]
+}

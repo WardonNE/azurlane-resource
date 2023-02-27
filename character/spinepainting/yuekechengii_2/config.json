@@ -1,0 +1,19 @@
+{
+    "layers": [
+        {
+            "type": "spine",
+            "skel": "yukechengIIB.skel",
+            "atlas": "yukechengIIB.atlas"
+        },
+        {
+            "type": "spine",
+            "skel": "yukechengIIM.skel",
+            "atlas": "yukechengIIM.atlas"
+        },
+        {
+            "type": "spine",
+            "skel": "yukechengIIT.skel",
+            "atlas": "yukechengIIT.atlas"
+        }
+    ]
+}

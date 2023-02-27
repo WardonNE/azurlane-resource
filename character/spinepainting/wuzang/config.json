@@ -1,0 +1,39 @@
+{
+    "layers": [
+        {
+            "type": "spine",
+            "skel": "wuzang7.skel",
+            "atlas": "wuzang7.atlas"
+        },
+        {
+            "type": "spine",
+            "skel": "wuzang6.skel",
+            "atlas": "wuzang6.atlas"
+        },
+        {
+            "type": "spine",
+            "skel": "wuzang5.skel",
+            "atlas": "wuzang5.atlas"
+        },
+        {
+            "type": "spine",
+            "skel": "wuzang4.skel",
+            "atlas": "wuzang4.atlas"
+        },
+        {
+            "type": "spine",
+            "skel": "wuzang3.skel",
+            "atlas": "wuzang3.atlas"
+        },
+        {
+            "type": "spine",
+            "skel": "wuzang2.skel",
+            "atlas": "wuzang2.atlas"
+        },
+        {
+            "type": "spine",
+            "skel": "wuzang1.skel",
+            "atlas": "wuzang1.atlas"
+        }
+    ]
+}

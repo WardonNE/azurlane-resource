@@ -1,0 +1,13 @@
+{
+    "layers": [
+        {
+            "type": "image",
+            "texture": "kalangshitade-BG.png"
+        },
+        {
+            "type": "spine",
+            "skel": "kalangshitade.skel",
+            "atlas": "kalangshitade.atlas"
+        }
+    ]
+}

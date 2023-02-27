@@ -1,0 +1,9 @@
+{
+    "layers": [
+        {
+            "type": "spine",
+            "skel": "feiteliedadi.skel",
+            "atlas": "feiteliedadi.atlas"
+        }
+    ]
+}

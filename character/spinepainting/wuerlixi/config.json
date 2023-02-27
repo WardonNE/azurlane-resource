@@ -1,0 +1,9 @@
+{
+    "layers": [
+        {
+            "type": "spine",
+            "skel": "wuerlixi.skel",
+            "atlas": "wuerlixi.atlas"
+        }
+    ]
+}

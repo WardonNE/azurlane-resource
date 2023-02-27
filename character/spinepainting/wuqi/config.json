@@ -1,0 +1,9 @@
+{
+    "layers": [
+        {
+            "type": "spine",
+            "skel": "wuqi.skel",
+            "atlas": "atlas.atlas"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "layers": [
+        {
+            "type": "spine",
+            "skel": "yixian_2B.skel",
+            "atlas": "yixian_2B.atlas"
+        },
+        {
+            "type": "spine",
+            "skel": "yixian_2M.skel",
+            "atlas": "yixian_2M.atlas"
+        },
+        {
+            "type": "spine",
+            "skel": "yixian_2T.skel",
+            "atlas": "yixian_2T.atlas"
+        }
+    ]
+}

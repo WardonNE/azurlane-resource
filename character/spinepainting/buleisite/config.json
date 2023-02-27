@@ -1,0 +1,14 @@
+{
+    "layers": [
+        {
+            "type": "spine",
+            "skel": "buleisite_B.skel",
+            "atlas": "buleisite_B.atlas"
+        },
+        {
+            "type": "spine",
+            "skel": "buleisite_T.skel",
+            "atlas": "buleisite_T.atlas"
+        }
+    ]
+}

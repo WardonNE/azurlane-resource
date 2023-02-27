@@ -2285,7 +2285,8 @@
                 "spine": {
                     "skel": "shengdiyage_g\/shengdiyage_g.skel",
                     "atlas": "shengdiyage_g\/shengdiyage_g.atlas"
-                }
+                },
+                "spine_painting": "shengdiyage_g\/config.json"
             }
         ]
     },
@@ -4781,7 +4782,8 @@
                 "spine": {
                     "skel": "xinzexi\/xinzexi.skel",
                     "atlas": "xinzexi\/xinzexi.atlas"
-                }
+                },
+                "spine_painting": "xinzexi\/config.json"
             },
             {
                 "code": "xinzexi_2",
@@ -5748,7 +5750,8 @@
                 "spine": {
                     "skel": "yuekechengii\/yuekechengii.skel",
                     "atlas": "yuekechengii\/yuekechengii.atlas"
-                }
+                },
+                "spine_painting": "yuekechengii\/config.json"
             },
             {
                 "code": "yuekechengii_2",
@@ -5766,7 +5769,8 @@
                 "spine": {
                     "skel": "yuekechengii_2\/yuekechengii_2.skel",
                     "atlas": "yuekechengii_2\/yuekechengii_2.atlas"
-                }
+                },
+                "spine_painting": "yuekechengii_2\/config.json"
             }
         ]
     },
@@ -5857,7 +5861,8 @@
                 "spine": {
                     "skel": "dahuangfengii_2\/dahuangfengii_2.skel",
                     "atlas": "dahuangfengii_2\/dahuangfengii_2.atlas"
-                }
+                },
+                "spine_painting": "dahuangfengii_2\/config.json"
             }
         ]
     },
@@ -10522,7 +10527,8 @@
                 "spine": {
                     "skel": "yanzhan_g\/yanzhan_g.skel",
                     "atlas": "yanzhan_g\/yanzhan_g.atlas"
-                }
+                },
+                "spine_painting": "yanzhan_g\/config.json"
             }
         ]
     },
@@ -11047,7 +11053,8 @@
                 "spine": {
                     "skel": "qianwei\/qianwei.skel",
                     "atlas": "qianwei\/qianwei.atlas"
-                }
+                },
+                "spine_painting": "qianwei\/config.json"
             },
             {
                 "code": "qianwei_2",
@@ -12451,7 +12458,8 @@
                 "spine": {
                     "skel": "deleike\/deleike.skel",
                     "atlas": "deleike\/deleike.atlas"
-                }
+                },
+                "spine_painting": "deleike\/config.json"
             },
             {
                 "code": "deleike_2",
@@ -12501,7 +12509,8 @@
                 "spine": {
                     "skel": "pulimaosi\/pulimaosi.skel",
                     "atlas": "pulimaosi\/pulimaosi.atlas"
-                }
+                },
+                "spine_painting": "pulimaosi\/config.json"
             },
             {
                 "code": "pulimaosi_2",
@@ -13362,7 +13371,8 @@
                 "spine": {
                     "skel": "xili_g\/xili_g.skel",
                     "atlas": "xili_g\/xili_g.atlas"
-                }
+                },
+                "spine_painting": "xili_g\/config.json"
             }
         ]
     },
@@ -14036,7 +14046,8 @@
                 "spine": {
                     "skel": "daofeng\/daofeng.skel",
                     "atlas": "daofeng\/daofeng.atlas"
-                }
+                },
+                "spine_painting": "daofeng\/config.json"
             },
             {
                 "code": "daofeng_4",
@@ -15777,7 +15788,8 @@
                 "spine": {
                     "skel": "fengyun_2\/fengyun_2.skel",
                     "atlas": "fengyun_2\/fengyun_2.atlas"
-                }
+                },
+                "spine_painting": "fengyun_2\/config.json"
             }
         ]
     },
@@ -18163,7 +18175,8 @@
                 "spine": {
                     "skel": "wuzang\/wuzang.skel",
                     "atlas": "wuzang\/wuzang.atlas"
-                }
+                },
+                "spine_painting": "wuzang\/config.json"
             },
             {
                 "code": "wuzang_2",
@@ -19325,7 +19338,8 @@
                 "spine": {
                     "skel": "xinnong\/xinnong.skel",
                     "atlas": "xinnong\/xinnong.atlas"
-                }
+                },
+                "spine_painting": "xinnong\/config.json"
             },
             {
                 "code": "xinnong_2",
@@ -20198,7 +20212,8 @@
                 "spine": {
                     "skel": "wuqi\/wuqi.skel",
                     "atlas": "wuqi\/wuqi.atlas"
-                }
+                },
+                "spine_painting": "wuqi\/config.json"
             },
             {
                 "code": "wuqi_2",
@@ -20262,7 +20277,8 @@
                 "spine": {
                     "skel": "bailong\/bailong.skel",
                     "atlas": "bailong\/bailong.atlas"
-                }
+                },
+                "spine_painting": "bailong\/config.json"
             },
             {
                 "code": "bailong_2",
@@ -22534,7 +22550,8 @@
                 "spine": {
                     "skel": "wuerlixi\/wuerlixi.skel",
                     "atlas": "wuerlixi\/wuerlixi.atlas"
-                }
+                },
+                "spine_painting": "wuerlixi\/config.json"
             },
             {
                 "code": "wuerlixi_2",
@@ -23591,7 +23608,8 @@
                 "spine": {
                     "skel": "feiteliedadi\/feiteliedadi.skel",
                     "atlas": "feiteliedadi\/feiteliedadi.atlas"
-                }
+                },
+                "spine_painting": "feiteliedadi\/config.json"
             },
             {
                 "code": "feiteliedadi_2",
@@ -23728,7 +23746,8 @@
                 "spine": {
                     "skel": "aijier\/aijier.skel",
                     "atlas": "aijier\/aijier.atlas"
-                }
+                },
+                "spine_painting": "aijier\/config.json"
             },
             {
                 "code": "aijier_2",
@@ -24135,7 +24154,8 @@
                 "spine": {
                     "skel": "yixian_2\/yixian_2.skel",
                     "atlas": "yixian_2\/yixian_2.atlas"
-                }
+                },
+                "spine_painting": "yixian_2\/config.json"
             },
             {
                 "code": "yixian_h",
@@ -24756,7 +24776,8 @@
                 "spine": {
                     "skel": "huajia_2\/huajia_2.skel",
                     "atlas": "huajia_2\/huajia_2.atlas"
-                }
+                },
+                "spine_painting": "huajia_2\/config.json"
             }
         ]
     },
@@ -27385,7 +27406,8 @@
                 "spine": {
                     "skel": "kalangshitade\/kalangshitade.skel",
                     "atlas": "kalangshitade\/kalangshitade.atlas"
-                }
+                },
+                "spine_painting": "kalangshitade\/config.json"
             },
             {
                 "code": "kalangshitade_2",
@@ -28265,7 +28287,8 @@
                 "spine": {
                     "skel": "buleisite\/buleisite.skel",
                     "atlas": "buleisite\/buleisite.atlas"
-                }
+                },
+                "spine_painting": "buleisite\/config.json"
             },
             {
                 "code": "buleisite_2",

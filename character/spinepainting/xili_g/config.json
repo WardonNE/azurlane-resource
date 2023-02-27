@@ -1,0 +1,9 @@
+{
+    "layers": [
+        {
+            "type": "spine",
+            "skel": "xili_g.skel",
+            "atlas": "xili_g.atlas"
+        }
+    ]
+}

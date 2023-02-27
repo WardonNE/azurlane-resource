@@ -1,0 +1,9 @@
+{
+    "layers": [
+        {
+            "type": "xinzexi",
+            "skel": "xinzexi.skel",
+            "atlas": "xinzexi.atlas"
+        }
+    ]
+}

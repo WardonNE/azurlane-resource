@@ -1,0 +1,9 @@
+{
+    "layers": [
+        {
+            "type": "spine",
+            "skel": "deleike.skel",
+            "atlas": "deleike.atlas"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "layers": [
+        {
+            "type": "spine",
+            "skel": "pulimaosi_B.skel",
+            "atlas": "pulimaosi_B.atlas"
+        },
+        {
+            "type": "spine",
+            "skel": "pulimaosi_M.skel",
+            "atlas": "pulimaosi_M.atlas"
+        },
+        {
+            "type": "spine",
+            "skel": "pulimaosi_T.skel",
+            "atlas": "pulimaosi_T.atlas"
+        }
+    ]
+}

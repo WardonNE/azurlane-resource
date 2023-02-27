@@ -1,0 +1,13 @@
+
+yixian_2B.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-25
+  rotate: false
+  xy: 2, 2
+  size: 2365, 1939
+  orig: 2365, 1939
+  offset: 0, 0
+  index: -1

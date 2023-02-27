@@ -1,0 +1,14 @@
+{
+    "layers": [
+        {
+            "type": "spine",
+            "skel": "xinnongB.skel",
+            "atlas": "xinnongB.atlas"
+        },
+        {
+            "type": "spine",
+            "skel": "xinnongT.skel",
+            "atlas": "xinnongT.atlas"
+        }
+    ]
+}

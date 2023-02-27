@@ -1,0 +1,14 @@
+{
+    "layers": [
+        {
+            "type": "spine",
+            "skel": "daofengB.skel",
+            "atlas": "daofengB.atlas"
+        },
+        {
+            "type": "spine",
+            "skel": "daofengT.skel",
+            "atlas": "daofengT.atlas"
+        }
+    ]
+}

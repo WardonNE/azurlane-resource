@@ -1,0 +1,9 @@
+{
+    "layers": [
+        {
+            "type": "spine",
+            "skel": "yanzhan_g.skel",
+            "atlas": "yanzhan_g.atlas"
+        }
+    ]
+}

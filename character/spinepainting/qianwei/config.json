@@ -1,0 +1,14 @@
+{
+    "layers": [
+        {
+            "type": "spine",
+            "skel": "qianweiB.skel",
+            "atlas": "qianweiB.atlas"
+        },
+        {
+            "type": "spine",
+            "skel": "qianweiT.skel",
+            "atlas": "qianweiT.atlas"
+        }
+    ]
+}
