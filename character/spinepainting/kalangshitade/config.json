@@ -2,7 +2,15 @@
     "layers": [
         {
             "type": "image",
-            "texture": "kalangshitade-BG.png"
+            "texture": "kalangshitade-BG.png",
+            "size": {
+                "x": 3263, 
+                "y": 2081
+            },
+            "offset": {
+                "x": -109, 
+                "y": 640
+            }
         },
         {
             "type": "spine",
