@@ -1,0 +1,14 @@
+{
+    "layers": [
+        {
+            "type": "spine",
+            "skel": "yuanchouB.skel",
+            "atlas": "yuanchouB.atlas"
+        },
+        {
+            "type": "spine",
+            "skel": "yuanchouT.skel",
+            "atlas": "yuanchouT.atlas"
+        }
+    ]
+}

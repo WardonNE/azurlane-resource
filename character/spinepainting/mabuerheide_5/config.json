@@ -1,0 +1,14 @@
+{
+    "layers": [
+        {
+            "type": "spine",
+            "skel": "mabuerheide_5B.skel",
+            "atlas": "mabuerheide_5B.atlas"
+        },
+        {
+            "type": "spine",
+            "skel": "mabuerheide_5T.skel",
+            "atlas": "mabuerheide_5T.atlas"
+        }
+    ]
+}

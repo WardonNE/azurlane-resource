@@ -3344,6 +3344,26 @@
                     "skel": "mabuerheide_4\/mabuerheide_4.skel",
                     "atlas": "mabuerheide_4\/mabuerheide_4.atlas"
                 }
+            },
+            {
+                "code": "mabuerheide_5",
+                "name": "雨天的非偶然相遇?",
+                "avatar": "mabuerheide_5.png",
+                "painting": "mabuerheide_5\/mabuerheide_5.png",
+                "faces": [
+                    "mabuerheide_5\/1.png",
+                    "mabuerheide_5\/2.png",
+                    "mabuerheide_5\/3.png",
+                    "mabuerheide_5\/4.png",
+                    "mabuerheide_5\/5.png",
+                    "mabuerheide_5\/6.png"
+                ],
+                "face_rect": "mabuerheide_5.json",
+                "spine": {
+                    "skel": "mabuerheide_5\/mabuerheide_5.skel",
+                    "atlas": "mabuerheide_5\/mabuerheide_5.atlas"
+                },
+                "spine_painting": "mabuerheide_5\/config.json"
             }
         ]
     },
@@ -8116,6 +8136,75 @@
                     "skel": "yanusi_3\/yanusi_3.skel",
                     "atlas": "yanusi_3\/yanusi_3.atlas"
                 }
+            },
+            {
+                "code": "yanusi_4",
+                "name": "踌躇的换衣时间",
+                "avatar": "yanusi_4.png",
+                "painting": "yanusi_4\/yanusi_4.png",
+                "faces": [
+                    "yanusi_4\/1.png",
+                    "yanusi_4\/2.png",
+                    "yanusi_4\/3.png",
+                    "yanusi_4\/4.png",
+                    "yanusi_4\/5.png",
+                    "yanusi_4\/6.png"
+                ],
+                "face_rect": "yanusi_4.json",
+                "spine": {
+                    "skel": "yanusi_4\/yanusi_4.skel",
+                    "atlas": "yanusi_4\/yanusi_4.atlas"
+                },
+                "spine_painting": "yanusi_4\/config.json"
+            }
+        ]
+    },
+    {
+        "code": "yingxiong",
+        "name": "英雄",
+        "avatar": "yingxiong.png",
+        "type": 1,
+        "rarity": 4,
+        "nationality": 2,
+        "skins": [
+            {
+                "code": "yingxiong",
+                "name": "英雄",
+                "avatar": "yingxiong.png",
+                "painting": "yingxiong\/yingxiong.png",
+                "faces": [
+                    "yingxiong\/1.png",
+                    "yingxiong\/2.png",
+                    "yingxiong\/3.png",
+                    "yingxiong\/4.png",
+                    "yingxiong\/5.png"
+                ],
+                "face_rect": "yingxiong.json",
+                "spine": {
+                    "skel": "yingxiong\/yingxiong.skel",
+                    "atlas": "yingxiong\/yingxiong.atlas"
+                }
+            },
+            {
+                "code": "yingxiong_2",
+                "name": "邻座的小恶魔",
+                "avatar": "yingxiong_2.png",
+                "painting": "yingxiong_2\/yingxiong_2.png",
+                "faces": [
+                    "yingxiong_2\/1.png",
+                    "yingxiong_2\/2.png",
+                    "yingxiong_2\/3.png",
+                    "yingxiong_2\/4.png",
+                    "yingxiong_2\/5.png",
+                    "yingxiong_2\/6.png",
+                    "yingxiong_2\/7.png",
+                    "yingxiong_2\/8.png"
+                ],
+                "face_rect": "yingxiong_2.json",
+                "spine": {
+                    "skel": "yingxiong_2\/yingxiong_2.skel",
+                    "atlas": "yingxiong_2\/yingxiong_2.atlas"
+                }
             }
         ]
     },
@@ -9811,6 +9900,58 @@
         ]
     },
     {
+        "code": "sikula",
+        "name": "斯库拉",
+        "avatar": "sikula.png",
+        "type": 2,
+        "rarity": 5,
+        "nationality": 2,
+        "skins": [
+            {
+                "code": "sikula",
+                "name": "斯库拉",
+                "avatar": "sikula.png",
+                "painting": "sikula\/sikula.png",
+                "faces": [
+                    "sikula\/1.png",
+                    "sikula\/2.png",
+                    "sikula\/3.png",
+                    "sikula\/4.png",
+                    "sikula\/5.png",
+                    "sikula\/6.png",
+                    "sikula\/7.png",
+                    "sikula\/8.png",
+                    "sikula\/9.png"
+                ],
+                "face_rect": "sikula.json",
+                "spine": {
+                    "skel": "sikula\/sikula.skel",
+                    "atlas": "sikula\/sikula.atlas"
+                }
+            },
+            {
+                "code": "sikula_2",
+                "name": "放学后的密谈？",
+                "avatar": "sikula_2.png",
+                "painting": "sikula_2\/sikula_2.png",
+                "faces": [
+                    "sikula_2\/1.png",
+                    "sikula_2\/2.png",
+                    "sikula_2\/3.png",
+                    "sikula_2\/4.png",
+                    "sikula_2\/5.png",
+                    "sikula_2\/6.png",
+                    "sikula_2\/7.png"
+                ],
+                "face_rect": "sikula_2.json",
+                "spine": {
+                    "skel": "sikula_2\/sikula_2.skel",
+                    "atlas": "sikula_2\/sikula_2.atlas"
+                }
+            }
+        ]
+    },
+    {
         "code": "lundun",
         "name": "伦敦",
         "avatar": "lundun.png",
@@ -11079,6 +11220,59 @@
         ]
     },
     {
+        "code": "huangjiaxiangshu",
+        "name": "皇家橡树",
+        "avatar": "huangjiaxiangshu.png",
+        "type": 5,
+        "rarity": 5,
+        "nationality": 2,
+        "skins": [
+            {
+                "code": "huangjiaxiangshu",
+                "name": "皇家橡树",
+                "avatar": "huangjiaxiangshu.png",
+                "painting": "huangjiaxiangshu\/huangjiaxiangshu.png",
+                "faces": [
+                    "huangjiaxiangshu\/1.png",
+                    "huangjiaxiangshu\/2.png",
+                    "huangjiaxiangshu\/3.png",
+                    "huangjiaxiangshu\/4.png",
+                    "huangjiaxiangshu\/5.png",
+                    "huangjiaxiangshu\/6.png",
+                    "huangjiaxiangshu\/7.png",
+                    "huangjiaxiangshu\/8.png",
+                    "huangjiaxiangshu\/9.png"
+                ],
+                "face_rect": "huangjiaxiangshu.json",
+                "spine": {
+                    "skel": "huangjiaxiangshu\/huangjiaxiangshu.skel",
+                    "atlas": "huangjiaxiangshu\/huangjiaxiangshu.atlas"
+                }
+            },
+            {
+                "code": "huangjiaxiangshu_2",
+                "name": "忧郁少女想要逃避",
+                "avatar": "huangjiaxiangshu_2.png",
+                "painting": "huangjiaxiangshu_2\/huangjiaxiangshu_2.png",
+                "faces": [
+                    "huangjiaxiangshu_2\/1.png",
+                    "huangjiaxiangshu_2\/2.png",
+                    "huangjiaxiangshu_2\/3.png",
+                    "huangjiaxiangshu_2\/4.png",
+                    "huangjiaxiangshu_2\/5.png",
+                    "huangjiaxiangshu_2\/6.png",
+                    "huangjiaxiangshu_2\/7.png",
+                    "huangjiaxiangshu_2\/8.png"
+                ],
+                "face_rect": "huangjiaxiangshu_2.json",
+                "spine": {
+                    "skel": "huangjiaxiangshu_2\/huangjiaxiangshu_2.skel",
+                    "atlas": "huangjiaxiangshu_2\/huangjiaxiangshu_2.atlas"
+                }
+            }
+        ]
+    },
+    {
         "code": "jingjishen",
         "name": "竞技神",
         "avatar": "jingjishen.png",
@@ -11110,6 +11304,54 @@
                 "spine": {
                     "skel": "jingjishen_g\/jingjishen_g.skel",
                     "atlas": "jingjishen_g\/jingjishen_g.atlas"
+                }
+            }
+        ]
+    },
+    {
+        "code": "baiyanjuren",
+        "name": "百眼巨人",
+        "avatar": "baiyanjuren.png",
+        "type": 6,
+        "rarity": 4,
+        "nationality": 2,
+        "skins": [
+            {
+                "code": "baiyanjuren",
+                "name": "百眼巨人",
+                "avatar": "baiyanjuren.png",
+                "painting": "baiyanjuren\/baiyanjuren.png",
+                "faces": [
+                    "baiyanjuren\/1.png",
+                    "baiyanjuren\/2.png",
+                    "baiyanjuren\/3.png",
+                    "baiyanjuren\/4.png",
+                    "baiyanjuren\/5.png",
+                    "baiyanjuren\/6.png"
+                ],
+                "face_rect": "baiyanjuren.json",
+                "spine": {
+                    "skel": "baiyanjuren\/baiyanjuren.skel",
+                    "atlas": "baiyanjuren\/baiyanjuren.atlas"
+                }
+            },
+            {
+                "code": "baiyanjuren_2",
+                "name": "学园之眠不觉晓",
+                "avatar": "baiyanjuren_2.png",
+                "painting": "baiyanjuren_2\/baiyanjuren_2.png",
+                "faces": [
+                    "baiyanjuren_2\/1.png",
+                    "baiyanjuren_2\/2.png",
+                    "baiyanjuren_2\/3.png",
+                    "baiyanjuren_2\/4.png",
+                    "baiyanjuren_2\/5.png",
+                    "baiyanjuren_2\/6.png"
+                ],
+                "face_rect": "baiyanjuren_2.json",
+                "spine": {
+                    "skel": "baiyanjuren_2\/baiyanjuren_2.skel",
+                    "atlas": "baiyanjuren_2\/baiyanjuren_2.atlas"
                 }
             }
         ]
@@ -11988,6 +12230,56 @@
                     "skel": "guangrong_3\/guangrong_3.skel",
                     "atlas": "guangrong_3\/guangrong_3.atlas"
                 }
+            }
+        ]
+    },
+    {
+        "code": "yuanchou",
+        "name": "怨仇",
+        "avatar": "yuanchou.png",
+        "type": 7,
+        "rarity": 6,
+        "nationality": 2,
+        "skins": [
+            {
+                "code": "yuanchou",
+                "name": "怨仇",
+                "avatar": "yuanchou.png",
+                "painting": "yuanchou\/yuanchou.png",
+                "faces": [
+                    "yuanchou\/1.png",
+                    "yuanchou\/2.png",
+                    "yuanchou\/3.png",
+                    "yuanchou\/4.png",
+                    "yuanchou\/5.png",
+                    "yuanchou\/6.png",
+                    "yuanchou\/7.png"
+                ],
+                "face_rect": "yuanchou.json",
+                "spine": {
+                    "skel": "yuanchou\/yuanchou.skel",
+                    "atlas": "yuanchou\/yuanchou.atlas"
+                },
+                "spine_painting": "yuanchou\/config.json"
+            },
+            {
+                "code": "yuanchou_2",
+                "name": "办公室的“意外”",
+                "avatar": "yuanchou_2.png",
+                "painting": "yuanchou_2\/yuanchou_2.png",
+                "faces": [
+                    "yuanchou_2\/1.png",
+                    "yuanchou_2\/2.png",
+                    "yuanchou_2\/3.png",
+                    "yuanchou_2\/4.png",
+                    "yuanchou_2\/5.png"
+                ],
+                "face_rect": "yuanchou_2.json",
+                "spine": {
+                    "skel": "yuanchou_2\/yuanchou_2.skel",
+                    "atlas": "yuanchou_2\/yuanchou_2.atlas"
+                },
+                "spine_painting": "yuanchou_2\/config.json"
             }
         ]
     },
@@ -14499,6 +14791,24 @@
                 "spine": {
                     "skel": "haifeng_2\/haifeng_2.skel",
                     "atlas": "haifeng_2\/haifeng_2.atlas"
+                }
+            },
+            {
+                "code": "haifeng_3",
+                "name": "渐近的步伐",
+                "avatar": "haifeng_3.png",
+                "painting": "haifeng_3\/haifeng_3.png",
+                "faces": [
+                    "haifeng_3\/1.png",
+                    "haifeng_3\/2.png",
+                    "haifeng_3\/3.png",
+                    "haifeng_3\/4.png",
+                    "haifeng_3\/5.png"
+                ],
+                "face_rect": "haifeng_3.json",
+                "spine": {
+                    "skel": "haifeng_3\/haifeng_3.skel",
+                    "atlas": "haifeng_3\/haifeng_3.atlas"
                 }
             }
         ]
@@ -21976,6 +22286,24 @@
                 "spine": {
                     "skel": "haiyinlixi_2\/haiyinlixi_2.skel",
                     "atlas": "haiyinlixi_2\/haiyinlixi_2.atlas"
+                }
+            },
+            {
+                "code": "haiyinlixi_5",
+                "name": "暗处的秘密老大？",
+                "avatar": "haiyinlixi_5.png",
+                "painting": "haiyinlixi_5\/haiyinlixi_5.png",
+                "faces": [
+                    "haiyinlixi_5\/1.png",
+                    "haiyinlixi_5\/2.png",
+                    "haiyinlixi_5\/3.png",
+                    "haiyinlixi_5\/4.png",
+                    "haiyinlixi_5\/5.png"
+                ],
+                "face_rect": "haiyinlixi_5.json",
+                "spine": {
+                    "skel": "haiyinlixi_5\/haiyinlixi_5.skel",
+                    "atlas": "haiyinlixi_5\/haiyinlixi_5.atlas"
                 }
             }
         ]
